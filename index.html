@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sport Pilot Study Bank | QueLab & SFCNM</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --primary-blue: #0d6efd;
+            --aviation-dark: #2c3e50;
+            --accent-sky: #e3f2fd;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .hero-section {
+            background: linear-gradient(135deg, var(--aviation-dark), #1a252f);
+            color: white;
+            padding: 4rem 0;
+            border-bottom: 5px solid var(--primary-blue);
+        }
+
+        .study-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: none;
+            border-radius: 12px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .study-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+
+        .icon-box {
+            font-size: 2.5rem;
+            color: var(--primary-blue);
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            margin-top: auto;
+            background-color: #f8f9fa;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .logo-placeholder {
+            font-weight: 800;
+            letter-spacing: -1px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+        <div class="container">
+            <a class="navbar-brand logo-placeholder" href="#">
+                <i class="fa-solid fa-plane-up text-primary"></i> SportPilotStudy
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/sportpilotstudybank/sportpilotstudybank.github.io" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero-section text-center">
+        <div class="container">
+            <h1 class="display-4 fw-bold mb-3">Unlock the Sky</h1>
+            <p class="lead mb-4 text-light opacity-75">
+                Open source study tools for the FAA Sport Pilot Certificate. <br>
+                Built by makers, for future pilots.
+            </p>
+            <a href="#study-modes" class="btn btn-primary btn-lg px-5 py-3 rounded-pill fw-bold shadow">
+                Start Studying
+            </a>
+        </div>
+    </header>
+
+    <section id="study-modes" class="py-5 bg-light">
+        <div class="container">
+            <div class="row text-center mb-5">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="fw-bold">Choose Your Study Mode</h2>
+                    <p class="text-muted">Master the knowledge modules at your own pace, inspired by the proven methods of HamStudy.org.</p>
+                </div>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card study-card h-100 p-4 text-center">
+                        <div class="card-body">
+                            <div class="icon-box"><i class="fa-solid fa-layer-group"></i></div>
+                            <h4 class="card-title fw-bold">Flashcards</h4>
+                            <p class="card-text text-muted">Intelligent repetition that focuses on the questions you miss. The fastest way to learn the pool.</p>
+                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Open Flashcards</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card study-card h-100 p-4 text-center">
+                        <div class="card-body">
+                            <div class="icon-box"><i class="fa-solid fa-book-open"></i></div>
+                            <h4 class="card-title fw-bold">Read Questions</h4>
+                            <p class="card-text text-muted">Browse the entire FAA question pool with correct answers highlighted. Great for initial review.</p>
+                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Browse Pool</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card study-card h-100 p-4 text-center">
+                        <div class="card-body">
+                            <div class="icon-box"><i class="fa-solid fa-stopwatch"></i></div>
+                            <h4 class="card-title fw-bold">Practice Exam</h4>
+                            <p class="card-text text-muted">Simulate the real test environment. 40 Questions. 2 hours. See if you are ready for the checkride.</p>
+                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Take Exam</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h3 class="fw-bold mb-3">Community Powered Aviation</h3>
+                    <p>
+                        The <strong>Sport Pilot Study Bank</strong> is a collaborative club project born out of the <a href="https://quelab.net/" class="text-decoration-none" target="_blank">QueLab Makerspace</a> and the <a href="https://www.sfcnm.org/" class="text-decoration-none" target="_blank">Sport Flying Club of New Mexico</a>.
+                    </p>
+                    <p>
+                        Our mission aligns with the open-access philosophy of <a href="https://hamstudy.org" class="text-decoration-none" target="_blank">HamStudy.org</a>: providing accessible, high-quality learning modules to help individuals achieve their certifications and safe flight goals.
+                    </p>
+                    <ul class="list-unstyled mt-4">
+                        <li class="mb-2"><i class="fa-solid fa-check text-success me-2"></i> aligned with current FAA Airman Certification Standards</li>
+                        <li class="mb-
