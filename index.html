@@ -24,27 +24,8 @@
         .hero-section {
             background: linear-gradient(135deg, var(--aviation-dark), #1a252f);
             color: white;
-            padding: 4rem 0;
+            padding: 6rem 0; /* Increased padding since we removed the middle section */
             border-bottom: 5px solid var(--primary-blue);
-        }
-
-        .study-card {
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border: none;
-            border-radius: 12px;
-            background: #fff;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-        }
-
-        .study-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-        }
-
-        .icon-box {
-            font-size: 2.5rem;
-            color: var(--primary-blue);
-            margin-bottom: 1rem;
         }
 
         footer {
@@ -86,57 +67,11 @@
                 Open source study tools for the FAA Sport Pilot Certificate. <br>
                 Built by makers, for future pilots.
             </p>
-            <a href="#study-modes" class="btn btn-primary btn-lg px-5 py-3 rounded-pill fw-bold shadow">
-                Start Studying
+            <a href="#about" class="btn btn-primary btn-lg px-5 py-3 rounded-pill fw-bold shadow">
+                Learn More
             </a>
         </div>
     </header>
-
-    <section id="study-modes" class="py-5 bg-light">
-        <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 mx-auto">
-                    <h2 class="fw-bold">Choose Your Study Mode</h2>
-                    <p class="text-muted">Master the knowledge modules at your own pace, inspired by the proven methods of HamStudy.org.</p>
-                </div>
-            </div>
-
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <div class="card study-card h-100 p-4 text-center">
-                        <div class="card-body">
-                            <div class="icon-box"><i class="fa-solid fa-layer-group"></i></div>
-                            <h4 class="card-title fw-bold">Flashcards</h4>
-                            <p class="card-text text-muted">Intelligent repetition that focuses on the questions you miss. The fastest way to learn the pool.</p>
-                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Open Flashcards</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card study-card h-100 p-4 text-center">
-                        <div class="card-body">
-                            <div class="icon-box"><i class="fa-solid fa-book-open"></i></div>
-                            <h4 class="card-title fw-bold">Read Questions</h4>
-                            <p class="card-text text-muted">Browse the entire FAA question pool with correct answers highlighted. Great for initial review.</p>
-                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Browse Pool</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card study-card h-100 p-4 text-center">
-                        <div class="card-body">
-                            <div class="icon-box"><i class="fa-solid fa-stopwatch"></i></div>
-                            <h4 class="card-title fw-bold">Practice Exam</h4>
-                            <p class="card-text text-muted">Simulate the real test environment. 40 Questions. 2 hours. See if you are ready for the checkride.</p>
-                            <a href="#" class="btn btn-outline-primary w-100 mt-3 stretched-link">Take Exam</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section id="about" class="py-5">
         <div class="container">
@@ -149,6 +84,9 @@
                     <p>
                         Our mission aligns with the open-access philosophy of <a href="https://hamstudy.org" class="text-decoration-none" target="_blank">HamStudy.org</a>: providing accessible, high-quality learning modules to help individuals achieve their certifications and safe flight goals.
                     </p>
+                    <p class="mt-3">
+                        This project is currently under active development. We are building open-source question banks and flashcard tools to assist student pilots in passing their FAA written exams.
+                    </p>
                     <ul class="list-unstyled mt-4">
                         <li class="mb-2"><i class="fa-solid fa-check text-success me-2"></i> Aligned with current FAA Airman Certification Standards</li>
                         <li class="mb-2"><i class="fa-solid fa-check text-success me-2"></i> Completely Free & Open Source</li>
@@ -159,6 +97,11 @@
                     <div class="p-5 bg-light rounded-3 border border-dashed">
                         <i class="fa-solid fa-users-gear fa-5x text-secondary mb-3"></i>
                         <p class="h5 text-muted">A collaboration of Makers & Pilots</p>
+                        <hr class="w-50 mx-auto my-3">
+                        <p class="small text-muted">Contributions Welcome</p>
+                        <a href="https://github.com/sportpilotstudybank/sportpilotstudybank.github.io" class="btn btn-outline-dark btn-sm">
+                            <i class="fa-brands fa-github"></i> View Project Repo
+                        </a>
                     </div>
                 </div>
             </div>
