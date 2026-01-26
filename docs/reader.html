@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audiobook Reader</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f8f9fa; color: #333; }
+        
+        /* Controls Area */
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        select { padding: 10px; font-size: 16px; border-radius: 4px; border: 1px solid #ccc; }
+        audio { width: 100%; }
+
+        /* Text Display */
+        #content-display {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            font-size: 1.25rem;
+            line-height: 1.8;
+            min-height: 200px;
+        }
+
+        .word {
+            cursor: pointer;
+            padding: 2px 0;
+            border-radius: 3px;
+            transition: background 0.1s;
+        }
+        
+        .word:hover { background-color: #eee; }
+
+        .highlight {
+            background-color: #fff176; /* Yellow highlight */
+            color: #000;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="controls">
+        <label for="chapter-select"><strong>Select Section:</strong></label>
+        <select id="chapter-select" onchange="loadChapter(this.value)">
+            <option value="Ch01-Ch05">Chapters 01 - 05</option>
+            <option value="Ch06-Ch11">Chapters 06 - 11</option>
+            <option value="Ch12-Ch17">Chapters 12 - 17</option>
+        </select>
+
+        <audio id="audio-player" controls>
+            Your browser does not support audio.
+        </audio>
+    </div>
+
+    <div id="content-display">Select a chapter to begin...</div>
+
+    <script>
+        const audioPlayer = document.getElementById('audio-player');
+        const contentDisplay = document.getElementById('content-display');
+        let wordData = [];
+
+        // 1. Load Data
+        async function loadChapter(baseName) {
+            contentDisplay.innerHTML = "<p>Loading text and audio...</p>";
+            
+            try {
+                // Fetch JSON from the 'audio' subdirectory
+                const response = await fetch(`audio/${baseName}.json`);
+                if (!response.ok) throw new Error("File not found");
+                
+                const data = await response.json();
+                wordData = data.words;
+
+                // Update Audio Source
+                audioPlayer.src = `audio/${data.metadata.audio_file}`;
+                
+                // Render Text
+                renderText();
+                
+            } catch (e) {
+                contentDisplay.innerHTML = `<p style="color:red">Error loading chapter: ${e.message}<br>Has the Github Action finished running yet?</p>`;
+            }
+        }
+
+        // 2. Render Text
+        function renderText() {
+            contentDisplay.innerHTML = wordData.map((w, index) => {
+                return `<span id="word-${index}" class="word" onclick="seekAudio(${w.start})">${w.word}</span>`;
+            }).join(' '); 
+        }
+
+        // 3. Sync Logic
+        audioPlayer.addEventListener('timeupdate', () => {
+            const currentTime = audioPlayer.currentTime;
+            
+            // Remove old highlight
+            const current = document.querySelector('.highlight');
+            if (current) current.classList.remove('highlight');
+
+            // Find new word
+            const activeWordIndex = wordData.findIndex(w => currentTime >= w.start && currentTime <= w.end);
+
+            if (activeWordIndex !== -1) {
+                const el = document.getElementById(`word-${activeWordIndex}`);
+                if (el) {
+                    el.classList.add('highlight');
+                    // Auto-scroll logic (optional)
+                    // const box = contentDisplay.getBoundingClientRect();
+                    // if (el.getBoundingClientRect().top > box.bottom - 100) el.scrollIntoView({behavior: "smooth", block: "center"});
+                }
+            }
+        });
+
+        window.seekAudio = (time) => {
+            audioPlayer.currentTime = time;
+            audioPlayer.play();
+        };
+
+        // Initialize with first chapter
+        loadChapter("Ch01-Ch05");
+    </script>
+</body>
+</html>
