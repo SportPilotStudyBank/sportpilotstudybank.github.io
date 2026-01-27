@@ -5,15 +5,14 @@ import re
 import markdown
 from bs4 import BeautifulSoup
 import edge_tts
-from xml.sax.saxutils import escape
 
 # --- CONFIGURATION ---
 INPUT_FOLDER = "docs"
 OUTPUT_FOLDER = "docs/audio"
 VOICE = "en-US-AriaNeural"
 
-# SPEED CONTROL (0.075 = Slower highlighting to match audio)
-SEC_PER_CHAR = 0.070
+# SPEED CONTROL (0.075 = Slower highlighting)
+SEC_PER_CHAR = 0.075 
 
 # --- PRONUNCIATION MAP ---
 PRONUNCIATION_MAP = {
@@ -31,38 +30,33 @@ PRONUNCIATION_MAP = {
     "FAA": "F-A-A", "CFR": "C-F-R", "NTSB": "N-T-S-B",
     "ICAO": "eye-kay-oh", "LSA": "L-S-A",
     "VFR": "V-F-R", "IFR": "I-F-R", "AGL": "A-G-L", "MSL": "M-S-L",
-    "IMSAFE": "im-safe"
+    "IMSAFE": "im-safe",
+    "Weight & Balance": "Weight and Balance" # Fix ampersand
 }
 
-# Pause Durations
-PAUSE_SECTION = 1.2
-PAUSE_ITEM = 0.6
+# Visual Pause Durations (We simulate these in the math)
+PAUSE_SECTION = 1.0
+PAUSE_ITEM = 0.5
 
 async def generate_chapter(text, output_base):
     mp3_path = f"{output_base}.mp3"
     
-    # 1. CLEAN & SANITIZE
-    # Strip whitespace to ensure <speak> is the VERY first character
-    clean_text = text.strip()
-    safe_text = escape(clean_text)
+    # 1. TEXT PREPARATION (The Low-Tech Pause)
+    # Instead of XML code, we use punctuation.
+    # ||SECTION_PAUSE|| -> " ... " (AI waits)
+    audio_text = text.replace("||SECTION_PAUSE||", ". ")
+    audio_text = audio_text.replace("||ITEM_PAUSE||", ". ")
     
-    # 2. INJECT PAUSES
-    ssml_body = safe_text.replace("||SECTION_PAUSE||", f'<break time="{int(PAUSE_SECTION*1000)}ms"/>')
-    ssml_body = ssml_body.replace("||ITEM_PAUSE||", f'<break time="{int(PAUSE_ITEM*1000)}ms"/>')
-    
-    # 3. CONSTRUCT SSML (Using Double Quotes and standard header)
-    # Note: We strip() the final string one last time to be safe
-    final_ssml = f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US"><voice name="{VOICE}">{ssml_body}</voice></speak>'.strip()
-    
-    # 4. SEND TO EDGE-TTS
-    # The library detects SSML automatically ONLY if it starts with <speak>
-    communicate = edge_tts.Communicate(final_ssml, VOICE)
+    # 2. GENERATE AUDIO (Clean Text Mode)
+    # We send plain text. The AI cannot "read the code" because there is no code.
+    communicate = edge_tts.Communicate(audio_text, VOICE)
     await communicate.save(mp3_path)
     
-    # 5. GENERATE TIMESTAMPS (Visual Logic)
+    # 3. GENERATE TIMESTAMPS
     sentences_data = []
     current_time = 0.0
     
+    # We split based on the Original text so we can find the pause tokens
     raw_sentences = re.split(r'(?<=[.!?])\s+', text)
     
     for s in raw_sentences:
@@ -71,7 +65,7 @@ async def generate_chapter(text, output_base):
         pause_add = 0.0
         clean_s = s
         
-        # Calculate visual pause logic
+        # Calculate visual delay
         if "||SECTION_PAUSE||" in s:
             pause_add += PAUSE_SECTION
             clean_s = clean_s.replace("||SECTION_PAUSE||", "").strip()
