@@ -5,15 +5,15 @@ import re
 import markdown
 from bs4 import BeautifulSoup
 import edge_tts
-from xml.sax.saxutils import escape  # <--- NEW IMPORT
+from xml.sax.saxutils import escape
 
 # --- CONFIGURATION ---
 INPUT_FOLDER = "docs"
 OUTPUT_FOLDER = "docs/audio"
 VOICE = "en-US-AriaNeural"
 
-# SPEED CONTROL: 0.075 matched your preference
-SEC_PER_CHAR = 0.075 
+# SPEED CONTROL (0.075 = Slower highlighting to match audio)
+SEC_PER_CHAR = 0.070
 
 # --- PRONUNCIATION MAP ---
 PRONUNCIATION_MAP = {
@@ -41,26 +41,27 @@ PAUSE_ITEM = 0.6
 async def generate_chapter(text, output_base):
     mp3_path = f"{output_base}.mp3"
     
-    # 1. SANITIZE TEXT (CRITICAL FIX)
-    # This prevents "&" or "<" from breaking the SSML tags
-    safe_text = escape(text)
+    # 1. CLEAN & SANITIZE
+    # Strip whitespace to ensure <speak> is the VERY first character
+    clean_text = text.strip()
+    safe_text = escape(clean_text)
     
-    # 2. Inject SSML Tags into the safe text
-    ssml_text = safe_text.replace("||SECTION_PAUSE||", f'<break time="{int(PAUSE_SECTION*1000)}ms"/>')
-    ssml_text = ssml_text.replace("||ITEM_PAUSE||", f'<break time="{int(PAUSE_ITEM*1000)}ms"/>')
+    # 2. INJECT PAUSES
+    ssml_body = safe_text.replace("||SECTION_PAUSE||", f'<break time="{int(PAUSE_SECTION*1000)}ms"/>')
+    ssml_body = ssml_body.replace("||ITEM_PAUSE||", f'<break time="{int(PAUSE_ITEM*1000)}ms"/>')
     
-    # 3. Wrap in proper SSML header
-    final_ssml = f"<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xml:lang='en-US'>{ssml_text}</speak>"
+    # 3. CONSTRUCT SSML (Using Double Quotes and standard header)
+    # Note: We strip() the final string one last time to be safe
+    final_ssml = f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US"><voice name="{VOICE}">{ssml_body}</voice></speak>'.strip()
     
+    # 4. SEND TO EDGE-TTS
+    # The library detects SSML automatically ONLY if it starts with <speak>
     communicate = edge_tts.Communicate(final_ssml, VOICE)
     await communicate.save(mp3_path)
     
-    # 4. Generate Sentence Timestamps (Using the original text for calculation)
+    # 5. GENERATE TIMESTAMPS (Visual Logic)
     sentences_data = []
     current_time = 0.0
-    
-    # Remove the tokens for the visual calculation so they don't count as words
-    # But keep the time delay logic
     
     raw_sentences = re.split(r'(?<=[.!?])\s+', text)
     
@@ -70,7 +71,7 @@ async def generate_chapter(text, output_base):
         pause_add = 0.0
         clean_s = s
         
-        # Calculate Pause Time
+        # Calculate visual pause logic
         if "||SECTION_PAUSE||" in s:
             pause_add += PAUSE_SECTION
             clean_s = clean_s.replace("||SECTION_PAUSE||", "").strip()
@@ -125,17 +126,20 @@ async def main():
         clean_text = clean_markdown(raw_text)
         output_base = os.path.join(OUTPUT_FOLDER, base_name)
         
-        sentences = await generate_chapter(clean_text, output_base)
-        
-        data = {
-            "metadata": {"title": base_name, "audio_file": f"{base_name}.mp3"},
-            "sentences": sentences
-        }
-        
-        with open(f"{output_base}.json", 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2)
+        try:
+            sentences = await generate_chapter(clean_text, output_base)
             
-        print(f"   [+] Saved {len(sentences)} sentences.")
+            data = {
+                "metadata": {"title": base_name, "audio_file": f"{base_name}.mp3"},
+                "sentences": sentences
+            }
+            
+            with open(f"{output_base}.json", 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2)
+                
+            print(f"   [+] Saved {len(sentences)} sentences.")
+        except Exception as e:
+            print(f"   [!] Error: {e}")
 
 if __name__ == "__main__":
     asyncio.run(main())
