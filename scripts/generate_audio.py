@@ -14,7 +14,7 @@ VOICE = "en-US-AriaNeural"
 # SPEED CONTROL (0.075 = Matches Aria's speaking rate)
 SEC_PER_CHAR = 0.075 
 
-# --- PRONUNCIATION MAP ---
+# --- PRONUNCIATION MAP (Only for Audio!) ---
 PRONUNCIATION_MAP = {
     "METAR": "mee-tar", "METARs": "mee-tars",
     "TAF": "taff", "TAFs": "taffs",
@@ -34,51 +34,112 @@ PRONUNCIATION_MAP = {
     "Weight & Balance": "Weight and Balance"
 }
 
-# Visual Pauses (We simulate the time, but use natural pauses for audio)
+# Pauses (Simulated in time)
 PAUSE_SECTION = 1.0
 PAUSE_ITEM = 0.5
 
-async def generate_chapter(text, output_base):
-    mp3_path = f"{output_base}.mp3"
+def clean_markdown_base(md_text):
+    """
+    Step 1: Convert Markdown to plain text structure.
+    We inject tokens to mark where headers/bullets were.
+    """
+    html = markdown.markdown(md_text)
+    soup = BeautifulSoup(html, "html.parser")
     
-    # --- AUDIO GENERATION (The "Plain Text" Fix) ---
-    # We strip all "tokens" and replace them with simple punctuation.
-    # The AI treats ". " as a natural pause. It cannot read code because there is no code.
-    audio_text = text.replace("||SECTION_PAUSE||", ". ")
+    # Inject tokens so we know where to pause
+    for header in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5']):
+        header.append(" ||SECTION_PAUSE|| ")
+        
+    for li in soup.find_all('li'):
+        li.append(" ||ITEM_PAUSE|| ")
+
+    # Get text
+    text = soup.get_text(separator=' ')
+    
+    # Cleanup whitespace
+    return ' '.join(text.split())
+
+def prepare_for_audio(text):
+    """
+    Step 2: Track A - Make it ready for the ROBOT.
+    - Remove hashtags/symbols
+    - Apply Pronunciation Map
+    - Turn tokens into punctuation for natural pauses
+    """
+    audio_text = text
+    
+    # 1. Apply Pronunciations
+    for word, phonetic in PRONUNCIATION_MAP.items():
+        # Replace word with phonetic version (e.g. "NOTAM" -> "no-tam")
+        audio_text = audio_text.replace(f" {word} ", f" {phonetic} ")
+        audio_text = audio_text.replace(f" {word}.", f" {phonetic}.")
+        audio_text = audio_text.replace(f" {word},", f" {phonetic},")
+
+    # 2. Replace Tokens with Periods (Natural Pauses)
+    audio_text = audio_text.replace("||SECTION_PAUSE||", ". ")
     audio_text = audio_text.replace("||ITEM_PAUSE||", ". ")
     
-    # Send purely plain text
+    # 3. CRITICAL: Remove any remaining Markdown symbols the robot reads
+    audio_text = audio_text.replace("#", "")
+    audio_text = audio_text.replace("*", "")
+    audio_text = audio_text.replace("-", "")
+    
+    return audio_text
+
+def prepare_for_display(text):
+    """
+    Step 3: Track B - Make it ready for the HUMAN.
+    - Keep original spelling (NOTAM)
+    - Remove tokens completely (don't show them)
+    """
+    display_text = text
+    
+    # Just remove the tokens. Don't replace them with text.
+    # We do NOT apply the pronunciation map here.
+    display_text = display_text.replace("||SECTION_PAUSE||", "")
+    display_text = display_text.replace("||ITEM_PAUSE||", "")
+    
+    return display_text
+
+async def generate_chapter(base_text, output_base):
+    mp3_path = f"{output_base}.mp3"
+    
+    # --- TRACK A: AUDIO ---
+    audio_text = prepare_for_audio(base_text)
     communicate = edge_tts.Communicate(audio_text, VOICE)
     await communicate.save(mp3_path)
     
-    # --- VISUAL GENERATION (The Math) ---
+    # --- TRACK B: VISUALS ---
+    # We use the BASE text (with tokens) to calculate timing, 
+    # but we save the CLEAN text to the JSON.
     sentences_data = []
     current_time = 0.0
     
-    # We use the ORIGINAL 'text' (with tokens) to calculate the visual timing
-    raw_sentences = re.split(r'(?<=[.!?])\s+', text)
+    # Split using the BASE text so we don't lose the pause tokens yet
+    raw_sentences = re.split(r'(?<=[.!?])\s+', base_text)
     
     for s in raw_sentences:
         if not s.strip(): continue
 
         pause_add = 0.0
-        clean_s = s
         
-        # Detect tokens, add time to the CLOCK, but remove text from the SCREEN
+        # Calculate timing based on tokens
         if "||SECTION_PAUSE||" in s:
             pause_add += PAUSE_SECTION
-            clean_s = clean_s.replace("||SECTION_PAUSE||", "").strip()
             
         if "||ITEM_PAUSE||" in s:
             pause_add += PAUSE_ITEM
-            clean_s = clean_s.replace("||ITEM_PAUSE||", "").strip()
-            
+
+        # Create the Human-Readable version for this sentence
+        clean_s = prepare_for_display(s).strip()
+        
         if not clean_s: continue 
             
+        # Estimate duration based on the DISPLAY text length
         duration = len(clean_s) * SEC_PER_CHAR
         
         sentences_data.append({
-            "text": clean_s,
+            "text": clean_s,  # This will say "NOTAM", not "no-tam"
             "start": round(current_time, 2),
             "end": round(current_time + duration, 2)
         })
@@ -86,25 +147,6 @@ async def generate_chapter(text, output_base):
         current_time += duration + pause_add
 
     return sentences_data
-
-def clean_markdown(md_text):
-    html = markdown.markdown(md_text)
-    soup = BeautifulSoup(html, "html.parser")
-    
-    # Inject tokens into headers and lists
-    for header in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5']):
-        header.append(" ||SECTION_PAUSE|| ")
-    for li in soup.find_all('li'):
-        li.append(" ||ITEM_PAUSE|| ")
-
-    text = soup.get_text(separator=' ')
-    clean_text = ' '.join(text.split())
-    
-    for word, phonetic in PRONUNCIATION_MAP.items():
-        clean_text = clean_text.replace(f" {word} ", f" {phonetic} ")
-        clean_text = clean_text.replace(f" {word}.", f" {phonetic}.")
-        
-    return clean_text
 
 async def main():
     if not os.path.exists(OUTPUT_FOLDER): os.makedirs(OUTPUT_FOLDER)
@@ -117,11 +159,13 @@ async def main():
         with open(os.path.join(INPUT_FOLDER, filename), 'r', encoding='utf-8') as f:
             raw_text = f.read()
             
-        clean_text = clean_markdown(raw_text)
+        # 1. Initial Markdown Cleaning (Shared)
+        base_text = clean_markdown_base(raw_text)
+        
         output_base = os.path.join(OUTPUT_FOLDER, base_name)
         
         try:
-            sentences = await generate_chapter(clean_text, output_base)
+            sentences = await generate_chapter(base_text, output_base)
             
             data = {
                 "metadata": {"title": base_name, "audio_file": f"{base_name}.mp3"},
