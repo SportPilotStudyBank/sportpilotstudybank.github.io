@@ -10,7 +10,7 @@ import edge_tts
 INPUT_FOLDER = "docs"
 OUTPUT_FOLDER = "docs/audio"
 VOICE = "en-US-AriaNeural"
-SEC_PER_CHAR = 0.065 
+SEC_PER_CHAR = 0.075
 
 # --- PRONUNCIATION MAP ---
 PRONUNCIATION_MAP = {
