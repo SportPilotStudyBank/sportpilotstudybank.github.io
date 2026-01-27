@@ -7,1927 +7,1927 @@
     {
       "text": "---  PHAK Chapter 6: Flight Controls (Sport Pilot Filter) Introduction  This chapter focuses on the flight control systems a pilot uses to control the forces of flight and the aircraft\u2019s direction and attitude.",
       "start": 0.0,
-      "end": 15.75
+      "end": 14.7
     },
     {
       "text": "The most basic flight control system designs are mechanical and date back to early aircraft.",
-      "start": 16.95,
-      "end": 23.85
+      "start": 15.9,
+      "end": 22.34
     },
     {
       "text": "They operate with a collection of mechanical parts, such as rods, cables, pulleys, and sometimes chains to transmit the forces of the flight deck controls to the control surfaces.",
-      "start": 23.85,
-      "end": 37.27
+      "start": 22.34,
+      "end": 34.87
     },
     {
       "text": "Mechanical flight control systems are still used today in small general and sport category aircraft where the aerodynamic forces are not excessive.",
-      "start": 37.27,
-      "end": 48.3
+      "start": 34.87,
+      "end": 45.16
     },
     {
       "text": "Primary Flight Controls  Aircraft flight control systems consist of primary and secondary systems.",
-      "start": 48.3,
-      "end": 55.65
+      "start": 45.16,
+      "end": 52.02
     },
     {
       "text": "The ailerons, elevator (or stabilator), and rudder constitute the primary control system and are required to control an aircraft safely during flight.",
-      "start": 56.85,
-      "end": 68.1
+      "start": 53.22,
+      "end": 63.72
     },
     {
       "text": "Wing flaps, leading edge devices, spoilers, and trim systems constitute the secondary control system and improve the performance characteristics of the airplane or relieve the pilot of excessive control forces.",
-      "start": 68.1,
-      "end": 83.85
+      "start": 63.72,
+      "end": 78.42
     },
     {
       "text": "Ailerons  Ailerons control roll about the longitudinal axis.",
-      "start": 83.85,
-      "end": 88.35
+      "start": 78.42,
+      "end": 82.62
     },
     {
       "text": "The ailerons are attached to the outboard trailing edge of each wing and move in the opposite direction from each other.",
-      "start": 89.55,
-      "end": 98.55
+      "start": 83.82,
+      "end": 92.22
     },
     {
       "text": "Ailerons are connected by cables, bellcranks, pulleys, and/or push-pull tubes to a control wheel or control stick.",
-      "start": 98.55,
-      "end": 107.1
+      "start": 92.22,
+      "end": 100.2
     },
     {
       "text": "Adverse Yaw: Since the downward deflected ay-luh-ron produces more lift as evidenced by the wing raising, it also produces more drag.",
-      "start": 107.1,
-      "end": 117.07
+      "start": 100.2,
+      "end": 109.51
     },
     {
       "text": "This added drag causes the wing to slow down slightly.",
-      "start": 117.07,
-      "end": 121.12
+      "start": 109.51,
+      "end": 113.29
     },
     {
       "text": "This results in the aircraft yawing toward the wing which had experienced an increase in lift (and drag).",
-      "start": 121.12,
-      "end": 129.0
+      "start": 113.29,
+      "end": 120.64
     },
     {
       "text": "From the pilot\u2019s perspective, the yaw is opposite the direction of the bank.",
-      "start": 129.0,
-      "end": 134.7
+      "start": 120.64,
+      "end": 125.96
     },
     {
       "text": "The adverse yaw is a result of differential drag and the slight difference in the velocity of the left and right wings.",
-      "start": 134.7,
-      "end": 143.62
+      "start": 125.96,
+      "end": 134.29
     },
     {
       "text": "Differential Ailerons: With differential ailerons, one ay-luh-ron is raised a greater distance than the other ay-luh-ron and is lowered for a given movement of the control wheel or control stick.",
-      "start": 143.62,
-      "end": 158.25
+      "start": 134.29,
+      "end": 147.94
     },
     {
       "text": "This produces an increase in drag on the descending wing.",
-      "start": 158.85,
-      "end": 163.12
+      "start": 148.54,
+      "end": 152.53
     },
     {
       "text": "The greater drag results from deflecting the ay-luh-ron on the descending wing to a greater angle than the ay-luh-ron on the rising wing.",
-      "start": 163.12,
-      "end": 173.4
+      "start": 152.53,
+      "end": 162.12
     },
     {
       "text": "Frise-Type Ailerons: The ay-luh-ron that is being raised pivots on an offset hinge.",
-      "start": 173.4,
-      "end": 179.62
+      "start": 162.12,
+      "end": 167.93
     },
     {
       "text": "This projects the leading edge of the ay-luh-ron into the airflow and creates drag.",
-      "start": 180.22,
-      "end": 186.45
+      "start": 168.53,
+      "end": 174.34
     },
     {
       "text": "It helps equalize the drag created by the lowered ay-luh-ron on the opposite wing and reduces adverse yaw.",
-      "start": 186.45,
-      "end": 194.4
+      "start": 174.34,
+      "end": 181.76
     },
     {
       "text": "Elevator  The elevator controls pitch about the lateral axis.",
-      "start": 194.4,
-      "end": 198.97
+      "start": 181.76,
+      "end": 186.03
     },
     {
       "text": "Like the ailerons on small cars, the elevator is connected to the control column in the flight deck by a series of mechanical linkages.",
-      "start": 200.77,
-      "end": 210.9
+      "start": 187.83,
+      "end": 197.28
     },
     {
       "text": "Moving the control column aft causes the elevator to move up.",
-      "start": 210.9,
-      "end": 215.47
+      "start": 197.28,
+      "end": 201.55
     },
     {
       "text": "This increases the tail-down aerodynamic force and causes the tail of the aircraft to move down and the nose to move up.",
-      "start": 215.47,
-      "end": 224.47
+      "start": 201.55,
+      "end": 209.95
     },
     {
       "text": "T-Tail: In a T-tail configuration, the elevator is above most of the effects of downwash from the propeller, as well as airflow around the fyu-suh-laaj and/or wings during normal flight conditions.",
-      "start": 224.47,
-      "end": 239.25
+      "start": 209.95,
+      "end": 223.74
     },
     {
       "text": "Stabilator: Some aircraft use a one-piece horizontal stabilizer that pivots from a central hinge point.",
-      "start": 239.25,
-      "end": 246.97
+      "start": 223.74,
+      "end": 230.95
     },
     {
       "text": "This type of design is called a stay-bill-ay-ter.",
-      "start": 247.57,
-      "end": 251.25
+      "start": 231.55,
+      "end": 234.98
     },
     {
       "text": "Stabilators are extremely sensitive to control inputs and aerodynamic loads.",
-      "start": 251.25,
-      "end": 256.95
+      "start": 234.98,
+      "end": 240.3
     },
     {
       "text": "Stabilators are equipped with antiservo tabs to decrease sensitivity.",
-      "start": 256.95,
-      "end": 262.12
+      "start": 240.3,
+      "end": 245.13
     },
     {
       "text": "Canard: A kuh-nard design utilizes the horizontal stabilizer in front of the main wings.",
-      "start": 262.12,
-      "end": 268.73
+      "start": 245.13,
+      "end": 251.29
     },
     {
       "text": "The kuh-nard actually creates lift and holds the nose up, as opposed to the aft-tail design which exerts a downward force on the tail to prevent the nose from rotating downward.",
-      "start": 269.32,
-      "end": 282.6
+      "start": 251.89,
+      "end": 264.28
     },
     {
       "text": "Rudder  The rudder controls movement of the aircraft about its vertical axis.",
-      "start": 282.6,
-      "end": 288.37
+      "start": 264.28,
+      "end": 269.67
     },
     {
       "text": "This motion is called yaw.",
-      "start": 290.17,
-      "end": 292.12
+      "start": 271.47,
+      "end": 273.29
     },
     {
       "text": "Like the other primary control surfaces, the rudder is a movable surface hinged to a fixed surface, in this case to the vertical stabilizer, or fin.",
-      "start": 292.12,
-      "end": 303.22
+      "start": 273.29,
+      "end": 283.65
     },
     {
       "text": "Moving the left or right rudder pedal controls the rudder.",
-      "start": 303.22,
-      "end": 307.57
+      "start": 283.65,
+      "end": 287.71
     },
     {
       "text": "[See Figure 6-1: Mechanical flight control system] Secondary Flight Controls  Flaps  Flaps are the most common high-lift devices used on aircraft.",
-      "start": 307.57,
-      "end": 318.52
+      "start": 287.71,
+      "end": 297.93
     },
     {
       "text": "These surfaces, which are attached to the trailing edge of the wings, increase both lift and induced drag for any given AOA.",
-      "start": 319.72,
-      "end": 329.02
+      "start": 299.13,
+      "end": 307.81
     },
     {
       "text": "Flaps allow a compromise between high cruising speed and low landing speed because they may be extended when needed and retracted into the wing\u2019s structure when not needed.",
-      "start": 329.02,
-      "end": 341.92
+      "start": 307.81,
+      "end": 319.85
     },
     {
       "text": "Plain Flaps: The simplest of the four types.",
-      "start": 341.92,
-      "end": 345.22
+      "start": 319.85,
+      "end": 322.93
     },
     {
       "text": "It increases the airfoil camber, resulting in a significant increase in the coefficient of lift CL at a given AOA.",
-      "start": 345.22,
-      "end": 353.77
+      "start": 322.93,
+      "end": 330.91
     },
     {
       "text": "At the same time, it greatly increases drag and moves the center of pressure (CP) aft on the airfoil, resulting in a nose-down pitching moment.",
-      "start": 353.77,
-      "end": 364.5
+      "start": 330.91,
+      "end": 340.92
     },
     {
       "text": "Split Flaps: Deflected from the lower surface of the airfoil and produces a slightly greater increase in lift than the plain flap.",
-      "start": 364.5,
-      "end": 374.25
+      "start": 340.92,
+      "end": 350.02
     },
     {
       "text": "More drag is created because of the turbulent air pattern produced behind the airfoil.",
-      "start": 374.85,
-      "end": 381.3
+      "start": 350.62,
+      "end": 356.64
     },
     {
       "text": "Slotted Flaps: Increase the lift coefficient significantly more than plain or split flaps.",
-      "start": 381.3,
-      "end": 388.05
+      "start": 356.64,
+      "end": 362.94
     },
     {
       "text": "On small general aviation aircraft, this is the most popular flap design.",
-      "start": 388.65,
-      "end": 394.13
+      "start": 363.54,
+      "end": 368.65
     },
     {
       "text": "When the flap is lowered, a duct forms between the flap well in the wing and the leading edge of the flap.",
-      "start": 394.13,
-      "end": 402.08
+      "start": 368.65,
+      "end": 376.07
     },
     {
       "text": "High-energy air from the lower surface is ducted to the flap\u2019s upper surface.",
-      "start": 402.08,
-      "end": 407.85
+      "start": 376.07,
+      "end": 381.46
     },
     {
       "text": "Fowler Flaps: A type of slotted flap.",
-      "start": 407.85,
-      "end": 410.62
+      "start": 381.46,
+      "end": 384.05
     },
     {
       "text": "This flap design not only changes the camber of the wing, it also increases the wing area.",
-      "start": 411.23,
-      "end": 417.98
+      "start": 384.65,
+      "end": 390.95
     },
     {
       "text": "Instead of rotating down on a hinge, it slides backward on tracks.",
-      "start": 417.98,
-      "end": 422.93
+      "start": 390.95,
+      "end": 395.57
     },
     {
       "text": "Trim Systems  Trim systems are used to relieve the pilot of the need to maintain constant pressure on the flight controls.",
-      "start": 422.93,
-      "end": 432.07
+      "start": 395.57,
+      "end": 404.11
     },
     {
       "text": "Trim systems usually consist of flight deck controls and small hinged devices attached to the trailing edge of one or more of the primary flight control surfaces.",
-      "start": 433.88,
-      "end": 446.02
+      "start": 405.91,
+      "end": 417.25
     },
     {
       "text": "Trim Tabs: The most common installation on small aircraft.",
-      "start": 446.02,
-      "end": 450.38
+      "start": 417.25,
+      "end": 421.31
     },
     {
       "text": "If the pilot needs to exert constant back pressure on a control column, the trim tab can be adjusted to relieve this pressure.",
-      "start": 450.38,
-      "end": 459.82
+      "start": 421.31,
+      "end": 430.13
     },
     {
       "text": "The trim tab moves in the opposite direction of the flight control surface.",
-      "start": 459.82,
-      "end": 465.45
+      "start": 430.13,
+      "end": 435.38
     },
     {
       "text": "Balance Tabs: Some aircraft have control forces that may be excessively high in some flight attitudes.",
-      "start": 465.45,
-      "end": 473.1
+      "start": 435.38,
+      "end": 442.52
     },
     {
       "text": "The manufacturer may use a balance tab.",
-      "start": 473.7,
-      "end": 476.62
+      "start": 443.12,
+      "end": 445.85
     },
     {
       "text": "It is coupled to the control surface rod so that when the primary control surface is moved in any direction, the tab automatically moves in the opposite direction.",
-      "start": 476.62,
-      "end": 488.85
+      "start": 445.85,
+      "end": 457.26
     },
     {
       "text": "Antiservo Tabs: Antiservo tabs work in the same manner as balance tabs except, instead of moving in the opposite direction, they move in the same direction as the trailing edge of the stay-bill-ay-ter.",
-      "start": 488.85,
-      "end": 503.93
+      "start": 457.26,
+      "end": 471.33
     },
     {
       "text": "This increases the sensitivity of the control surface and provides a \"feel\" to the pilot.",
-      "start": 504.53,
-      "end": 511.2
+      "start": 471.93,
+      "end": 478.16
     },
     {
       "text": "Ground Adjustable Tabs: A non-movable metal trim tab on the rudder.",
-      "start": 511.2,
-      "end": 516.23
+      "start": 478.16,
+      "end": 482.85
     },
     {
       "text": "It is bent in one direction or the other while on the ground to apply a trim force to the rudder.",
-      "start": 516.83,
-      "end": 524.1
+      "start": 483.45,
+      "end": 490.24
     },
     {
       "text": "[See Figure 6-22: Ground adjustable tab] ---  PHAK Chapter 7: Aircraft Systems (Sport Pilot Filter) Introduction  This chapter covers the primary systems found on most aircraft.",
-      "start": 524.1,
-      "end": 537.38
+      "start": 490.24,
+      "end": 502.63
     },
     {
       "text": "These include the engine, propeller, induction, ignition, as well as the fuel, lubrication, cooling, electrical, landing gear, and environmental control systems.",
-      "start": 539.18,
-      "end": 551.25
+      "start": 504.43,
+      "end": 515.7
     },
     {
       "text": "Powerplant  An aircraft engine, or powerplant, produces thrust to propel an aircraft.",
-      "start": 551.25,
-      "end": 557.63
+      "start": 515.7,
+      "end": 521.65
     },
     {
       "text": "Reciprocating engines and turboprop engines work in combination with a propeller to produce thrust.",
-      "start": 558.83,
-      "end": 566.25
+      "start": 522.85,
+      "end": 529.78
     },
     {
       "text": "Reciprocating Engines  Most small aircraft are designed with reciprocating engines.",
-      "start": 566.25,
-      "end": 572.48
+      "start": 529.78,
+      "end": 535.59
     },
     {
       "text": "The name is derived from the back-and-forth, or reciprocating, movement of the pistons that produces the mechanical energy necessary to accomplish work.",
-      "start": 573.68,
-      "end": 585.08
+      "start": 536.79,
+      "end": 547.43
     },
     {
       "text": "Reciprocating engines operate on the basic principle of converting chemical energy (fuel) into mechanical energy.",
-      "start": 585.08,
-      "end": 593.55
+      "start": 547.43,
+      "end": 555.34
     },
     {
       "text": "Four-Stroke Cycle The majority of small aircraft engines use the four-stroke operating cycle.",
-      "start": 593.55,
-      "end": 600.53
+      "start": 555.34,
+      "end": 561.85
     },
     {
       "text": "The steps in this cycle are: Intake: The piston moves downward, the intake valve opens, and the fuel-air mixture is drawn into the cylinder.",
-      "start": 600.53,
-      "end": 611.03
+      "start": 561.85,
+      "end": 571.65
     },
     {
       "text": "Compression: The intake valve closes, and the piston moves back up, compressing the mixture.",
-      "start": 611.03,
-      "end": 617.93
+      "start": 571.65,
+      "end": 578.09
     },
     {
       "text": "Power: The spark plugs ignite the compressed mixture.",
-      "start": 618.53,
-      "end": 622.5
+      "start": 578.69,
+      "end": 582.4
     },
     {
       "text": "The expanding gases push the piston down with great force, turning the crankshaft.",
-      "start": 623.1,
-      "end": 629.25
+      "start": 583.0,
+      "end": 588.74
     },
     {
       "text": "Exhaust: The exhaust valve opens, and the piston moves up, pushing the burned gases out.",
-      "start": 629.25,
-      "end": 635.85
+      "start": 588.74,
+      "end": 594.9
     },
     {
       "text": "[See Figure 7-5: Four-stroke cycle] Propeller  The propeller is a rotating airfoil, subject to induced drag, stalls, and other aerodynamic principles that apply to any airfoil.",
-      "start": 636.45,
-      "end": 649.65
+      "start": 595.5,
+      "end": 607.82
     },
     {
       "text": "It provides the necessary thrust to pull, or in some cases push, the aircraft through the air.",
-      "start": 651.45,
-      "end": 658.5
+      "start": 609.62,
+      "end": 616.2
     },
     {
       "text": "Fixed-Pitch Propeller: The pitch of this propeller is set by the manufacturer and cannot be changed.",
-      "start": 658.5,
-      "end": 666.0
+      "start": 616.2,
+      "end": 623.2
     },
     {
       "text": "Climb Propeller: Lower pitch, better climb, lower cruise speed.",
-      "start": 666.0,
-      "end": 670.73
+      "start": 623.2,
+      "end": 627.61
     },
     {
       "text": "Cruise Propeller: Higher pitch, better cruise, reduced climb performance.",
-      "start": 671.33,
-      "end": 676.8
+      "start": 628.21,
+      "end": 633.32
     },
     {
       "text": "Ground-Adjustable Propeller: Used on some LSA, the pitch can be adjusted only when the aircraft is on the ground.",
-      "start": 677.4,
-      "end": 685.88
+      "start": 633.92,
+      "end": 641.83
     },
     {
       "text": "Induction Systems  The induction system brings air from the outside, mixes it with fuel, and delivers the fuel-air mixture to the cylinder where combustion occurs.",
-      "start": 686.48,
-      "end": 698.7
+      "start": 642.43,
+      "end": 653.84
     },
     {
       "text": "Carburetor Systems  Carburetors are classified as either float-type or pressure-type.",
-      "start": 700.5,
-      "end": 706.88
+      "start": 655.64,
+      "end": 661.59
     },
     {
       "text": "Float-Type Carburetor: The most common type.",
-      "start": 708.08,
-      "end": 711.38
+      "start": 662.79,
+      "end": 665.87
     },
     {
       "text": "Air flows through a venturi, creating low pressure that draws fuel from a float chamber.",
-      "start": 711.38,
-      "end": 717.98
+      "start": 665.87,
+      "end": 672.03
     },
     {
       "text": "Carburetor Icing: One disadvantage of the float-type carburetor is its icing tendency.",
-      "start": 717.98,
-      "end": 724.43
+      "start": 672.03,
+      "end": 678.05
     },
     {
       "text": "Carburetor ice occurs due to the effect of fuel vaporization and the decrease in air pressure in the venturi, which causes a sharp temperature drop in the carburetor.",
-      "start": 725.03,
-      "end": 737.48
+      "start": 678.65,
+      "end": 690.27
     },
     {
       "text": "If water vapor in the air condenses when the carburetor temperature is at or below freezing, ice may form.",
-      "start": 737.48,
-      "end": 745.43
+      "start": 690.27,
+      "end": 697.69
     },
     {
       "text": "Indications: For airplanes with a fixed-pitch propeller, the first indication of carburetor icing is a loss of RPM.",
-      "start": 745.43,
-      "end": 754.05
+      "start": 697.69,
+      "end": 705.74
     },
     {
       "text": "Carburetor Heat: An anti-icing system that preheats the air before it reaches the carburetor.",
-      "start": 754.65,
-      "end": 761.63
+      "start": 706.34,
+      "end": 712.85
     },
     {
       "text": "When carburetor heat is applied, the heated air is less dense, causing the fuel-air mixture to become richer.",
-      "start": 762.23,
-      "end": 770.4
+      "start": 713.45,
+      "end": 721.08
     },
     {
       "text": "This creates a momentary drop in RPM.",
-      "start": 770.4,
-      "end": 773.18
+      "start": 721.08,
+      "end": 723.67
     },
     {
       "text": "Fuel Injection Systems  In a fuel injection system, the fuel is injected directly into the cylinders, or just ahead of the intake valve.",
-      "start": 773.18,
-      "end": 783.38
+      "start": 723.67,
+      "end": 733.19
     },
     {
       "text": "Advantages: Less susceptible to icing, better fuel flow, faster throttle response.",
-      "start": 785.18,
-      "end": 791.33
+      "start": 734.99,
+      "end": 740.73
     },
     {
       "text": "Disadvantages: Difficulty in starting a hot engine, vapor lock issues on the ground on hot days.",
-      "start": 791.33,
-      "end": 798.53
+      "start": 740.73,
+      "end": 747.45
     },
     {
       "text": "Ignition System  The ignition system provides the electrical spark to ignite the fuel-air mixture in the cylinders.",
-      "start": 799.13,
-      "end": 807.75
+      "start": 748.05,
+      "end": 756.1
     },
     {
       "text": "It consists of magnetos, spark plugs, high-tension leads, and the ignition switch.",
-      "start": 809.55,
-      "end": 815.7
+      "start": 757.9,
+      "end": 763.64
     },
     {
       "text": "Magnetos: A magneto is a self-contained, engine-driven unit that supplies electrical current to the spark plugs.",
-      "start": 815.7,
-      "end": 824.1
+      "start": 763.64,
+      "end": 771.48
     },
     {
       "text": "It is independent of the aircraft\u2019s electrical system (battery/alternator).",
-      "start": 824.1,
-      "end": 829.73
+      "start": 771.48,
+      "end": 776.73
     },
     {
       "text": "If the battery fails, the engine will keep running.",
-      "start": 829.73,
-      "end": 833.55
+      "start": 776.73,
+      "end": 780.3
     },
     {
       "text": "Dual Ignition: Most aircraft engines have two magnetos and two spark plugs per cylinder to increase reliability (safety) and improve combustion efficiency.",
-      "start": 833.55,
-      "end": 845.18
+      "start": 780.3,
+      "end": 791.15
     },
     {
       "text": "Oil Systems (Lubrication)  The engine oil system performs several important functions: Lubrication of the engine's moving parts.",
-      "start": 845.78,
-      "end": 855.38
+      "start": 791.75,
+      "end": 800.71
     },
     {
       "text": "Cooling of the engine by reducing friction.",
-      "start": 857.18,
-      "end": 860.4
+      "start": 802.51,
+      "end": 805.52
     },
     {
       "text": "Removing heat from the cylinders.",
-      "start": 861.0,
-      "end": 863.48
+      "start": 806.12,
+      "end": 808.43
     },
     {
       "text": "Providing a seal between the cylinder walls and pistons.",
-      "start": 864.08,
-      "end": 868.28
+      "start": 809.03,
+      "end": 812.95
     },
     {
       "text": "Carrying away contaminants.",
-      "start": 868.88,
-      "end": 870.9
+      "start": 813.55,
+      "end": 815.44
     },
     {
       "text": "Cooling Systems  Burning fuel inside the cylinders produces intense heat.",
-      "start": 871.5,
-      "end": 876.98
+      "start": 816.04,
+      "end": 821.15
     },
     {
       "text": "Most light aircraft use air cooling .",
-      "start": 878.78,
-      "end": 881.55
+      "start": 822.95,
+      "end": 825.54
     },
     {
       "text": "Air Cooling: Air flows into the engine compartment through openings in front of the engine cowl.",
-      "start": 881.55,
-      "end": 888.75
+      "start": 825.54,
+      "end": 832.26
     },
     {
       "text": "Baffles and fins on the cylinders direct this air over the engine to carry away heat.",
-      "start": 888.75,
-      "end": 895.13
+      "start": 832.26,
+      "end": 838.21
     },
     {
       "text": "Cowl Flaps: Some aircraft use cowl flaps to control the amount of air circulating around the engine.",
-      "start": 895.13,
-      "end": 902.63
+      "start": 838.21,
+      "end": 845.21
     },
     {
       "text": "Opening cowl flaps increases airflow (for climbs); closing them decreases airflow (for descent/cruise).",
-      "start": 903.23,
-      "end": 910.95
+      "start": 845.81,
+      "end": 853.02
     },
     {
       "text": "Fuel System  The fuel system is designed to provide an uninterrupted flow of clean fuel from the fuel tanks to the engine.",
-      "start": 910.95,
-      "end": 920.1
+      "start": 853.02,
+      "end": 861.56
     },
     {
       "text": "Types of Systems:  Gravity-Feed System: Used in high-wing airplanes.",
-      "start": 921.9,
-      "end": 927.0
+      "start": 863.36,
+      "end": 868.12
     },
     {
       "text": "Gravity transfers fuel from the tanks to the engine.",
-      "start": 928.2,
-      "end": 932.1
+      "start": 869.32,
+      "end": 872.96
     },
     {
       "text": "Fuel-Pump System: Used in low-wing airplanes (where fuel tanks are below the engine).",
-      "start": 932.1,
-      "end": 938.48
+      "start": 872.96,
+      "end": 878.91
     },
     {
       "text": "Requires an engine-driven pump and an auxiliary electric boost pump for starting or emergencies.",
-      "start": 939.08,
-      "end": 946.28
+      "start": 879.51,
+      "end": 886.23
     },
     {
       "text": "Fuel Grade & Contamination:  Avgas: Aviation gasoline is identified by an octane rating and color (e.g., 100LL is Blue).",
-      "start": 946.28,
-      "end": 955.28
+      "start": 886.23,
+      "end": 894.63
     },
     {
       "text": "Water: Water is the most common contaminant.",
-      "start": 957.08,
-      "end": 960.38
+      "start": 896.43,
+      "end": 899.51
     },
     {
       "text": "It is heavier than fuel and settles to the bottom of the tank.",
-      "start": 960.98,
-      "end": 965.63
+      "start": 900.11,
+      "end": 904.45
     },
     {
       "text": "Sump drains are used to check for water before flight.",
-      "start": 965.63,
-      "end": 969.68
+      "start": 904.45,
+      "end": 908.23
     },
     {
       "text": "Refueling: Never use a fuel grade lower than specified (e.g., do not use 80 octane if 100LL is required).",
-      "start": 969.68,
-      "end": 977.55
+      "start": 908.23,
+      "end": 915.58
     },
     {
       "text": "Using a lower grade can cause detonation and engine damage.",
-      "start": 978.15,
-      "end": 982.58
+      "start": 916.18,
+      "end": 920.31
     },
     {
       "text": "Electrical System  Most aircraft are equipped with a 14- or 28-volt direct current (DC) electrical system.",
-      "start": 982.58,
-      "end": 990.53
+      "start": 920.31,
+      "end": 927.73
     },
     {
       "text": "Alternator/Generator: Engine-driven; supplies electricity to the system and charges the battery during flight.",
-      "start": 992.33,
-      "end": 1000.58
+      "start": 929.53,
+      "end": 937.23
     },
     {
       "text": "Battery: Used primarily for starting the engine and as an emergency backup power source if the alternator fails.",
-      "start": 1000.58,
-      "end": 1008.98
+      "start": 937.23,
+      "end": 945.07
     },
     {
       "text": "Master Switch: Turns the electrical system on/off.",
-      "start": 1009.58,
-      "end": 1013.33
+      "start": 945.67,
+      "end": 949.17
     },
     {
       "text": "Note that the magnetos are separate; turning off the master switch does not stop the engine.",
-      "start": 1013.93,
-      "end": 1020.83
+      "start": 949.77,
+      "end": 956.21
     },
     {
       "text": "Circuit Breakers/Fuses: Protect electrical circuits from overload.",
-      "start": 1020.83,
-      "end": 1025.78
+      "start": 956.21,
+      "end": 960.83
     },
     {
       "text": "Pitot-Static System  The pitot-static system relies on air pressure to operate the altimeter, airspeed indicator, and vertical speed indicator (VSI).",
-      "start": 1026.38,
-      "end": 1037.55
+      "start": 961.43,
+      "end": 971.86
     },
     {
       "text": "Pitot Tube: Provides impact (ram) air pressure for the airspeed indicator.",
-      "start": 1039.35,
-      "end": 1044.9
+      "start": 973.66,
+      "end": 978.84
     },
     {
       "text": "Blockage: A blocked pee-tow tube affects only the airspeed indicator.",
-      "start": 1044.9,
-      "end": 1050.08
+      "start": 978.84,
+      "end": 983.67
     },
     {
       "text": "Static Port: Provides static (ambient) air pressure for all three instruments (Altimeter, VSI, Airspeed).",
-      "start": 1050.68,
-      "end": 1058.55
+      "start": 984.27,
+      "end": 991.62
     },
     {
       "text": "Blockage: A blocked static port affects all three instruments.",
-      "start": 1059.15,
-      "end": 1063.8
+      "start": 992.22,
+      "end": 996.56
     },
     {
       "text": "The altimeter will freeze at the blocked altitude, and the VSI will indicate zero.",
-      "start": 1064.4,
-      "end": 1070.55
+      "start": 997.16,
+      "end": 1002.9
     },
     {
       "text": "---  PHAK Chapter 8: Flight Instruments (Sport Pilot Filter) Introduction  In order to safely fly any aircraft, a pilot must understand how to interpret and operate the flight instruments.",
-      "start": 1070.55,
-      "end": 1084.65
+      "start": 1002.9,
+      "end": 1016.06
     },
     {
       "text": "The pilot also needs to be able to recognize associated errors and malfunctions of these instruments.",
-      "start": 1086.45,
-      "end": 1094.03
+      "start": 1017.86,
+      "end": 1024.93
     },
     {
       "text": "This chapter addresses the pitot-static system and associated instruments, the vacuum system and related instruments, gyroscopic instruments, and the magnetic compass.",
-      "start": 1094.03,
-      "end": 1106.55
+      "start": 1024.93,
+      "end": 1036.62
     },
     {
       "text": "Pitot-Static Flight Instruments  The pitot-static system is a combined system that utilizes the static air pressure and the dynamic pressure due to the motion of the aircraft through the air.",
-      "start": 1106.55,
-      "end": 1120.88
+      "start": 1036.62,
+      "end": 1049.99
     },
     {
       "text": "These combined pressures are utilized for the operation of the airspeed indicator (ASI), altimeter, and vertical speed indicator (VSI).",
-      "start": 1122.08,
-      "end": 1132.2
+      "start": 1051.19,
+      "end": 1060.64
     },
     {
       "text": "[See Figure 8-1: Pitot-static system] Impact Pressure Chamber and Lines  The pee-tow tube is utilized to measure the total combined pressures of air (static and dynamic).",
-      "start": 1132.2,
-      "end": 1144.95
+      "start": 1060.64,
+      "end": 1072.54
     },
     {
       "text": "The pee-tow tube has a small opening at the front that allows the total pressure to enter the pressure chamber.",
-      "start": 1146.15,
-      "end": 1154.48
+      "start": 1073.74,
+      "end": 1081.51
     },
     {
       "text": "The total pressure is made up of dynamic pressure (ram air) plus static pressure.",
-      "start": 1154.48,
-      "end": 1160.55
+      "start": 1081.51,
+      "end": 1087.18
     },
     {
       "text": "Static Pressure Chamber and Lines  The static chamber is vented through small holes to the free undisturbed air on the side(s) of the aircraft.",
-      "start": 1160.55,
-      "end": 1171.28
+      "start": 1087.18,
+      "end": 1097.19
     },
     {
       "text": "As the atmospheric pressure changes, the pressure is able to move freely in and out of the instruments.",
-      "start": 1172.48,
-      "end": 1180.2
+      "start": 1098.39,
+      "end": 1105.6
     },
     {
       "text": "Blockage of the Pitot-Static System  Errors in the pitot-static system are usually caused by blockage of the pee-tow tube (including the drain hole) or the static port(s).",
-      "start": 1180.2,
-      "end": 1193.03
+      "start": 1105.6,
+      "end": 1117.57
     },
     {
       "text": "Blocked Pitot System: If the pee-tow tube drain hole is blocked but the pee-tow opening remains clear, there is no change in indication.",
-      "start": 1194.23,
-      "end": 1204.43
+      "start": 1118.77,
+      "end": 1128.29
     },
     {
       "text": "If both the pee-tow opening and the drain hole become clogged, the airspeed indicator acts as an altimeter; it reads higher as the aircraft climbs and lower as the aircraft descends.",
-      "start": 1204.43,
-      "end": 1218.08
+      "start": 1128.29,
+      "end": 1141.03
     },
     {
       "text": "Blocked Static System: If the static port becomes blocked, the airspeed indicator, altimeter, and VSI will all be affected.",
-      "start": 1218.08,
-      "end": 1227.3
+      "start": 1141.03,
+      "end": 1149.64
     },
     {
       "text": "Airspeed Indicator: Operates but is inaccurate.",
-      "start": 1227.9,
-      "end": 1231.43
+      "start": 1150.24,
+      "end": 1153.53
     },
     {
       "text": "At altitudes above where the static system became blocked, the airspeed indicates lower than it should.",
-      "start": 1232.03,
-      "end": 1239.75
+      "start": 1154.13,
+      "end": 1161.34
     },
     {
       "text": "At lower altitudes, it indicates higher.",
-      "start": 1239.75,
-      "end": 1242.75
+      "start": 1161.34,
+      "end": 1164.14
     },
     {
       "text": "Altimeter: Freezes at the altitude where the blockage occurred.",
-      "start": 1242.75,
-      "end": 1247.48
+      "start": 1164.14,
+      "end": 1168.55
     },
     {
       "text": "VSI: Freezes at zero.",
-      "start": 1248.08,
-      "end": 1249.65
+      "start": 1169.15,
+      "end": 1170.62
     },
     {
       "text": "Airspeed Indicator (ASI)19  The ASI is a sensitive, differential pressure 20gauge which measures and promptly indicates the difference between pee-tow (impact/dynamic) pressure and static pressure.",
-      "start": 1250.25,
-      "end": 1265.03
+      "start": 1171.22,
+      "end": 1185.01
     },
     {
       "text": "Operating Principle: The mechanical linkage connects the diaphragm to the ASI pointer.",
-      "start": 1266.83,
-      "end": 1273.28
+      "start": 1186.81,
+      "end": 1192.83
     },
     {
       "text": "As the aircraft accelerates, the increased dynamic pressure expands the diaphragm, moving the needle to a higher airspeed.",
-      "start": 1273.28,
-      "end": 1282.43
+      "start": 1192.83,
+      "end": 1201.37
     },
     {
       "text": "Instrument Markings (V-Speeds):  White Arc: Flap operating range.",
-      "start": 1282.43,
-      "end": 1287.3
+      "start": 1201.37,
+      "end": 1205.92
     },
     {
       "text": "The lower limit is the stalling speed in the landing configuration VS0.",
-      "start": 1288.5,
-      "end": 1293.83
+      "start": 1207.12,
+      "end": 1212.09
     },
     {
       "text": "The upper limit is the maximum flaps extended speed VFE.",
-      "start": 1293.83,
-      "end": 1298.03
+      "start": 1212.09,
+      "end": 1216.01
     },
     {
       "text": "Green Arc: Normal operating range.",
-      "start": 1298.03,
-      "end": 1300.58
+      "start": 1216.01,
+      "end": 1218.39
     },
     {
       "text": "The lower limit is the stalling speed in a clean configuration VS1.",
-      "start": 1301.18,
-      "end": 1306.2
+      "start": 1218.99,
+      "end": 1223.68
     },
     {
       "text": "The upper limit is the maximum structural cruising speed VNO.",
-      "start": 1306.2,
-      "end": 1310.78
+      "start": 1223.68,
+      "end": 1227.95
     },
     {
       "text": "Yellow Arc: Caution range.",
-      "start": 1310.78,
-      "end": 1312.73
+      "start": 1227.95,
+      "end": 1229.77
     },
     {
       "text": "Fly within this range only in smooth air, and then only with caution.",
-      "start": 1313.33,
-      "end": 1318.5
+      "start": 1230.37,
+      "end": 1235.2
     },
     {
       "text": "Red Line: Never exceed speed VNE.",
-      "start": 1318.5,
-      "end": 1320.98
+      "start": 1235.2,
+      "end": 1237.51
     },
     {
       "text": "Operating above this speed is prohibited because it may result in damage or structural failure.",
-      "start": 1321.58,
-      "end": 1328.7
+      "start": 1238.11,
+      "end": 1244.76
     },
     {
       "text": "[See Figure 8-6: Airspeed indicator markings] The Altimeter  The altimeter is an instrument that measures the height of an aircraft above a given pressure level.",
-      "start": 1328.7,
-      "end": 1340.78
+      "start": 1244.76,
+      "end": 1256.03
     },
     {
       "text": "Principle of Operation: The aneroid wafers expand and contract as the atmospheric pressure changes.",
-      "start": 1342.58,
-      "end": 1350.0
+      "start": 1257.83,
+      "end": 1264.76
     },
     {
       "text": "As the aircraft ascends, the static pressure drops, the wafers expand, and the pointers show an increase in altitude.",
-      "start": 1350.0,
-      "end": 1358.78
+      "start": 1264.76,
+      "end": 1272.95
     },
     {
       "text": "Effect of Nonstandard Pressure and Temperature:  \"High to Low, Look Out Below\": If an aircraft is flown from an area of high pressure to an area of low pressure without adjusting the altimeter, the true altitude of the aircraft will be lower than the indicated altitude.",
-      "start": 1358.78,
-      "end": 1379.03
+      "start": 1272.95,
+      "end": 1291.85
     },
     {
       "text": "\"Hot to Cold, Look Out Below\": If an aircraft is flown from an area of warm temperature to an area of cold temperature, the true altitude will be lower than the indicated altitude.",
-      "start": 1380.23,
-      "end": 1393.73
+      "start": 1293.05,
+      "end": 1305.65
     },
     {
       "text": "Setting the Altimeter:  To read the correct altitude, the current altimeter setting (barometric pressure) must be entered in the Kollsman window.",
-      "start": 1394.33,
-      "end": 1405.2
+      "start": 1306.25,
+      "end": 1316.4
     },
     {
       "text": "When flying below 18,000 feet, the pilot sets the altimeter to the current reported altimeter setting of a station along the route and within 100 NM of the aircraft.",
-      "start": 1407.0,
-      "end": 1419.38
+      "start": 1318.2,
+      "end": 1329.75
     },
     {
       "text": "Types of Altitude:  Indicated Altitude: Read directly from the altimeter when set to the current altimeter setting.",
-      "start": 1419.98,
-      "end": 1428.6
+      "start": 1330.35,
+      "end": 1338.4
     },
     {
       "text": "Pressure Altitude: The height above the standard datum plane (29.92 \"Hg).",
-      "start": 1430.4,
-      "end": 1435.88
+      "start": 1340.2,
+      "end": 1345.31
     },
     {
       "text": "Used for flight above 18,000 feet (FL180).",
-      "start": 1436.48,
-      "end": 1439.63
+      "start": 1345.91,
+      "end": 1348.85
     },
     {
       "text": "Density Altitude: Pressure altitude corrected for nonstandard temperature.",
-      "start": 1439.63,
-      "end": 1445.18
+      "start": 1348.85,
+      "end": 1354.03
     },
     {
       "text": "Used for performance calculations.",
-      "start": 1445.78,
-      "end": 1448.33
+      "start": 1354.63,
+      "end": 1357.01
     },
     {
       "text": "True Altitude: The vertical distance of the aircraft above sea level (MSL).",
-      "start": 1448.33,
-      "end": 1453.95
+      "start": 1357.01,
+      "end": 1362.26
     },
     {
       "text": "Absolute Altitude: The vertical distance of the aircraft above the terrain (AGL).",
-      "start": 1454.55,
-      "end": 1460.63
+      "start": 1362.86,
+      "end": 1368.53
     },
     {
       "text": "Vertical Speed Indicator (VSI)  The VSI indicates whether the aircraft is climbing, descending, or in level flight.",
-      "start": 1461.23,
-      "end": 1469.85
+      "start": 1369.13,
+      "end": 1377.18
     },
     {
       "text": "It shows both the rate of climb/descent and trend information.",
-      "start": 1471.65,
-      "end": 1476.3
+      "start": 1378.98,
+      "end": 1383.32
     },
     {
       "text": "Trend: The immediate indication of a change in rate.",
-      "start": 1476.3,
-      "end": 1480.2
+      "start": 1383.32,
+      "end": 1386.96
     },
     {
       "text": "Rate: The stabilized rate of change (e.g., 500 feet per minute).",
-      "start": 1480.2,
-      "end": 1485.0
+      "start": 1386.96,
+      "end": 1391.44
     },
     {
       "text": "Lag: There is a 6-9 second lag in the VSI indication before it stabilizes on the new rate of climb or descent.",
-      "start": 1485.6,
-      "end": 1493.85
+      "start": 1392.04,
+      "end": 1399.74
     },
     {
       "text": "Gyroscopic Flight Instruments  Several flight instruments utilize the properties of a gyroscope for their operation.",
-      "start": 1494.45,
-      "end": 1503.15
+      "start": 1400.34,
+      "end": 1408.46
     },
     {
       "text": "The most common instruments containing gyroscopes are the turn coordinator, heading indicator, and the attitude indicator.",
-      "start": 1504.95,
-      "end": 1514.1
+      "start": 1410.26,
+      "end": 1418.8
     },
     {
       "text": "Gyroscopic Principles:  Rigidity in Space: A wheel with a heavily weighted rim spun at high speed tends to remain fixed in the plane in which it is spinning.",
-      "start": 1514.1,
-      "end": 1525.88
+      "start": 1418.8,
+      "end": 1429.79
     },
     {
       "text": "Precession: The tilting or turning of a gyro in response to a deflective force.",
-      "start": 1527.08,
-      "end": 1533.0
+      "start": 1430.99,
+      "end": 1436.52
     },
     {
       "text": "The reaction to this force occurs at a point 90 degrees later in the direction of rotation.",
-      "start": 1533.6,
-      "end": 1540.43
+      "start": 1437.12,
+      "end": 1443.49
     },
     {
       "text": "Attitude Indicator  The attitude indicator, with its miniature aircraft and horizon bar, displays a picture of the attitude of the aircraft.",
-      "start": 1540.43,
-      "end": 1550.93
+      "start": 1443.49,
+      "end": 1453.29
     },
     {
       "text": "The relationship of the miniature aircraft to the horizon bar is the same as the relationship of the real aircraft to the actual horizon.",
-      "start": 1552.73,
-      "end": 1563.0
+      "start": 1455.09,
+      "end": 1464.68
     },
     {
       "text": "Limits: The banking limits of the attitude indicator are usually from 100 degrees to 110 degrees, and the pitch limits are usually from 60 degrees to 70 degrees.",
-      "start": 1563.0,
-      "end": 1575.08
+      "start": 1464.68,
+      "end": 1475.95
     },
     {
       "text": "If these limits are exceeded, the instrument may tumble.",
-      "start": 1575.08,
-      "end": 1579.28
+      "start": 1475.95,
+      "end": 1479.87
     },
     {
       "text": "Heading Indicator  The heading indicator is fundamentally a mechanical instrument designed to facilitate the use of the magnetic compass.",
-      "start": 1579.28,
-      "end": 1589.55
+      "start": 1479.87,
+      "end": 1489.46
     },
     {
       "text": "It is not affected by the forces that make the magnetic compass difficult to interpret.",
-      "start": 1591.35,
-      "end": 1597.88
+      "start": 1491.26,
+      "end": 1497.35
     },
     {
       "text": "Drift/Precession: Because of precession and friction, the heading indicator will drift from the correct heading.",
-      "start": 1597.88,
-      "end": 1606.28
+      "start": 1497.35,
+      "end": 1505.19
     },
     {
       "text": "The pilot must align the heading indicator with the magnetic compass at approximately 15-minute intervals.",
-      "start": 1606.28,
-      "end": 1614.23
+      "start": 1505.19,
+      "end": 1512.61
     },
     {
       "text": "Turn Coordinator  The turn coordinator shows the rate of turn and the rate of roll.",
-      "start": 1614.23,
-      "end": 1620.45
+      "start": 1512.61,
+      "end": 1518.42
     },
     {
       "text": "Standard Rate Turn: A turn rate of 3 degrees per second.",
-      "start": 1622.25,
-      "end": 1626.45
+      "start": 1520.22,
+      "end": 1524.14
     },
     {
       "text": "A 360-degree turn takes 2 minutes.",
-      "start": 1626.45,
-      "end": 1629.0
+      "start": 1524.14,
+      "end": 1526.52
     },
     {
       "text": "Inclinometer (The Ball): Indicates coordination.",
-      "start": 1629.0,
-      "end": 1632.6
+      "start": 1526.52,
+      "end": 1529.88
     },
     {
       "text": "Slip: The ball is on the inside of the turn (Step on the ball).",
-      "start": 1633.2,
-      "end": 1637.93
+      "start": 1530.48,
+      "end": 1534.89
     },
     {
       "text": "Skid: The ball is on the outside of the turn.",
-      "start": 1638.53,
-      "end": 1641.9
+      "start": 1535.49,
+      "end": 1538.64
     },
     {
       "text": "Magnetic Compass  The magnetic compass is the only direction-seeking instrument in the aircraft.",
-      "start": 1642.5,
-      "end": 1649.7
+      "start": 1539.24,
+      "end": 1545.96
     },
     {
       "text": "Magnetic Compass Errors  The magnetic compass is subject to several errors that the pilot must understand to use it effectively.",
-      "start": 1651.5,
-      "end": 1661.1
+      "start": 1547.76,
+      "end": 1556.72
     },
     {
       "text": "Variation:  The difference between true north and magnetic north.",
-      "start": 1662.3,
-      "end": 1667.18
+      "start": 1557.92,
+      "end": 1562.47
     },
     {
       "text": "The pilot must correct for this by adding or subtracting variation (East is least, West is best).",
-      "start": 1668.38,
-      "end": 1675.65
+      "start": 1563.67,
+      "end": 1570.46
     },
     {
       "text": "Deviation:  Magnetic disturbance generated by the aircraft's own electrical systems and metal components.",
-      "start": 1675.65,
-      "end": 1683.53
+      "start": 1570.46,
+      "end": 1577.81
     },
     {
       "text": "A compass correction card is mounted near the compass to show these errors.",
-      "start": 1684.73,
-      "end": 1690.35
+      "start": 1579.01,
+      "end": 1584.26
     },
     {
       "text": "Dip Errors:  The magnetic flux lines point downward toward the poles, causing the compass card to dip.",
-      "start": 1690.35,
-      "end": 1698.0
+      "start": 1584.26,
+      "end": 1591.4
     },
     {
       "text": "This results in turning errors and acceleration errors.",
-      "start": 1699.2,
-      "end": 1703.33
+      "start": 1592.6,
+      "end": 1596.45
     },
     {
       "text": "Northerly Turning Errors (UNOS):  Undershoot North: When turning from a northerly heading, the compass initially indicates a turn in the opposite direction.",
-      "start": 1703.33,
-      "end": 1715.03
+      "start": 1596.45,
+      "end": 1607.37
     },
     {
       "text": "The pilot must stop the turn before the desired heading is reached.",
-      "start": 1715.63,
-      "end": 1720.65
+      "start": 1607.97,
+      "end": 1612.66
     },
     {
       "text": "Overshoot South: When turning from a southerly heading, the compass indicates a turn in the correct direction but at a faster rate.",
-      "start": 1720.65,
-      "end": 1730.48
+      "start": 1612.66,
+      "end": 1621.83
     },
     {
       "text": "The pilot must stop the turn after passing the desired heading.",
-      "start": 1731.08,
-      "end": 1735.8
+      "start": 1622.43,
+      "end": 1626.84
     },
     {
       "text": "Acceleration Errors (ANDS):  Accelerate North: On an east or west heading, if the aircraft accelerates , the compass shows a turn to the North .",
-      "start": 1735.8,
-      "end": 1746.6
+      "start": 1626.84,
+      "end": 1636.92
     },
     {
       "text": "Decelerate South: On an east or west heading, if the aircraft decelerates , the compass shows a turn to the South .",
-      "start": 1747.2,
-      "end": 1755.83
+      "start": 1637.52,
+      "end": 1645.57
     },
     {
       "text": "[See Figure 8-36: Northerly turning error] [See Figure 8-38: Acceleration error] ---  PHAK Chapter 9: Flight Manuals and Other Documents (Sport Pilot Filter) Introduction  Each aircraft comes with documentation and a set of manuals with which a pilot must be familiar in order to fly that aircraft.",
-      "start": 1756.43,
-      "end": 1778.78
+      "start": 1646.17,
+      "end": 1667.03
     },
     {
       "text": "This chapter covers airplane flight manuals (AFM), the pilot\u2019s operating handbook (POH), and aircraft documents pertaining to ownership, airworthiness, maintenance, and operations with inoperative equipment.",
-      "start": 1780.58,
-      "end": 1796.1
+      "start": 1668.83,
+      "end": 1683.32
     },
     {
       "text": "Airplane Flight Manuals (AFM)  Flight manuals and operating handbooks are concise reference books that provide specific information about a particular aircraft or subject.",
-      "start": 1796.1,
-      "end": 1808.93
+      "start": 1683.32,
+      "end": 1695.29
     },
     {
       "text": "They contain basic facts, information, and/or instructions for the pilot about the operation of an aircraft, flying techniques, etc., and are intended to be kept on hand for ready reference.",
-      "start": 1810.13,
-      "end": 1824.38
+      "start": 1696.49,
+      "end": 1709.79
     },
     {
       "text": "Pilot's Operating Handbook (POH)  Most manufacturers have created a POH that follows a standardized format.",
-      "start": 1824.38,
-      "end": 1832.4
+      "start": 1709.79,
+      "end": 1717.28
     },
     {
       "text": "The POH is developed by the aircraft manufacturer and contains the FAA-approved AFM information.",
-      "start": 1833.6,
-      "end": 1840.8
+      "start": 1718.48,
+      "end": 1725.2
     },
     {
       "text": "Standard POH Sections:  General: Loading, handling, and preflight instructions.",
-      "start": 1840.8,
-      "end": 1846.73
+      "start": 1725.2,
+      "end": 1730.73
     },
     {
       "text": "Limitations: Operating limitations (airspeed, power plant, weight, etc.) required by regulation.",
-      "start": 1847.93,
-      "end": 1855.13
+      "start": 1731.93,
+      "end": 1738.65
     },
     {
       "text": "Emergency Procedures: Checklists and procedures for coping with various emergencies (engine failure, fire, etc.).",
-      "start": 1855.73,
-      "end": 1864.2
+      "start": 1739.25,
+      "end": 1747.16
     },
     {
       "text": "Normal Procedures: Checklists and procedures for normal operation (takeoff, cruise, landing).",
-      "start": 1864.8,
-      "end": 1871.78
+      "start": 1747.76,
+      "end": 1754.27
     },
     {
       "text": "Performance: Performance data (takeoff distance, climb rates, cruise speeds) often in table or graph form.",
-      "start": 1872.38,
-      "end": 1880.33
+      "start": 1754.87,
+      "end": 1762.29
     },
     {
       "text": "Weight and Balance: Data and methods for calculating weight and balance.",
-      "start": 1880.33,
-      "end": 1885.73
+      "start": 1762.29,
+      "end": 1767.33
     },
     {
       "text": "Systems Description: Detailed description of the aircraft\u2019s systems (airframe, electrical, fuel, etc.).",
-      "start": 1886.33,
-      "end": 1894.05
+      "start": 1767.93,
+      "end": 1775.14
     },
     {
       "text": "Aircraft Documents  To be legal for flight, specific documents must be on board the aircraft.",
-      "start": 1894.65,
-      "end": 1901.63
+      "start": 1775.74,
+      "end": 1782.25
     },
     {
       "text": "A common mnemonic for these documents is ARROW : A - Airworthiness Certificate  R - Registration Certificate  R - Radio Station License (required for international flights)  O - Operating Limitations (AFM/POH and placards)  W - Weight and Balance data (current)  Certificate of Aircraft Registration  Before an aircraft can be flown legally, it must be registered with the F-A-A Aircraft Registry.",
-      "start": 1903.43,
-      "end": 1933.2
+      "start": 1784.05,
+      "end": 1811.84
     },
     {
       "text": "The Certificate of Aircraft Registration must be carried in the aircraft at all times.",
-      "start": 1935.0,
-      "end": 1941.45
+      "start": 1813.64,
+      "end": 1819.66
     },
     {
       "text": "Duration: The registration is valid for three years and must be renewed.",
-      "start": 1941.45,
-      "end": 1946.85
+      "start": 1819.66,
+      "end": 1824.7
     },
     {
       "text": "Change of Address: The holder of a Certificate of Aircraft Registration must notify the F-A-A Aircraft Registry of a change of permanent mailing address within 30 days .",
-      "start": 1946.85,
-      "end": 1959.53
+      "start": 1824.7,
+      "end": 1836.53
     },
     {
       "text": "Airworthiness Certificate  An Airworthiness Certificate is issued by the F-A-A to an aircraft that has been proven to meet the minimum design and manufacturing requirements and is in condition for safe operation.",
-      "start": 1960.13,
-      "end": 1976.03
+      "start": 1837.13,
+      "end": 1851.97
     },
     {
       "text": "Standard Airworthiness Certificate: Issued for normal, utility, acrobatic, commuter, or transport category aircraft.",
-      "start": 1977.83,
-      "end": 1986.53
+      "start": 1853.77,
+      "end": 1861.89
     },
     {
       "text": "It is white in color.",
-      "start": 1986.53,
-      "end": 1988.1
+      "start": 1861.89,
+      "end": 1863.36
     },
     {
       "text": "Special Airworthiness Certificate: Issued for Light Sport Aircraft (LSA) , primary, restricted, limited, and experimental aircraft.",
-      "start": 1988.1,
-      "end": 1997.93
+      "start": 1863.36,
+      "end": 1872.53
     },
     {
       "text": "It is pink in color.",
-      "start": 1998.53,
-      "end": 2000.03
+      "start": 1873.13,
+      "end": 1874.53
     },
     {
       "text": "Validity: The Airworthiness Certificate stays valid as long as the aircraft is maintained and operated in accordance with F-A-A regulations.",
-      "start": 2000.03,
-      "end": 2010.53
+      "start": 1874.53,
+      "end": 1884.33
     },
     {
       "text": "It does not have an expiration date, provided required maintenance (like the Annual Condition Inspection) is performed.",
-      "start": 2011.13,
-      "end": 2020.05
+      "start": 1884.93,
+      "end": 1893.26
     },
     {
       "text": "Location: The certificate must be displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.",
-      "start": 2020.05,
-      "end": 2029.13
+      "start": 1893.26,
+      "end": 1901.73
     },
     {
       "text": "Aircraft Maintenance  Maintenance is defined as the preservation, inspection, overhaul, and repair of aircraft, including the replacement of parts.",
-      "start": 2029.73,
-      "end": 2040.75
+      "start": 1902.33,
+      "end": 1912.62
     },
     {
       "text": "Aircraft Inspections  Annual Inspection: All certificated aircraft must have a complete inspection every 12 calendar months.",
-      "start": 2042.55,
-      "end": 2051.85
+      "start": 1914.42,
+      "end": 1923.1
     },
     {
       "text": "100-Hour Inspection: Required in addition to the annual inspection for aircraft used for hire (flight instruction).",
-      "start": 2053.05,
-      "end": 2061.68
+      "start": 1924.3,
+      "end": 1932.35
     },
     {
       "text": "Condition Inspection (LSA): Light Sport Aircraft require a \"condition inspection\" every 12 calendar months.",
-      "start": 2062.28,
-      "end": 2070.3
+      "start": 1932.95,
+      "end": 1940.44
     },
     {
       "text": "Preventive Maintenance  Preventive maintenance is considered to be simple or minor preservation operations and the replacement of small standard parts not involving complex assembly operations.",
-      "start": 2070.9,
-      "end": 2085.38
+      "start": 1941.04,
+      "end": 1954.55
     },
     {
       "text": "Who can perform it: Certificated pilots (including Sport Pilots) may perform preventive maintenance on any aircraft that is owned or operated by them and not used in air carrier service.",
-      "start": 2087.18,
-      "end": 2101.13
+      "start": 1956.35,
+      "end": 1969.37
     },
     {
       "text": "Examples: Changing oil, replacing spark plugs, replenishing hydraulic fluid, and replacing safety wire.",
-      "start": 2101.13,
-      "end": 2108.85
+      "start": 1969.37,
+      "end": 1976.58
     },
     {
       "text": "Airworthiness Directives (ADs)  Airworthiness Directives (ADs) are essentially \"recalls\" issued by the F-A-A to correct unsafe conditions in aircraft, engines, propellers, or appliances.",
-      "start": 2109.45,
-      "end": 2123.4
+      "start": 1977.18,
+      "end": 1990.2
     },
     {
       "text": "Compliance with ADs is mandatory .",
-      "start": 2125.2,
-      "end": 2127.75
+      "start": 1992.0,
+      "end": 1994.38
     },
     {
       "text": "Emergency ADs: Require immediate compliance.",
-      "start": 2127.75,
-      "end": 2131.05
+      "start": 1994.38,
+      "end": 1997.46
     },
     {
       "text": "Less Urgent ADs: Require compliance within a specified period of time.",
-      "start": 2131.05,
-      "end": 2136.3
+      "start": 1997.46,
+      "end": 2002.36
     },
     {
       "text": "Inoperative Equipment  14 C-F-R part 91 describes the acceptable methods for the operation of an aircraft with certain inoperative instruments and equipment which are not essential for safe flight.",
-      "start": 2136.9,
-      "end": 2151.68
+      "start": 2002.96,
+      "end": 2016.75
     },
     {
       "text": "Operation WITHOUT a Minimum Equipment List (MEL): Most Sport and General Aviation aircraft operate without an MEL.",
-      "start": 2153.48,
-      "end": 2162.03
+      "start": 2018.55,
+      "end": 2026.53
     },
     {
       "text": "If equipment is inoperative, the pilot must check 14 C-F-R 91.213(d).",
-      "start": 2162.03,
-      "end": 2167.2
+      "start": 2026.53,
+      "end": 2031.36
     },
     {
       "text": "The pilot must determine if the inoperative equipment is required by: The VFR-day type certificate instruments and equipment requirements.",
-      "start": 2167.2,
-      "end": 2177.55
+      "start": 2031.36,
+      "end": 2041.02
     },
     {
       "text": "The aircraft's equipment list or Kinds of Operations Equipment List (KOEL).",
-      "start": 2177.55,
-      "end": 2183.18
+      "start": 2041.02,
+      "end": 2046.27
     },
     {
       "text": "14 C-F-R part 91.205 (Required instruments for V-F-R flight - TOMATO FLAMES).",
-      "start": 2183.78,
-      "end": 2189.55
+      "start": 2046.87,
+      "end": 2052.26
     },
     {
       "text": "Airworthiness Directives (ADs).",
-      "start": 2190.15,
-      "end": 2192.48
+      "start": 2052.86,
+      "end": 2055.03
     },
     {
       "text": "If the equipment is NOT required, it must be: Deactivated and placarded \"Inoperative\" , OR  Removed from the aircraft, the weight and balance updated, and the cockpit control placarded \"Inoperative\".",
-      "start": 2193.08,
-      "end": 2208.0
+      "start": 2055.63,
+      "end": 2069.56
     },
     {
       "text": "---  PHAK Chapter 10: Weight and Balance (Sport Pilot Filter) Introduction  Compliance with the weight and balance limits of any aircraft is critical to flight safety.",
-      "start": 2208.6,
-      "end": 2221.13
+      "start": 2070.16,
+      "end": 2081.85
     },
     {
       "text": "Operating above the maximum weight limitation compromises the structural integrity of an aircraft and adversely affects its performance.",
-      "start": 2222.93,
-      "end": 2233.13
+      "start": 2083.65,
+      "end": 2093.17
     },
     {
       "text": "Operation with the center of gravity (CG) outside the approved limits results in control difficulty.",
-      "start": 2233.13,
-      "end": 2240.63
+      "start": 2093.17,
+      "end": 2100.17
     },
     {
       "text": "Weight Control  Weight is the force with which gravity attracts a body toward the center of the Earth.",
-      "start": 2240.63,
-      "end": 2248.28
+      "start": 2100.17,
+      "end": 2107.31
     },
     {
       "text": "It is a product of the mass of a body and the acceleration acting on the body.",
-      "start": 2249.48,
-      "end": 2255.33
+      "start": 2108.51,
+      "end": 2113.97
     },
     {
       "text": "Weight is a major factor in aircraft construction and operation and demands respect from all pilots.",
-      "start": 2255.33,
-      "end": 2262.83
+      "start": 2113.97,
+      "end": 2120.97
     },
     {
       "text": "The force of gravity continuously attempts to pull an aircraft down toward Earth.",
-      "start": 2262.83,
-      "end": 2268.9
+      "start": 2120.97,
+      "end": 2126.64
     },
     {
       "text": "The force of lift is the only force that counteracts weight and sustains an aircraft in flight.",
-      "start": 2268.9,
-      "end": 2276.03
+      "start": 2126.64,
+      "end": 2133.29
     },
     {
       "text": "The amount of lift produced by an airfoil is limited by the airfoil design, angle of attack (AOA), airspeed, and air density.",
-      "start": 2276.03,
-      "end": 2285.4
+      "start": 2133.29,
+      "end": 2142.04
     },
     {
       "text": "To assure that the lift generated is sufficient to counteract weight, loading an aircraft beyond the manufacturer\u2019s recommended weight must be avoided.",
-      "start": 2285.4,
-      "end": 2296.73
+      "start": 2142.04,
+      "end": 2152.61
     },
     {
       "text": "If the weight is greater than the lift generated, the aircraft may be incapable of flight.",
-      "start": 2296.73,
-      "end": 2303.48
+      "start": 2152.61,
+      "end": 2158.91
     },
     {
       "text": "Effects of Weight  Any item aboard the aircraft that increases the total weight is undesirable for performance.",
-      "start": 2303.48,
-      "end": 2311.8
+      "start": 2158.91,
+      "end": 2166.68
     },
     {
       "text": "Manufacturers attempt to make the aircraft as light as possible without sacrificing strength or safety.",
-      "start": 2313.0,
-      "end": 2320.73
+      "start": 2167.88,
+      "end": 2175.09
     },
     {
       "text": "Excessive weight reduces the flight performance in almost every respect.",
-      "start": 2320.73,
-      "end": 2326.13
+      "start": 2175.09,
+      "end": 2180.13
     },
     {
       "text": "For example, the most important performance deficiencies of an overloaded aircraft are: Higher takeoff speed.",
-      "start": 2326.13,
-      "end": 2334.3
+      "start": 2180.13,
+      "end": 2187.76
     },
     {
       "text": "Longer takeoff run.",
-      "start": 2334.3,
-      "end": 2335.73
+      "start": 2187.76,
+      "end": 2189.09
     },
     {
       "text": "Reduced rate and 22angle of climb.",
-      "start": 2336.33,
-      "end": 2338.88
+      "start": 2189.69,
+      "end": 2192.07
     },
     {
       "text": "Lower maximum altitude.",
-      "start": 2339.48,
-      "end": 2341.2
+      "start": 2192.67,
+      "end": 2194.28
     },
     {
       "text": "Shorter range.",
-      "start": 2341.8,
-      "end": 2342.85
+      "start": 2194.88,
+      "end": 2195.86
     },
     {
       "text": "Reduced cruising speed.",
-      "start": 2343.45,
-      "end": 2345.18
+      "start": 2196.46,
+      "end": 2198.07
     },
     {
       "text": "Reduced maneuverability.",
-      "start": 2345.78,
-      "end": 2347.58
+      "start": 2198.67,
+      "end": 2200.35
     },
     {
       "text": "Higher stalling speed.",
-      "start": 2348.18,
-      "end": 2349.83
+      "start": 2200.95,
+      "end": 2202.49
     },
     {
       "text": "Higher approach and landing speed.",
-      "start": 2350.43,
-      "end": 2352.98
+      "start": 2203.09,
+      "end": 2205.47
     },
     {
       "text": "Longer landing roll.",
-      "start": 2353.58,
-      "end": 2355.08
+      "start": 2206.07,
+      "end": 2207.47
     },
     {
       "text": "Excessive weight on the nose wheel or tail wheel.",
-      "start": 2355.68,
-      "end": 2359.35
+      "start": 2208.07,
+      "end": 2211.5
     },
     {
       "text": "Balance, Stability,47 and Center of Gravity  Balance refers to the location of the CG of an aircraft, and is important to stability and safety in flight.",
-      "start": 2359.95,
-      "end": 2371.43
+      "start": 2212.1,
+      "end": 2222.81
     },
     {
       "text": "The CG is a point at which the aircraft would balance if it were suspended at that point.",
-      "start": 2373.23,
-      "end": 2379.9
+      "start": 2224.61,
+      "end": 2230.84
     },
     {
       "text": "The prime concern of aircraft balancing is the fore and aft location of the CG along the longitudinal axis.",
-      "start": 2379.9,
-      "end": 2387.93
+      "start": 2230.84,
+      "end": 2238.33
     },
     {
       "text": "Effects of Adverse Balance  Adverse balance conditions affect flight characteristics in much the same way as those of an unstable aircraft.",
-      "start": 2387.93,
-      "end": 2398.35
+      "start": 2238.33,
+      "end": 2248.06
     },
     {
       "text": "CG 60Too Far Forward  The aircraft stalls at a higher speed with a forward CG location.",
-      "start": 2399.55,
-      "end": 2406.08
+      "start": 2249.26,
+      "end": 2255.35
     },
     {
       "text": "This is because the stalled AOA is reached at a higher speed due to increased wing loading.",
-      "start": 2407.28,
-      "end": 2414.1
+      "start": 2256.55,
+      "end": 2262.92
     },
     {
       "text": "Takeoff: Higher elevator control forces are required to raise the nose.",
-      "start": 2414.1,
-      "end": 2419.43
+      "start": 2262.92,
+      "end": 2267.89
     },
     {
       "text": "Landing: It may be difficult or impossible to flare for landing.",
-      "start": 2419.43,
-      "end": 2424.23
+      "start": 2267.89,
+      "end": 2272.37
     },
     {
       "text": "The aircraft may land on its nosewheel first.",
-      "start": 2424.83,
-      "end": 2428.2
+      "start": 2272.97,
+      "end": 2276.12
     },
     {
       "text": "CG Too Far Aft  The aircraft becomes tail heavy and very unstable in pitch.",
-      "start": 2428.2,
-      "end": 2433.83
+      "start": 2276.12,
+      "end": 2281.37
     },
     {
       "text": "Stall/Spin Recovery: Recovery from a stall or spin becomes more difficult, or impossible, because the pilot may not have enough elevator control authority to lower the nose.",
-      "start": 2435.63,
-      "end": 2448.6
+      "start": 2283.17,
+      "end": 2295.28
     },
     {
       "text": "This is the most critical W\\&B hazard.",
-      "start": 2448.6,
-      "end": 2451.45
+      "start": 2295.28,
+      "end": 2297.94
     },
     {
       "text": "Cruise: The aircraft is less stable and harder to fly, as it tends to pitch up.",
-      "start": 2451.45,
-      "end": 2457.38
+      "start": 2297.94,
+      "end": 2303.47
     },
     {
       "text": "[See Figure 10-1: Effects of CG location] Management of Weight and Balance Control  Weight and balance control consists of: Weight Control: Kept within the limits for the aircraft.",
-      "start": 2457.98,
-      "end": 2471.48
+      "start": 2304.07,
+      "end": 2316.67
     },
     {
       "text": "Balance Control: Maintenance of the CG within allowable limits.",
-      "start": 2473.28,
-      "end": 2478.0
+      "start": 2318.47,
+      "end": 2322.88
     },
     {
       "text": "Terms and Definitions  Arm: The horizontal distance in inches from the reference datum line to the CG of an item.",
-      "start": 2478.6,
-      "end": 2487.08
+      "start": 2323.48,
+      "end": 2331.39
     },
     {
       "text": "Stations forward of the datum have negative (-) arms.",
-      "start": 2488.88,
-      "end": 2492.85
+      "start": 2333.19,
+      "end": 2336.9
     },
     {
       "text": "Stations aft of the datum have positive (+) arms.",
-      "start": 2493.45,
-      "end": 2497.13
+      "start": 2337.5,
+      "end": 2340.93
     },
     {
       "text": "Datum: An imaginary vertical plane or line from which all measurements of arm are taken.",
-      "start": 2497.73,
-      "end": 2504.33
+      "start": 2341.53,
+      "end": 2347.69
     },
     {
       "text": "It is established by the manufacturer (e.g., the firewall, the nose, or the leading edge of the wing).",
-      "start": 2504.93,
-      "end": 2512.58
+      "start": 2348.29,
+      "end": 2355.43
     },
     {
       "text": "Moment: The product of the weight of an item multiplied by its arm.",
-      "start": 2512.58,
-      "end": 2517.6
+      "start": 2355.43,
+      "end": 2360.12
     },
     {
       "text": "(Weight x Arm \\= Moment).",
-      "start": 2518.2,
-      "end": 2520.08
+      "start": 2360.72,
+      "end": 2362.47
     },
     {
       "text": "Center of Gravity (CG): The point about which an aircraft would balance if it were possible to suspend it at that point.",
-      "start": 2520.08,
-      "end": 2529.08
+      "start": 2362.47,
+      "end": 2370.87
     },
     {
       "text": "It is the mass center of the aircraft, or the theoretical point at which the entire weight of the aircraft is assumed to be concentrated.",
-      "start": 2529.68,
-      "end": 2539.95
+      "start": 2371.47,
+      "end": 2381.06
     },
     {
       "text": "Empty Weight: The weight of the airframe, engines, and all items of operating equipment that have fixed locations and are permanently installed in the aircraft.",
-      "start": 2539.95,
-      "end": 2551.95
+      "start": 2381.06,
+      "end": 2392.26
     },
     {
       "text": "Includes fixed ballast, hydraulic fluid, unusable fuel, and full oil.",
-      "start": 2552.55,
-      "end": 2557.73
+      "start": 2392.86,
+      "end": 2397.69
     },
     {
       "text": "Useful Load: The weight of the pilot, copilot, passengers, baggage, usable fuel, and drainable oil.",
-      "start": 2557.73,
-      "end": 2565.15
+      "start": 2397.69,
+      "end": 2404.62
     },
     {
       "text": "[See Figure 10-2: Weight and balance definitions] Determining Loaded Weight and CG  There are two general methods for determining the loaded weight and CG of an aircraft: the computational method and the graph method .",
-      "start": 2565.75,
-      "end": 2582.1
+      "start": 2405.22,
+      "end": 2420.48
     },
     {
       "text": "Computational Method  To calculate the CG, you need the weight and arm of each item loaded.",
-      "start": 2583.9,
-      "end": 2590.73
+      "start": 2422.28,
+      "end": 2428.65
     },
     {
       "text": "Formula: Total Moment / Total Weight \\= Center of Gravity (CG) Steps:  List the weight of the aircraft, occupants, fuel, and baggage.",
-      "start": 2591.93,
-      "end": 2601.9
+      "start": 2429.85,
+      "end": 2439.16
     },
     {
       "text": "Enter the arm for each item (from the POH).",
-      "start": 2603.1,
-      "end": 2606.33
+      "start": 2440.36,
+      "end": 2443.37
     },
     {
       "text": "Multiply Weight x Arm to find the Moment for each item.",
-      "start": 2606.93,
-      "end": 2611.05
+      "start": 2443.97,
+      "end": 2447.82
     },
     {
       "text": "Add all Weights to get Total Weight .",
-      "start": 2611.65,
-      "end": 2614.43
+      "start": 2448.42,
+      "end": 2451.01
     },
     {
       "text": "Add all Moments to get Total Moment .",
-      "start": 2615.03,
-      "end": 2617.8
+      "start": 2451.61,
+      "end": 2454.2
     },
     {
       "text": "Divide Total Moment by Total Weight to find the CG .",
-      "start": 2618.4,
-      "end": 2622.3
+      "start": 2454.8,
+      "end": 2458.44
     },
     {
       "text": "Example Problem:  Aircraft Empty Weight: 1,000 lbs, Arm: 80\" -> Moment: 80,000  Pilot: 200 lbs, Arm: 85\" -> Moment: 17,000  Fuel: 100 lbs, Arm: 90\" -> Moment: 9,000  Total Weight: 1,300 lbs  Total Moment: 106,000  CG: 106,000 / 1,300 \\= 81.5 inches  Graph Method  This method avoids the math of multiplying weight by arm.",
-      "start": 2622.9,
-      "end": 2646.98
+      "start": 2459.04,
+      "end": 2481.51
     },
     {
       "text": "The manufacturer provides a graph for each item (fuel, passengers, baggage).",
-      "start": 2648.78,
-      "end": 2654.48
+      "start": 2483.31,
+      "end": 2488.63
     },
     {
       "text": "Find the weight of the item on the vertical scale.",
-      "start": 2654.48,
-      "end": 2658.23
+      "start": 2488.63,
+      "end": 2492.13
     },
     {
       "text": "Move across to the diagonal line for that item.",
-      "start": 2658.23,
-      "end": 2661.75
+      "start": 2492.13,
+      "end": 2495.42
     },
     {
       "text": "Move down to read the moment (or index number) on the bottom scale.",
-      "start": 2662.35,
-      "end": 2667.38
+      "start": 2496.02,
+      "end": 2500.71
     },
     {
       "text": "Add the total weights and total moments.",
-      "start": 2667.98,
-      "end": 2670.98
+      "start": 2501.31,
+      "end": 2504.11
     },
     {
       "text": "Check the \"Center of Gravity Moment Envelope\" graph to see if the total weight and total moment fall within the safe \"envelope\" box.",
-      "start": 2671.58,
-      "end": 2681.48
+      "start": 2504.71,
+      "end": 2513.95
     },
     {
       "text": "[See Figure 10-5: Loading graph and CG envelope] Weight Shift  A common problem is shifting weight (moving a passenger or cargo) to move the CG.",
-      "start": 2682.08,
-      "end": 2692.88
+      "start": 2514.55,
+      "end": 2524.63
     },
     {
       "text": "Formula: Weight Moved / Total Weight \\= \u0394CG / Distance Moved Example:  Total Weight: 2,000 lbs  Weight moved: 100 lbs (Passenger moves from rear seat to front seat)  Distance moved: 50 inches  Calculate CG change \u0394CG: 100 / 2000 \\= \u0394CG / 50 0.05 \\= \u0394CG / 50 CG \\= 2.5 inches  If the weight is moved forward, the CG moves forward.",
-      "start": 2694.68,
-      "end": 2719.35
+      "start": 2526.43,
+      "end": 2549.46
     },
     {
       "text": "If moved aft, the CG moves aft.",
-      "start": 2721.15,
-      "end": 2723.48
+      "start": 2551.26,
+      "end": 2553.43
     },
     {
       "text": "---  PHAK Chapter 11: Aircraft Performance (Sport Pilot Filter) Introduction  This chapter discusses the factors that affect aircraft performance, which include the aircraft weight, atmospheric conditions, runway environment, and the fundamental physical laws governing the forces acting on an aircraft.",
-      "start": 2723.48,
-      "end": 2746.2
+      "start": 2553.43,
+      "end": 2574.64
     },
     {
       "text": "Importance of Performance Data  The performance or operational information section of the Aircraft Flight Manual/Pilot\u2019s Operating Handbook (AFM/POH) contains the operating data for the aircraft; that is, the data pertaining to takeoff, climb, range, endurance, descent, and landing.",
-      "start": 2747.4,
-      "end": 2768.63
+      "start": 2575.84,
+      "end": 2595.65
     },
     {
       "text": "The use of this data in flying operations is mandatory for safe and efficient operation.",
-      "start": 2769.83,
-      "end": 2776.43
+      "start": 2596.85,
+      "end": 2603.01
     },
     {
       "text": "Structure of the Atmosphere  The atmosphere is an envelope of air that surrounds the Earth and rests upon its surface.",
-      "start": 2776.43,
-      "end": 2785.28
+      "start": 2603.01,
+      "end": 2611.27
     },
     {
       "text": "It is as much a part of the Earth as the seas or the land.",
-      "start": 2786.48,
-      "end": 2790.83
+      "start": 2612.47,
+      "end": 2616.53
     },
     {
       "text": "Atmospheric Pressure  The pressure of the atmosphere varies with time and location.",
-      "start": 2790.83,
-      "end": 2797.05
+      "start": 2616.53,
+      "end": 2622.34
     },
     {
       "text": "Due to the changing atmospheric pressure, a standard reference was developed.",
-      "start": 2798.25,
-      "end": 2804.03
+      "start": 2623.54,
+      "end": 2628.93
     },
     {
       "text": "The standard atmosphere at sea level is a surface temperature of 59 \u00b0F or 15 \u00b0C and a surface pressure of 29.92 inches of mercury (\"Hg) or 1,013.2 mb.",
-      "start": 2804.03,
-      "end": 2815.28
+      "start": 2628.93,
+      "end": 2639.43
     },
     {
       "text": "[See Figure 11-2: Standard Sea Level Pressure] Pressure Altitude  Pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 \"Hg (1,013.2 mb) as measured by a barometer.",
-      "start": 2815.28,
-      "end": 2834.1
+      "start": 2639.43,
+      "end": 2657.0
     },
     {
       "text": "Density Altitude  Density altitude is pressure altitude corrected for nonstandard temperature.",
-      "start": 2835.3,
-      "end": 2842.35
+      "start": 2658.2,
+      "end": 2664.78
     },
     {
       "text": "Effect on Performance: As the density of the air increases (lower density altitude), aircraft performance increases; conversely as air density decreases (higher density altitude), aircraft performance decreases.",
-      "start": 2843.55,
-      "end": 2859.38
+      "start": 2665.98,
+      "end": 2680.75
     },
     {
       "text": "High Density Altitude: High density altitude refers to thin air, while low density altitude refers to dense air.",
-      "start": 2859.38,
-      "end": 2867.78
+      "start": 2680.75,
+      "end": 2688.59
     },
     {
       "text": "The conditions that result in a high density altitude are high elevations, low atmospheric pressures, high temperatures, high humidity, or some combination of these factors.",
-      "start": 2868.38,
-      "end": 2881.35
+      "start": 2689.19,
+      "end": 2701.3
     },
     {
       "text": "Effect of Humidity:  Water vapor is lighter than air; consequently, moist air is lighter than dry air.",
-      "start": 2881.35,
-      "end": 2889.0
+      "start": 2701.3,
+      "end": 2708.44
     },
     {
       "text": "Therefore, as the water content of the air increases, the air becomes less dense, increasing density altitude and decreasing performance.",
-      "start": 2890.8,
-      "end": 2901.08
+      "start": 2710.24,
+      "end": 2719.83
     },
     {
       "text": "Performance  Performance is a term used to describe the ability of an aircraft to accomplish certain things that make it useful for certain purposes.",
-      "start": 2901.08,
-      "end": 2912.25
+      "start": 2719.83,
+      "end": 2730.26
     },
     {
       "text": "The primary factors most affected by performance are the takeoff and landing distance, rate of climb, ceiling, payload, range, speed, maneuverability, stability, and fuel economy.",
-      "start": 2913.45,
-      "end": 2926.88
+      "start": 2731.46,
+      "end": 2743.99
     },
     {
       "text": "Straight-and-Level Flight  In straight-and-level flight (constant heading and altitude), lift equals weight and thrust equals drag.",
-      "start": 2926.88,
-      "end": 2936.7
+      "start": 2743.99,
+      "end": 2753.16
     },
     {
       "text": "Climb Performance  Climb performance reflects the ability of the aircraft to climb.",
-      "start": 2937.9,
-      "end": 2944.13
+      "start": 2754.36,
+      "end": 2760.17
     },
     {
       "text": "Best Angle of Climb VX: The airspeed that delivers the greatest gain of altitude in the shortest distance of ground travel.",
-      "start": 2945.33,
-      "end": 2954.55
+      "start": 2761.37,
+      "end": 2769.98
     },
     {
       "text": "It is used to clear obstacles after takeoff.",
-      "start": 2954.55,
-      "end": 2957.85
+      "start": 2769.98,
+      "end": 2773.06
     },
     {
       "text": "Best Rate of Climb VY: The airspeed that provides the most altitude in a given period of time.",
-      "start": 2957.85,
-      "end": 2964.9
+      "start": 2773.06,
+      "end": 2779.64
     },
     {
       "text": "Range Performance  The ability of an aircraft to convert fuel energy into flying distance is one of the most important items of aircraft performance.",
-      "start": 2965.5,
-      "end": 2976.68
+      "start": 2780.24,
+      "end": 2790.67
     },
     {
       "text": "Maximum Range: The maximum distance the aircraft can fly for a given fuel supply.",
-      "start": 2978.48,
-      "end": 2984.55
+      "start": 2792.47,
+      "end": 2798.14
     },
     {
       "text": "Maximum Endurance: The maximum amount of time an aircraft can fly for a given fuel supply.",
-      "start": 2984.55,
-      "end": 2991.3
+      "start": 2798.14,
+      "end": 2804.44
     },
     {
       "text": "Takeoff and Landing Performance  The majority of pilot-caused aircraft accidents occur during the takeoff and landing phase of flight.",
-      "start": 2991.9,
-      "end": 3001.95
+      "start": 2805.04,
+      "end": 2814.42
     },
     {
       "text": "Because of this fact, the pilot must be sophisticated in technical knowledge and the ability to evaluate the effect of various operational factors.",
-      "start": 3003.75,
-      "end": 3014.78
+      "start": 2816.22,
+      "end": 2826.51
     },
     {
       "text": "Runway Surface and Gradient  Surface: Runways that are not hard and smooth surfaces increase the ground roll during takeoff.",
-      "start": 3014.78,
-      "end": 3024.08
+      "start": 2826.51,
+      "end": 2835.19
     },
     {
       "text": "This is due to increased friction between the tires and the runway.",
-      "start": 3025.28,
-      "end": 3030.3
+      "start": 2836.39,
+      "end": 2841.08
     },
     {
       "text": "Grass, dirt, and wet runways all increase the ground roll.",
-      "start": 3030.3,
-      "end": 3034.65
+      "start": 2841.08,
+      "end": 2845.14
     },
     {
       "text": "Gradient: A positive gradient (upslope) increases the takeoff distance and decreases the landing distance.",
-      "start": 3034.65,
-      "end": 3042.6
+      "start": 2845.14,
+      "end": 2852.56
     },
     {
       "text": "A negative gradient (downslope) decreases the takeoff distance and increases the landing distance.",
-      "start": 3043.2,
-      "end": 3050.55
+      "start": 2853.16,
+      "end": 2860.02
     },
     {
       "text": "Wind  Headwind: A headwind shortens the takeoff run and increases the angle of climb.",
-      "start": 3050.55,
-      "end": 3056.93
+      "start": 2860.02,
+      "end": 2865.97
     },
     {
       "text": "It also shortens the landing roll.",
-      "start": 3058.73,
-      "end": 3061.28
+      "start": 2867.77,
+      "end": 2870.15
     },
     {
       "text": "Tailwind: A tailwind increases the takeoff run and decreases the angle of climb.",
-      "start": 3061.28,
-      "end": 3067.28
+      "start": 2870.15,
+      "end": 2875.75
     },
     {
       "text": "It also increases the landing roll.",
-      "start": 3067.88,
-      "end": 3070.5
+      "start": 2876.35,
+      "end": 2878.8
     },
     {
       "text": "Performance Charts  Performance charts allow a pilot to predict the takeoff, climb, cruise, and landing performance of an aircraft.",
-      "start": 3070.5,
-      "end": 3080.33
+      "start": 2878.8,
+      "end": 2887.97
     },
     {
       "text": "Interpolation  To interpolate means to compute intermediate values between a series of known values.",
-      "start": 3082.13,
-      "end": 3089.63
+      "start": 2889.77,
+      "end": 2896.77
     },
     {
       "text": "Example: If the book values for takeoff distance are 1,000 feet at 2,000 feet altitude and 1,200 feet at 4,000 feet altitude, the distance at 3,000 feet (halfway between) would be 1,100 feet.",
-      "start": 3090.83,
-      "end": 3105.15
+      "start": 2897.97,
+      "end": 2911.34
     },
     {
       "text": "Density Altitude Charts  These charts allow the pilot to compute the density altitude for a given pressure altitude and temperature.",
-      "start": 3105.15,
-      "end": 3115.05
+      "start": 2911.34,
+      "end": 2920.58
     },
     {
       "text": "[See Figure 11-13: Density altitude chart] Takeoff Charts  Takeoff charts are typically provided in several forms and allow a pilot to compute the takeoff distance of the aircraft with flaps set to a specific position.",
-      "start": 3116.25,
-      "end": 3132.6
+      "start": 2921.78,
+      "end": 2937.04
     },
     {
       "text": "Ground Roll: The distance required for the aircraft to lift off.",
-      "start": 3133.8,
-      "end": 3138.6
+      "start": 2938.24,
+      "end": 2942.72
     },
     {
       "text": "50-foot Obstacle: The distance required to lift off and climb over a 50-foot obstacle.",
-      "start": 3138.6,
-      "end": 3145.05
+      "start": 2942.72,
+      "end": 2948.74
     },
     {
       "text": "[See Figure 11-15: Takeoff distance graph] Crosswind and Headwind Component Chart  This chart is used to determine the headwind and crosswind components of the wind.",
-      "start": 3145.65,
-      "end": 3158.03
+      "start": 2949.34,
+      "end": 2960.89
     },
     {
       "text": "Crosswind Component: The portion of the wind acting perpendicular to the runway.",
-      "start": 3159.83,
-      "end": 3165.83
+      "start": 2962.69,
+      "end": 2968.29
     },
     {
       "text": "Headwind Component: The portion of the wind acting parallel to the runway.",
-      "start": 3165.83,
-      "end": 3171.38
+      "start": 2968.29,
+      "end": 2973.47
     },
     {
       "text": "[See Figure 11-23: Crosswind component chart] Landing Charts  Landing performance information is available in the AFM/POH.",
-      "start": 3171.98,
-      "end": 3181.13
+      "start": 2974.07,
+      "end": 2982.61
     },
     {
       "text": "Landing Distance: The distance required to land and come to a complete stop.",
-      "start": 3182.93,
-      "end": 3188.63
+      "start": 2984.41,
+      "end": 2989.73
     },
     {
       "text": "Factors: Landing distance is affected by weight, altitude, wind, and runway condition (wet/dry/grass).",
-      "start": 3188.63,
-      "end": 3196.28
+      "start": 2989.73,
+      "end": 2996.87
     },
     {
       "text": "[See Figure 11-24: Landing distance table]",
-      "start": 3196.88,
-      "end": 3200.03
+      "start": 2997.47,
+      "end": 3000.41
     }
   ]
 }
