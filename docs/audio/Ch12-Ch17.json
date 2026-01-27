@@ -7,2022 +7,2022 @@
     {
       "text": "---  PHAK Chapter 12: Weather Theory (Sport Pilot Filter) Introduction  Weather is an important factor that influences aircraft performance and flying safety.",
       "start": 0.0,
-      "end": 11.06
+      "end": 11.85
     },
     {
       "text": "It is the state of the atmosphere at a given time and place with respect to variables, such as temperature, moisture, wind velocity, visibility, and barometric pressure.",
-      "start": 12.26,
-      "end": 24.09
+      "start": 12.85,
+      "end": 25.52
     },
     {
       "text": "Atmosphere  The atmosphere is a blanket of air made up of a mixture of gases that surrounds the Earth and reaches almost 350 miles from the surface of the Earth.",
-      "start": 24.09,
-      "end": 35.36
+      "start": 25.52,
+      "end": 37.6
     },
     {
       "text": "Composition  The atmosphere is composed of 78 percent nitrogen , 21 percent oxygen , and 1 percent other gases.",
-      "start": 36.56,
-      "end": 44.33
+      "start": 38.6,
+      "end": 46.92
     },
     {
       "text": "Atmospheric Circulation  The movement of air around the surface of the Earth is called atmospheric circulation Uneven Heating: The heating of the Earth by the sun is unequal.",
-      "start": 45.53,
-      "end": 57.71
+      "start": 47.92,
+      "end": 60.97
     },
     {
       "text": "This causes a large-scale movement of air that creates the circulation.",
-      "start": 58.91,
-      "end": 63.88
+      "start": 61.97,
+      "end": 67.3
     },
     {
       "text": "Coriolis Force: This force deflects air to the right in the Northern Hemisphere.",
-      "start": 63.88,
-      "end": 69.48
+      "start": 67.3,
+      "end": 73.3
     },
     {
       "text": "It is caused by the Earth\u2019s rotation.",
-      "start": 70.08,
-      "end": 72.67
+      "start": 73.8,
+      "end": 76.58
     },
     {
       "text": "Measurement of Atmosphere Pressure  Atmospheric pressure is the force per unit area exerted by the weight of the atmosphere.",
-      "start": 72.67,
-      "end": 81.35
+      "start": 76.58,
+      "end": 85.88
     },
     {
       "text": "Standard Pressure: 29.92 \"Hg (1,013.2 mb).",
-      "start": 83.15,
-      "end": 86.09
+      "start": 87.38,
+      "end": 90.53
     },
     {
       "text": "Measurement: Measured with a barometer.",
-      "start": 86.09,
-      "end": 88.82
+      "start": 90.53,
+      "end": 93.45
     },
     {
       "text": "High pressure usually indicates good weather; low pressure often brings bad weather.",
-      "start": 89.42,
-      "end": 95.3
+      "start": 93.95,
+      "end": 100.25
     },
     {
       "text": "Wind  Air flows from areas of high pressure into areas of low pressure because air always seeks to flow out from high pressure.",
-      "start": 95.3,
-      "end": 104.19
+      "start": 100.25,
+      "end": 109.78
     },
     {
       "text": "Convective Currents  Plowed ground, rocks, sand, and barren land give off a large amount of heat; water and vegetation tend to absorb and retain heat.",
-      "start": 105.99,
-      "end": 116.49
+      "start": 111.28,
+      "end": 122.53
     },
     {
       "text": "The resulting uneven heating of the air creates small areas of local circulation called convective currents.",
-      "start": 117.69,
-      "end": 125.25
+      "start": 123.53,
+      "end": 131.62
     },
     {
       "text": "Effect on Approach: When landing over a paved surface (heat), the air may rise, causing the aircraft to balloon.",
-      "start": 125.25,
-      "end": 133.09
+      "start": 131.62,
+      "end": 140.03
     },
     {
       "text": "When landing over water or vegetation (cool), the air may sink, causing the aircraft to sink.",
-      "start": 133.09,
-      "end": 139.6
+      "start": 140.03,
+      "end": 147.0
     },
     {
       "text": "Wind Shear  Wind shear is a sudden, drastic change in wind speed and/or direction over a very small area.",
-      "start": 139.6,
-      "end": 146.95
+      "start": 147.0,
+      "end": 154.88
     },
     {
       "text": "It can subject an aircraft to violent updrafts and downdrafts as well as abrupt changes to the horizontal movement of the aircraft.",
-      "start": 148.75,
-      "end": 157.92
+      "start": 156.38,
+      "end": 166.2
     },
     {
       "text": "Microburst: The most severe type of low-level wind shear.",
-      "start": 157.92,
-      "end": 161.91
+      "start": 166.2,
+      "end": 170.47
     },
     {
       "text": "It is associated with convective precipitation (thunderstorms).",
-      "start": 161.91,
-      "end": 166.32
+      "start": 170.47,
+      "end": 175.2
     },
     {
       "text": "A microburst can produce downdrafts of up to 6,000 feet per minute.",
-      "start": 166.32,
-      "end": 171.01
+      "start": 175.2,
+      "end": 180.22
     },
     {
       "text": "Atmospheric Stability  Stability is the atmosphere's ability to resist vertical motion.",
-      "start": 171.01,
-      "end": 177.1
+      "start": 180.22,
+      "end": 186.75
     },
     {
       "text": "A stable atmosphere makes vertical movement difficult, and small vertical disturbances dampen out and disappear.",
-      "start": 178.9,
-      "end": 186.74
+      "start": 188.25,
+      "end": 196.65
     },
     {
       "text": "An unstable atmosphere allows an upward or downward disturbance to grow into a vertical or convective current.",
-      "start": 186.74,
-      "end": 194.44
+      "start": 196.65,
+      "end": 204.9
     },
     {
       "text": "Inversion  An inversion occurs when the temperature of the air increases with altitude (normally it decreases).",
-      "start": 194.44,
-      "end": 202.21
+      "start": 204.9,
+      "end": 213.22
     },
     {
       "text": "Surface Inversion: Often formed on clear, cool nights when the ground radiates heat and cools the air directly above it.",
-      "start": 203.41,
-      "end": 211.81
+      "start": 214.22,
+      "end": 223.22
     },
     {
       "text": "Hazards: Inversions can trap fog, smoke, and other restrictions to visibility near the surface.",
-      "start": 211.81,
-      "end": 218.46
+      "start": 223.22,
+      "end": 230.35
     },
     {
       "text": "Moisture and Temperature  Dew Point: The temperature at which the air can hold no more moisture (saturation).",
-      "start": 219.06,
-      "end": 226.69
+      "start": 230.85,
+      "end": 239.03
     },
     {
       "text": "Temperature/Dew Point Spread: When the temperature and dew point converge (are within 5\u00b0F or 3\u00b0C, visible moisture in the form of clouds, dew, or fog is likely to form.",
-      "start": 228.49,
-      "end": 240.25
+      "start": 240.53,
+      "end": 253.12
     },
     {
       "text": "Methods for Cloud Formation  Clouds are visible moisture.",
-      "start": 240.85,
-      "end": 244.84
+      "start": 253.62,
+      "end": 257.9
     },
     {
       "text": "To form, there must be adequate water vapor, condensation nuclei (dust/smoke), and a method by which the air can be cooled to its saturation point.",
-      "start": 246.64,
-      "end": 256.93
+      "start": 259.4,
+      "end": 270.42
     },
     {
       "text": "Cloud Families  Clouds are divided into four families based on their height:  High Clouds: Cirrus, Cirrostratus, Cirrocumulus.",
-      "start": 256.93,
-      "end": 265.75
+      "start": 270.42,
+      "end": 279.87
     },
     {
       "text": "(Usually ice crystals, little turbulence).",
-      "start": 266.95,
-      "end": 269.89
+      "start": 280.87,
+      "end": 284.02
     },
     {
       "text": "Middle Clouds: Altostratus, Altocumulus.",
-      "start": 269.89,
-      "end": 272.69
+      "start": 284.02,
+      "end": 287.02
     },
     {
       "text": "(Moderate turbulence, potential icing).",
-      "start": 273.29,
-      "end": 276.02
+      "start": 287.52,
+      "end": 290.45
     },
     {
       "text": "Low Clouds: Stratus, Stratocumulus, Nimbostratus.",
-      "start": 276.02,
-      "end": 279.45
+      "start": 290.45,
+      "end": 294.12
     },
     {
       "text": "(Create low ceilings, hamper visibility).",
-      "start": 280.05,
-      "end": 282.92
+      "start": 294.62,
+      "end": 297.7
     },
     {
       "text": "Clouds with Vertical Development: Cumulus, Towering Cumulus, Cumulonimbus.",
-      "start": 282.92,
-      "end": 288.1
+      "start": 297.7,
+      "end": 303.25
     },
     {
       "text": "(Indicate instability, high turbulence).",
-      "start": 288.7,
-      "end": 291.5
+      "start": 303.75,
+      "end": 306.75
     },
     {
       "text": "Stability Characteristics:  Stable Air: Stratiform clouds (flat), continuous precipitation, smooth air, fair to poor visibility.",
-      "start": 291.5,
-      "end": 300.46
+      "start": 306.75,
+      "end": 316.35
     },
     {
       "text": "Unstable Air: Cumuliform clouds (puffy), showery precipitation, rough air (turbulence), good visibility.",
-      "start": 302.26,
-      "end": 309.54
+      "start": 317.85,
+      "end": 325.65
     },
     {
       "text": "Air Masses  An air mass is a large body of air that takes on the characteristics of the surrounding area (source region).",
-      "start": 310.14,
-      "end": 318.61
+      "start": 326.15,
+      "end": 335.22
     },
     {
       "text": "Fronts  A front is the boundary layer between two types of air masses.",
-      "start": 320.41,
-      "end": 325.31
+      "start": 336.72,
+      "end": 341.97
     },
     {
       "text": "An approaching front of any type always means that weather changes are imminent .",
-      "start": 326.51,
-      "end": 332.18
+      "start": 342.97,
+      "end": 349.05
     },
     {
       "text": "Warm Front  Occurs when a warm mass of air advances and replaces a body of colder air.",
-      "start": 332.18,
-      "end": 338.2
+      "start": 349.05,
+      "end": 355.5
     },
     {
       "text": "Characteristics: Moves slowly (10-25 mph).",
-      "start": 339.4,
-      "end": 342.34
+      "start": 356.5,
+      "end": 359.65
     },
     {
       "text": "Weather: Stratiform clouds, drizzle, low ceilings, poor visibility.",
-      "start": 342.34,
-      "end": 347.03
+      "start": 359.65,
+      "end": 364.67
     },
     {
       "text": "Cold Front  Occurs when a mass of cold, dense, and stable air advances and replaces a body of warmer air.",
-      "start": 347.63,
-      "end": 354.98
+      "start": 365.17,
+      "end": 373.05
     },
     {
       "text": "Characteristics: Moves rapidly (25-30+ mph).",
-      "start": 356.78,
-      "end": 359.86
+      "start": 374.55,
+      "end": 377.85
     },
     {
       "text": "The cold air slides under the warm air, forcing it up.",
-      "start": 359.86,
-      "end": 363.64
+      "start": 377.85,
+      "end": 381.9
     },
     {
       "text": "Weather: Cumulus or cumulonimbus clouds, heavy rain, lightning, thunder, and/or hail.",
-      "start": 363.64,
-      "end": 369.59
+      "start": 381.9,
+      "end": 388.27
     },
     {
       "text": "Good visibility after passage.",
-      "start": 370.19,
-      "end": 372.29
+      "start": 388.77,
+      "end": 391.02
     },
     {
       "text": "Stationary Front  When the forces of two air masses are relatively equal, the boundary or front that separates them remains stationary and influences the local weather for days.",
-      "start": 372.29,
-      "end": 384.68
+      "start": 391.02,
+      "end": 404.3
     },
     {
       "text": "Occluded Front  Occurs when a fast-moving cold front catches up with a slow-moving warm front.",
-      "start": 386.48,
-      "end": 393.06
+      "start": 405.8,
+      "end": 412.85
     },
     {
       "text": "Warm Front Occlusion: Air ahead of the warm front is colder than the air of the cold front.",
-      "start": 394.26,
-      "end": 400.63
+      "start": 413.85,
+      "end": 420.67
     },
     {
       "text": "Cold Front Occlusion: The cold front air is colder than the air ahead of the warm front.",
-      "start": 400.63,
-      "end": 406.79
+      "start": 420.67,
+      "end": 427.27
     },
     {
       "text": "Thunderstorms  Thunderstorms are created by unstable air , high moisture , and a lifting action .",
-      "start": 407.39,
-      "end": 414.18
+      "start": 427.77,
+      "end": 435.05
     },
     {
       "text": "Life Cycle  Cumulus Stage: Lifting action initiates the vertical movement.",
-      "start": 415.98,
-      "end": 421.16
+      "start": 436.55,
+      "end": 442.1
     },
     {
       "text": "Characterized by continuous updrafts .",
-      "start": 422.36,
-      "end": 425.02
+      "start": 443.1,
+      "end": 445.95
     },
     {
       "text": "Mature Stage: The most violent time.",
-      "start": 425.02,
-      "end": 427.54
+      "start": 445.95,
+      "end": 448.65
     },
     {
       "text": "Drops of moisture act as a drag on the air, creating downdrafts.",
-      "start": 428.14,
-      "end": 432.62
+      "start": 449.15,
+      "end": 453.95
     },
     {
       "text": "Characterized by rain at the surface and concurrent updrafts/downdrafts.",
-      "start": 432.62,
-      "end": 437.66
-    },
-    {
-      "text": "Dissipating Stage: Characterized by downdrafts spreading out and replacing the updrafts.",
-      "start": 437.66,
-      "end": 443.82
-    },
-    {
-      "text": "The storm dies out.",
-      "start": 444.42,
-      "end": 445.75
-    },
-    {
-      "text": "Hazards  Lightning: Can occur in clear air away from the cloud.",
-      "start": 445.75,
-      "end": 450.16
-    },
-    {
-      "text": "Hail: Can be encountered several miles from the storm.",
-      "start": 451.96,
-      "end": 455.74
-    },
-    {
-      "text": "Tornadoes: Violent rotating columns of air.",
-      "start": 456.34,
+      "start": 453.95,
       "end": 459.35
     },
     {
+      "text": "Dissipating Stage: Characterized by downdrafts spreading out and replacing the updrafts.",
+      "start": 459.35,
+      "end": 465.95
+    },
+    {
+      "text": "The storm dies out.",
+      "start": 466.45,
+      "end": 467.87
+    },
+    {
+      "text": "Hazards  Lightning: Can occur in clear air away from the cloud.",
+      "start": 467.87,
+      "end": 472.6
+    },
+    {
+      "text": "Hail: Can be encountered several miles from the storm.",
+      "start": 474.1,
+      "end": 478.15
+    },
+    {
+      "text": "Tornadoes: Violent rotating columns of air.",
+      "start": 478.65,
+      "end": 481.88
+    },
+    {
       "text": "Fog  Fog is a cloud that is on the surface.",
-      "start": 459.95,
-      "end": 462.96
+      "start": 482.38,
+      "end": 485.6
     },
     {
       "text": "It typically forms when the temperature/dew point spread is less than $5^{\\circ}F$ ($3^{\\circ}C$).",
-      "start": 464.76,
-      "end": 471.62
+      "start": 487.1,
+      "end": 494.45
     },
     {
       "text": "Radiation Fog: Forms in low-lying areas on mountain valleys on calm, clear, humid nights.",
-      "start": 471.62,
-      "end": 477.85
+      "start": 494.45,
+      "end": 501.13
     },
     {
       "text": "The ground radiates heat, cooling the air.",
-      "start": 477.85,
-      "end": 480.79
+      "start": 501.13,
+      "end": 504.28
     },
     {
       "text": "Burned off by the sun.",
-      "start": 480.79,
-      "end": 482.33
+      "start": 504.28,
+      "end": 505.93
     },
     {
       "text": "Advection Fog: Forms when moist air moves over colder ground or water.",
-      "start": 482.33,
-      "end": 487.23
+      "start": 505.93,
+      "end": 511.18
     },
     {
       "text": "Common along the coast.",
-      "start": 487.83,
-      "end": 489.44
+      "start": 511.68,
+      "end": 513.4
     },
     {
       "text": "Requires wind to form.",
-      "start": 489.44,
-      "end": 490.98
+      "start": 513.4,
+      "end": 515.05
     },
     {
       "text": "Upslope Fog: Forms when moist, stable air is cooled as it moves up sloping terrain.",
-      "start": 490.98,
-      "end": 496.79
+      "start": 515.05,
+      "end": 521.27
     },
     {
       "text": "Steam Fog: Forms when cold, dry air moves over warm water.",
-      "start": 497.39,
-      "end": 501.45
+      "start": 521.77,
+      "end": 526.12
     },
     {
       "text": "Frost  Frost forms when the temperature of the collecting surface is at or below the dew point of the adjacent air, and the dew point is below freezing.",
-      "start": 502.05,
-      "end": 512.69
+      "start": 526.62,
+      "end": 538.02
     },
     {
       "text": "Hazard: Frost disrupts the smooth airflow over the wing, causing early airflow separation and a loss of lift.",
-      "start": 514.49,
-      "end": 522.12
+      "start": 539.52,
+      "end": 547.7
     },
     {
       "text": "It must be removed before flight.",
-      "start": 522.12,
-      "end": 524.43
+      "start": 547.7,
+      "end": 550.17
     },
     {
       "text": "---  PHAK Chapter 13: Aviation Weather Services (Sport Pilot Filter) Introduction  In aviation, weather service is a combined effort of the National Weather Service (NWS), Federal Aviation Administration (FAA), Department of Defense (DOD), other aviation groups, and individuals.",
-      "start": 524.43,
-      "end": 543.96
+      "start": 550.17,
+      "end": 571.1
     },
     {
       "text": "These reports and forecasts enable pilots to make informed decisions regarding weather and flight safety before and during a flight.",
-      "start": 545.76,
-      "end": 555.0
+      "start": 572.6,
+      "end": 582.5
     },
     {
       "text": "Observations  Surface Aviation Weather Observations  Surface aviation weather observations are a compilation of elements of the current weather at individual ground stations across the United States.",
-      "start": 555.0,
-      "end": 568.93
+      "start": 582.5,
+      "end": 597.42
     },
     {
       "text": "The network is made up of government and privately contracted facilities that provide continuous up-to-date weather information.",
-      "start": 570.13,
-      "end": 579.09
+      "start": 598.42,
+      "end": 608.02
     },
     {
       "text": "Automated weather sources, such as the Automated Weather Observing Systems (AWOS), Automated Surface Observing Systems (ASOS), as well as other automated facilities, also play a major role in the gathering of surface observations.",
-      "start": 579.09,
-      "end": 595.19
+      "start": 608.02,
+      "end": 625.27
     },
     {
       "text": "mee-tars (Aviation Routine Weather Report)  A mee-tar is an observation of current surface weather reported in a standard international format.",
-      "start": 595.19,
-      "end": 605.2
+      "start": 625.27,
+      "end": 636.0
     },
     {
       "text": "mee-tars are issued on an hourly basis unless significant weather changes have occurred.",
-      "start": 606.4,
-      "end": 612.56
+      "start": 637.0,
+      "end": 643.6
     },
     {
       "text": "A special mee-tar (SPECI) can be issued at any interval between routine mee-tar reports.",
-      "start": 612.56,
-      "end": 618.72
+      "start": 643.6,
+      "end": 650.2
     },
     {
       "text": "Example METAR:101112 mee-tar KGGG 161753Z AUTO 14021G26KT 3/4SM +TSRA BR BKN008 OVC012CB 18/17 A2970 RMK PRESFR1314 Decoding:  Type of Report: mee-tar (routine) or SPECI (special).",
-      "start": 618.72,
-      "end": 631.32
+      "start": 650.2,
+      "end": 663.7
     },
     {
       "text": "Station Identifier: Four-letter eye-kay-oh code (e.g., KGGG).",
-      "start": 632.52,
-      "end": 636.79
+      "start": 664.7,
+      "end": 669.27
     },
     {
       "text": "Date and 21Time: First two digits are the date; last four are the time in UTC (Zulu).",
-      "start": 637.39,
-      "end": 643.34
+      "start": 669.77,
+      "end": 676.15
     },
     {
       "text": "161753Z \\= 16th day of the month at 1753 Zulu.",
-      "start": 643.94,
-      "end": 647.16
+      "start": 676.65,
+      "end": 680.1
     },
     {
       "text": "Modifier: AUTO identifies the report as an automated station report.",
-      "start": 647.16,
-      "end": 651.92
+      "start": 680.1,
+      "end": 685.2
     },
     {
       "text": "Wind: Reported as direction (true) and speed (knots).",
-      "start": 652.52,
-      "end": 656.23
+      "start": 685.7,
+      "end": 689.68
     },
     {
       "text": "14021G26KT \\= Wind from 140\u00b0 at 21 knots, gusts to 26 knots.",
-      "start": 656.83,
-      "end": 661.03
+      "start": 690.18,
+      "end": 694.68
     },
     {
       "text": "Visibility: Reported in statute miles.",
-      "start": 661.03,
-      "end": 663.69
+      "start": 694.68,
+      "end": 697.53
     },
     {
       "text": "3/4SM \\= 3/4 statute mile.",
-      "start": 664.29,
-      "end": 666.11
+      "start": 698.03,
+      "end": 699.98
     },
     {
       "text": "Weather: Qualifiers and phenomena.",
-      "start": 666.11,
-      "end": 668.49
+      "start": 699.98,
+      "end": 702.53
     },
     {
       "text": "+TSRA \\= Heavy (+) Thunderstorm (TS) Rain (RA).",
-      "start": 669.09,
-      "end": 672.38
+      "start": 703.03,
+      "end": 706.55
     },
     {
       "text": "BR \\= Mist.",
-      "start": 672.38,
-      "end": 673.15
+      "start": 706.55,
+      "end": 707.38
     },
     {
       "text": "Sky Condition: Amount of cover and height (AGL).",
-      "start": 673.15,
-      "end": 676.51
+      "start": 707.38,
+      "end": 710.98
     },
     {
       "text": "BKN008 \\= Broken clouds at 800 feet.",
-      "start": 677.11,
-      "end": 679.63
+      "start": 711.48,
+      "end": 714.18
     },
     {
       "text": "OVC012CB \\= Overcast at 1,200 feet, Cumulonimbus clouds.",
-      "start": 679.63,
-      "end": 683.55
+      "start": 714.18,
+      "end": 718.38
     },
     {
       "text": "Temperature and Dew Point: Reported in Celsius.",
-      "start": 683.55,
-      "end": 686.84
+      "start": 718.38,
+      "end": 721.9
     },
     {
       "text": "18/17 \\= Temp 18\u00b0C, Dew Point 17\u00b0C.",
-      "start": 687.44,
-      "end": 689.89
+      "start": 722.4,
+      "end": 725.03
     },
     {
       "text": "Altimeter Setting: Inches of mercury.",
-      "start": 689.89,
-      "end": 692.48
+      "start": 725.03,
+      "end": 727.8
     },
     {
       "text": "A2970 \\= 29.70 \"Hg.",
-      "start": 693.08,
-      "end": 694.41
+      "start": 728.3,
+      "end": 729.73
     },
     {
       "text": "Remarks: RMK PRESFR \\= Remarks: Pressure Falling Rapidly.",
-      "start": 694.41,
-      "end": 698.4
+      "start": 729.73,
+      "end": 734.0
     },
     {
       "text": "Pilot Weather Reports (PIREPs)  Pilots provide specific information during flight via pie-reps.",
-      "start": 699.0,
-      "end": 705.65
+      "start": 734.5,
+      "end": 741.63
     },
     {
       "text": "pie-reps provide information regarding the conditions as they actually exist in the air, which cannot be gathered from any other source.",
-      "start": 707.45,
-      "end": 716.97
+      "start": 743.13,
+      "end": 753.33
     },
     {
       "text": "Pilots can confirm the height of bases and tops of clouds, locations of wind shear and turbulence, and the location of inflight icing.",
-      "start": 716.97,
-      "end": 726.35
+      "start": 753.33,
+      "end": 763.38
     },
     {
       "text": "UA: Routine pie-rep.",
-      "start": 726.35,
-      "end": 727.75
+      "start": 763.38,
+      "end": 764.88
     },
     {
       "text": "UUA: Urgent pie-rep.",
-      "start": 727.75,
-      "end": 729.15
+      "start": 764.88,
+      "end": 766.38
     },
     {
       "text": "Forecasts  Terminal Aerodrome Forecasts (TAF)  A taff is a report established for the five statute mile radius around an airport.",
-      "start": 729.75,
-      "end": 738.78
+      "start": 766.88,
+      "end": 776.55
     },
     {
       "text": "taffs are usually given for larger airports.",
-      "start": 740.58,
-      "end": 743.66
+      "start": 778.05,
+      "end": 781.35
     },
     {
       "text": "Each taff is valid for a 24 or 30-hour time period and is updated four times a day (0000Z, 0600Z, 1200Z, and 1800Z).",
-      "start": 743.66,
-      "end": 751.78
+      "start": 781.35,
+      "end": 790.05
     },
     {
       "text": "Example TAF:36 KPIT 091730Z 0918/1024 15005KT 5SM HZ FEW020 WS010/31022KT FM091930 30015G25KT 3SM SHRA OVC015 PROB30 1004/1006 1/2SM TSRA OVC008CB Decoding: FM (From): FM091930 indicates a rapid change in conditions starting at 1930Z on the 9th.",
-      "start": 751.78,
-      "end": 768.93
+      "start": 790.05,
+      "end": 808.43
     },
     {
       "text": "PROB30: Indicates a 30 percent probability of the forecast conditions occurring.",
-      "start": 768.93,
-      "end": 774.53
+      "start": 808.43,
+      "end": 814.43
     },
     {
       "text": "Graphical Forecasts for Aviation (GFA)  The GFA is intended to provide the necessary aviation weather information as a complete picture of the weather that may impact flight in the continental United States (CONUS).",
-      "start": 775.13,
-      "end": 790.18
+      "start": 814.93,
+      "end": 831.05
     },
     {
       "text": "It includes observations and forecasts that are valid for up to 15 hours in the past and up to 15 hours in the future.",
-      "start": 791.98,
-      "end": 800.24
+      "start": 832.55,
+      "end": 841.4
     },
     {
       "text": "Winds and Temperatures Aloft (FB)  Winds and temperatures aloft forecasts provide wind direction, wind speed, and temperature at specified altitudes.",
-      "start": 800.24,
-      "end": 810.67
+      "start": 841.4,
+      "end": 852.58
     },
     {
       "text": "Format: DDff+tt  Wind Direction: The first two digits indicate direction in tens of degrees (True).",
-      "start": 811.87,
-      "end": 818.8
+      "start": 853.58,
+      "end": 861.0
     },
     {
       "text": "Wind Speed: The second two digits indicate speed in knots.",
-      "start": 819.4,
-      "end": 823.46
+      "start": 861.5,
+      "end": 865.85
     },
     {
       "text": "Temperature: The last two digits indicate temperature in Celsius (assumed negative above 24,000 feet).",
-      "start": 824.06,
-      "end": 831.2
+      "start": 866.35,
+      "end": 874.0
     },
     {
       "text": "Light and Variable: Code 9900 indicates wind light and variable.",
-      "start": 831.8,
-      "end": 836.28
+      "start": 874.5,
+      "end": 879.3
     },
     {
       "text": "Decoding High Winds:  If the wind speed is between 100 and 199 knots, the computer adds 50 to the direction.",
-      "start": 836.88,
-      "end": 844.44
+      "start": 879.8,
+      "end": 887.9
     },
     {
       "text": "To decode, subtract 50 from the direction and add 100 to the speed.",
-      "start": 846.24,
-      "end": 850.93
+      "start": 889.4,
+      "end": 894.42
     },
     {
       "text": "Example: 731960  Direction: 73 - 50 \\= 230 degrees.",
-      "start": 850.93,
-      "end": 854.5
+      "start": 894.42,
+      "end": 898.25
     },
     {
       "text": "Speed: 19 + 100 \\= 119 knots.",
-      "start": 855.1,
-      "end": 857.13
+      "start": 898.75,
+      "end": 900.92
     },
     {
       "text": "Temp: -60\u00b0C.",
-      "start": 857.73,
-      "end": 858.57
+      "start": 901.42,
+      "end": 902.32
     },
     {
       "text": "Inflight Weather Advisories  Inflight weather advisories are forecasts to advise en route aircraft of development of potentially hazardous weather.",
-      "start": 859.17,
-      "end": 869.46
+      "start": 902.82,
+      "end": 913.85
     },
     {
       "text": "air-met (WA)  air-mets (Airmen's Meteorological Information) are inflight weather advisories that are issued every 6 hours with intermediate updates.",
-      "start": 871.26,
-      "end": 881.69
+      "start": 915.35,
+      "end": 926.52
     },
     {
       "text": "They are of interest to all aircraft , but are considered particularly hazardous to light aircraft and aircraft with limited operational capabilities.",
-      "start": 882.89,
-      "end": 893.39
+      "start": 927.52,
+      "end": 938.77
     },
     {
       "text": "air-met Sierra: I-F-R conditions and/or extensive mountain obscuration.",
-      "start": 893.39,
-      "end": 898.36
+      "start": 938.77,
+      "end": 944.1
     },
     {
       "text": "air-met Tango: Moderate turbulence, sustained surface winds of 30 knots or more, and/or nonconvective low-level wind shear.",
-      "start": 898.36,
-      "end": 906.97
+      "start": 944.1,
+      "end": 953.32
     },
     {
       "text": "air-met Zulu: Moderate icing and freezing level heights.",
-      "start": 907.57,
-      "end": 911.49
+      "start": 953.82,
+      "end": 958.02
     },
     {
       "text": "sig-met (WS)  sig-mets (Significant Meteorological Information) are inflight weather advisories concerning non-convective weather that is potentially hazardous to all aircraft .",
-      "start": 912.09,
-      "end": 924.48
+      "start": 958.52,
+      "end": 971.8
     },
     {
       "text": "They are unscheduled and valid for 4 hours.",
-      "start": 926.28,
-      "end": 929.29
+      "start": 973.3,
+      "end": 976.52
     },
     {
       "text": "Severe icing not associated with a thunderstorm.",
-      "start": 929.29,
-      "end": 932.65
+      "start": 976.52,
+      "end": 980.12
     },
     {
       "text": "Severe or extreme turbulence or clear air turbulence (CAT).",
-      "start": 932.65,
-      "end": 936.78
+      "start": 980.12,
+      "end": 984.55
     },
     {
       "text": "Duststorms or sandstorms lowering surface or inflight visibilities to below 3 miles.",
-      "start": 937.38,
-      "end": 943.26
+      "start": 985.05,
+      "end": 991.35
     },
     {
       "text": "Volcanic ash.",
-      "start": 943.86,
-      "end": 944.77
+      "start": 991.85,
+      "end": 992.82
     },
     {
       "text": "Convective sig-met (WST)  Convective sig-mets are issued for severe thunderstorms with surface winds greater than 50 knots, hail at the surface greater than or equal to 3/4 inch in diameter, or tornadoes.",
-      "start": 945.37,
-      "end": 959.65
+      "start": 993.32,
+      "end": 1008.62
     },
     {
       "text": "They are also issued to advise pilots of embedded thunderstorms, lines of thunderstorms, or thunderstorms with heavy or greater precipitation that affect 40 percent or more of a 3,000 square mile or greater region.",
-      "start": 961.45,
-      "end": 976.43
+      "start": 1010.12,
+      "end": 1026.17
     },
     {
       "text": "Briefings  Standard Briefing  A standard briefing should be requested when the pilot has not received a previous briefing or has not received preliminary information through mass dissemination media.",
-      "start": 976.43,
-      "end": 990.36
+      "start": 1026.17,
+      "end": 1041.1
     },
     {
       "text": "Abbreviated Briefing  An abbreviated briefing should be requested when the pilot needs information to supplement mass disseminated data, update a previous briefing, or when the pilot needs only one or two specific items.",
-      "start": 991.56,
-      "end": 1006.96
+      "start": 1042.1,
+      "end": 1058.6
     },
     {
       "text": "Outlook Briefing  An outlook briefing should be requested whenever the pilot's proposed time of departure is six or more hours from the time of the briefing.",
-      "start": 1008.16,
-      "end": 1019.15
+      "start": 1059.6,
+      "end": 1071.38
     },
     {
       "text": "[See Figure 13-1: Weather briefing chart] ---  PHAK Chapter 14: Airport Operations (Sport Pilot Filter) Airport Categories  The definition for airports refers to any area of land or water used or intended for landing or takeoff of aircraft.",
-      "start": 1020.35,
-      "end": 1037.15
+      "start": 1072.38,
+      "end": 1090.38
     },
     {
       "text": "Towered Airport  A towered airport has an operating control tower.",
-      "start": 1038.35,
-      "end": 1042.97
+      "start": 1091.38,
+      "end": 1096.33
     },
     {
       "text": "Air traffic control (ATC) is responsible for providing the safe, orderly, and expeditious flow of air traffic at airports where the type of operations and/or volume of traffic requires such a service.",
-      "start": 1044.17,
-      "end": 1058.17
+      "start": 1097.33,
+      "end": 1112.33
     },
     {
       "text": "Pilots operating from a towered airport are required to maintain two-way radio communication with ATC and to acknowledge and comply with their instructions.",
-      "start": 1058.17,
-      "end": 1069.09
+      "start": 1112.33,
+      "end": 1124.03
     },
     {
       "text": "Nontowered Airport  A nontowered airport does not have an operating control tower.",
-      "start": 1069.09,
-      "end": 1074.83
+      "start": 1124.03,
+      "end": 1130.18
     },
     {
       "text": "Two-way radio communications are not required, although it is a good operating practice for pilots to transmit their intentions on the specified frequency for the benefit of other pilots in the area.",
-      "start": 1076.03,
-      "end": 1089.96
+      "start": 1131.18,
+      "end": 1146.1
     },
     {
       "text": "Airport Markings and Signs  Airport markings and signs provide information that is useful to a pilot during takeoff, landing, and taxiing.",
-      "start": 1089.96,
-      "end": 1099.62
+      "start": 1146.1,
+      "end": 1156.45
     },
     {
       "text": "Runway Markings  Runway Designators: Runways are numbered in relation to their magnetic heading rounded off to the nearest 10 degrees.",
-      "start": 1100.82,
-      "end": 1110.2
+      "start": 1157.45,
+      "end": 1167.5
     },
     {
       "text": "For example, a runway with a magnetic heading of 170 degrees is marked Runway 17.",
-      "start": 1111.4,
-      "end": 1117.07
+      "start": 1168.5,
+      "end": 1174.58
     },
     {
       "text": "Displaced Threshold: A threshold located at a point on the runway other than the designated beginning of the runway.",
-      "start": 1117.07,
-      "end": 1125.19
+      "start": 1174.58,
+      "end": 1183.28
     },
     {
       "text": "The portion of the runway behind a displaced threshold may be available for taxiing, landing rollout, and the takeoff of aircraft, but is not available for landing.",
-      "start": 1125.79,
-      "end": 1137.27
+      "start": 1183.78,
+      "end": 1196.08
     },
     {
       "text": "Chevrons: Markings of yellow chevrons indicate areas of pavement aligned with the runway that are unusable for landing, takeoff, and taxiing (blast pads/stopways).",
-      "start": 1137.27,
-      "end": 1148.68
+      "start": 1196.08,
+      "end": 1208.3
     },
     {
       "text": "Closed Runway: Marked by an \"X\" on each runway end.",
-      "start": 1149.28,
-      "end": 1152.85
+      "start": 1208.8,
+      "end": 1212.62
     },
     {
       "text": "Taxiway Markings  Centerline: A single continuous yellow line.",
-      "start": 1153.45,
-      "end": 1157.79
+      "start": 1213.12,
+      "end": 1217.78
     },
     {
       "text": "Edge Markings: Used to define the edge of the taxiway.",
-      "start": 1159.59,
-      "end": 1163.37
+      "start": 1219.28,
+      "end": 1223.33
     },
     {
       "text": "Continuous double yellow lines should not be crossed.",
-      "start": 1163.97,
-      "end": 1167.68
+      "start": 1223.83,
+      "end": 1227.8
     },
     {
       "text": "Dashed double yellow lines indicates the pilot may cross the lines.",
-      "start": 1167.68,
-      "end": 1172.37
+      "start": 1227.8,
+      "end": 1232.83
     },
     {
       "text": "Hold Position Markings: Consist of four yellow lines (two solid and two dashed).",
-      "start": 1172.37,
-      "end": 1177.97
+      "start": 1232.83,
+      "end": 1238.83
     },
     {
       "text": "The solid lines are always on the side where the aircraft is to hold.",
-      "start": 1178.57,
-      "end": 1183.4
+      "start": 1239.33,
+      "end": 1244.5
     },
     {
       "text": "The dashed lines are on the side toward the runway.",
-      "start": 1183.4,
-      "end": 1186.97
+      "start": 1244.5,
+      "end": 1248.33
     },
     {
       "text": "An aircraft exiting a runway is not clear of the runway until all parts of the aircraft have crossed the applicable holding position marking.",
-      "start": 1186.97,
-      "end": 1196.84
+      "start": 1248.33,
+      "end": 1258.9
     },
     {
       "text": "Airport Signs  Mandatory Instruction Signs: Red background with white inscription.",
-      "start": 1196.84,
-      "end": 1202.58
+      "start": 1258.9,
+      "end": 1265.05
     },
     {
       "text": "These denote an entrance to a runway, critical area, or prohibited area.",
-      "start": 1204.38,
-      "end": 1209.42
+      "start": 1266.55,
+      "end": 1271.95
     },
     {
       "text": "(e.g., \"15-33\" indicates the holding position for Runway 15-33).",
-      "start": 1209.42,
-      "end": 1213.9
+      "start": 1271.95,
+      "end": 1276.75
     },
     {
       "text": "Location Signs: Black background with yellow inscription and yellow border.",
-      "start": 1213.9,
-      "end": 1219.15
+      "start": 1276.75,
+      "end": 1282.38
     },
     {
       "text": "These identify the taxiway or runway on which the aircraft is located.",
-      "start": 1219.75,
-      "end": 1224.65
+      "start": 1282.88,
+      "end": 1288.13
     },
     {
       "text": "(e.g., \"A\" indicates you are on Taxiway Alpha).",
-      "start": 1224.65,
-      "end": 1227.94
+      "start": 1288.13,
+      "end": 1291.65
     },
     {
       "text": "Direction Signs: Yellow background with black inscription.",
-      "start": 1227.94,
-      "end": 1232.0
+      "start": 1291.65,
+      "end": 1296.0
     },
     {
       "text": "These identify the designation of the intersecting taxiway(s) leading out of the intersection.",
-      "start": 1232.6,
-      "end": 1239.18
+      "start": 1296.5,
+      "end": 1303.55
     },
     {
       "text": "Destination Signs: Yellow background with black inscription.",
-      "start": 1239.18,
-      "end": 1243.38
+      "start": 1303.55,
+      "end": 1308.05
     },
     {
       "text": "These indicate a destination on the airport (e.g., \"FBO\", \"RAMP\").",
-      "start": 1243.98,
-      "end": 1248.6
+      "start": 1308.55,
+      "end": 1313.5
     },
     {
       "text": "Runway Distance Remaining Signs: Black background with white numeral.",
-      "start": 1248.6,
-      "end": 1253.43
+      "start": 1313.5,
+      "end": 1318.68
     },
     {
       "text": "Indicates the distance (in thousands of feet) of landing runway remaining.",
-      "start": 1254.03,
-      "end": 1259.21
+      "start": 1319.18,
+      "end": 1324.73
     },
     {
       "text": "[See Figure 14-2: Airport signs and markings]  Airport Lighting  Airport Beacon  These beacons help a pilot identify an airport at night.",
-      "start": 1259.21,
-      "end": 1268.8
+      "start": 1324.73,
+      "end": 1335.0
     },
     {
       "text": "Civil Land Airport: Flashing white and green.",
-      "start": 1270.6,
-      "end": 1273.75
+      "start": 1336.5,
+      "end": 1339.88
     },
     {
       "text": "Military Airport: Two quick white flashes followed by a green flash.",
-      "start": 1273.75,
-      "end": 1278.51
+      "start": 1339.88,
+      "end": 1344.98
     },
     {
       "text": "Water Airport: Flashing white and yellow.",
-      "start": 1279.11,
-      "end": 1281.98
+      "start": 1345.48,
+      "end": 1348.55
     },
     {
       "text": "Pilot Control of Airport Lighting  At some airports, the pilot can control the lighting intensity via the radio.",
-      "start": 1282.58,
-      "end": 1290.42
+      "start": 1349.05,
+      "end": 1357.45
     },
     {
       "text": "Key the mike 7 times: High intensity.",
-      "start": 1292.22,
-      "end": 1294.81
+      "start": 1358.95,
+      "end": 1361.73
     },
     {
       "text": "Key the mike 5 times: Medium intensity.",
-      "start": 1294.81,
-      "end": 1297.54
+      "start": 1361.73,
+      "end": 1364.65
     },
     {
       "text": "Key the mike 3 times: Low intensity.",
-      "start": 1298.14,
-      "end": 1300.66
+      "start": 1365.15,
+      "end": 1367.85
     },
     {
       "text": "Wind Direction Indicators  Wind Sock: Provides the best indication of wind direction and velocity.",
-      "start": 1301.26,
-      "end": 1308.12
+      "start": 1368.35,
+      "end": 1375.7
     },
     {
       "text": "The wind enters the large end and exits the small end; the small end points away from the wind.",
-      "start": 1309.92,
-      "end": 1316.57
+      "start": 1377.2,
+      "end": 1384.33
     },
     {
       "text": "Tetrahedron: A large triangular device.",
-      "start": 1316.57,
-      "end": 1319.3
+      "start": 1384.33,
+      "end": 1387.25
     },
     {
       "text": "The small end points into the wind.",
-      "start": 1319.9,
-      "end": 1322.35
+      "start": 1387.75,
+      "end": 1390.38
     },
     {
       "text": "It is meant to indicate landing direction.",
-      "start": 1322.35,
-      "end": 1325.29
+      "start": 1390.38,
+      "end": 1393.53
     },
     {
       "text": "Segmented Circle: A visual indicator on the ground that provides traffic pattern information.",
-      "start": 1325.29,
-      "end": 1331.8
+      "start": 1393.53,
+      "end": 1400.5
     },
     {
       "text": "L-shaped markers around the circle indicate the base and final legs of the pattern.",
-      "start": 1332.4,
-      "end": 1338.21
+      "start": 1401.0,
+      "end": 1407.23
     },
     {
       "text": "Radio Communications  Frequencies  see-taff (Common Traffic Advisory Frequency): Used for carrying out airport advisory practices while operating to or from an airport without an operating control tower.",
-      "start": 1338.21,
-      "end": 1352.42
+      "start": 1407.23,
+      "end": 1422.45
     },
     {
       "text": "UNICOM: A nongovernment air/ground radio communication station which may provide airport information at public use airports.",
-      "start": 1354.22,
-      "end": 1362.9
+      "start": 1423.95,
+      "end": 1433.25
     },
     {
       "text": "Light Gun Signals  In the event of a radio failure at a towered airport, ATC uses a light gun to signal aircraft.",
-      "start": 1363.5,
-      "end": 1371.41
+      "start": 1433.75,
+      "end": 1442.22
     },
     {
       "text": "Steady Green: (In flight) Cleared to land; (On ground) Cleared for takeoff.",
-      "start": 1373.21,
-      "end": 1378.46
+      "start": 1443.72,
+      "end": 1449.35
     },
     {
       "text": "Flashing Green: (In flight) Return for landing; (On ground) Cleared to taxi.",
-      "start": 1378.46,
-      "end": 1383.78
+      "start": 1449.35,
+      "end": 1455.05
     },
     {
       "text": "Steady Red: (In flight) Give way to other aircraft and continue circling; (On ground) Stop.",
-      "start": 1384.38,
-      "end": 1390.75
+      "start": 1455.55,
+      "end": 1462.38
     },
     {
       "text": "Flashing Red: (In flight) Airport unsafe\u2014do not land; (On ground) Taxi clear of runway in use.",
-      "start": 1391.35,
-      "end": 1397.93
+      "start": 1462.88,
+      "end": 1469.92
     },
     {
       "text": "Flashing White: (On ground only) Return to starting point on airport.",
-      "start": 1398.53,
-      "end": 1403.36
+      "start": 1470.42,
+      "end": 1475.6
     },
     {
       "text": "Alternating Red and Green: Exercise extreme caution.",
-      "start": 1403.96,
-      "end": 1407.6
+      "start": 1476.1,
+      "end": 1480.0
     },
     {
       "text": "Wake Turbulence Avoidance  Wake turbulence is generated by the passage of an aircraft through the air.",
-      "start": 1408.2,
-      "end": 1415.34
+      "start": 1480.5,
+      "end": 1488.15
     },
     {
       "text": "The strongest wake turbulence is generated by heavy, clean, and slow aircraft.",
-      "start": 1417.14,
-      "end": 1422.6
+      "start": 1489.65,
+      "end": 1495.5
     },
     {
       "text": "Vortex Behavior  Vortices are generated from the moment the aircraft rotates for takeoff until the nose gear touches down for landing.",
-      "start": 1422.6,
-      "end": 1431.98
+      "start": 1495.5,
+      "end": 1505.55
     },
     {
       "text": "Vortices tend to sink and move outward near the ground.",
-      "start": 1433.18,
-      "end": 1437.03
+      "start": 1506.55,
+      "end": 1510.67
     },
     {
       "text": "Avoidance Procedures  Landing behind a large aircraft: Stay above the large aircraft's final approach path and land beyond its touchdown point.",
-      "start": 1437.63,
-      "end": 1447.64
+      "start": 1511.17,
+      "end": 1521.9
     },
     {
       "text": "Departing behind a large aircraft: Rotate prior to the large aircraft's rotation point and climb above its flight path.",
-      "start": 1449.44,
-      "end": 1457.77
+      "start": 1523.4,
+      "end": 1532.32
     },
     {
       "text": "---  PHAK Chapter 15: Airspace (Sport Pilot Filter) Introduction  The two categories of airspace are: regulatory and nonregulatory.",
-      "start": 1458.37,
-      "end": 1467.54
+      "start": 1532.82,
+      "end": 1542.65
     },
     {
       "text": "Within these two categories, there are four types: controlled, uncontrolled, special use, and other airspace.",
-      "start": 1469.34,
-      "end": 1476.97
+      "start": 1544.15,
+      "end": 1552.32
     },
     {
       "text": "Controlled Airspace  Controlled airspace is a generic term that covers the different classification of airspace and defined dimensions within which air traffic control (ATC) service is provided to I-F-R flights and to V-F-R flights in accordance with the airspace classification.",
-      "start": 1476.97,
-      "end": 1496.5
+      "start": 1552.32,
+      "end": 1573.25
     },
     {
       "text": "Class A Airspace  Generally, that airspace from 18,000 feet M-S-L up to and including FL 600, including the airspace overlying the waters within 12 nautical miles (NM) of the coast of the 48 contiguous states and Alaska.",
-      "start": 1497.7,
-      "end": 1513.1
+      "start": 1574.25,
+      "end": 1590.75
     },
     {
       "text": "Unless otherwise authorized, all persons must operate their aircraft under I-F-R.",
-      "start": 1514.3,
-      "end": 1519.97
+      "start": 1591.75,
+      "end": 1597.82
     },
     {
       "text": "Class B Airspace  Generally, that airspace from the surface to 10,000 feet M-S-L surrounding the nation\u2019s busiest airports in terms of I-F-R operations or passenger enplanements.",
-      "start": 1519.97,
-      "end": 1532.43
+      "start": 1597.82,
+      "end": 1611.17
     },
     {
       "text": "Configuration: The configuration of each Class B airspace area is individually tailored and consists of a surface area and two or more layers (some resemble upside-down wedding cakes).",
-      "start": 1533.63,
-      "end": 1546.51
+      "start": 1612.17,
+      "end": 1625.97
     },
     {
       "text": "Requirements: An ATC clearance is required for all aircraft to operate in the area, and all aircraft that are so cleared receive separation services within the airspace.",
-      "start": 1546.51,
-      "end": 1558.34
+      "start": 1625.97,
+      "end": 1638.65
     },
     {
       "text": "Mode C Veil: All aircraft within 30 nautical miles of a Class B primary airport, from the surface upward to 10,000 feet MSL, must be equipped with an operating transponder with altitude reporting capability (Mode C) and ADS-B Out.",
-      "start": 1558.94,
-      "end": 1575.04
+      "start": 1639.15,
+      "end": 1656.4
     },
     {
       "text": "Sport Pilot Limitation: Sport pilots may not operate in Class B airspace unless they have received specific training and a logbook endorsement  Class C Airspace  Generally, that airspace from the surface to 4,000 feet above the airport elevation (charted in MSL) surrounding those airports that have an operational control tower, are serviced by a radar approach control, and that have a certain number of I-F-R operations or passenger enplanements.",
-      "start": 1575.64,
-      "end": 1607.07
+      "start": 1656.9,
+      "end": 1690.57
     },
     {
       "text": "Configuration: Usually consists of a surface area with a 5 NM radius, and an outer circle with a 10 NM radius that extends from 1,200 feet to 4,000 feet above the airport elevation.",
-      "start": 1608.87,
-      "end": 1621.54
+      "start": 1692.07,
+      "end": 1705.65
     },
     {
       "text": "Requirements: Two-way radio communication must be established with ATC prior to entry and thereafter maintained while within the airspace.",
-      "start": 1621.54,
-      "end": 1631.2
+      "start": 1705.65,
+      "end": 1716.0
     },
     {
       "text": "Class D Airspace  Generally, that airspace from the surface to 2,500 feet above the airport elevation (charted in MSL) surrounding those airports that have an operational control tower.",
-      "start": 1631.8,
-      "end": 1644.75
+      "start": 1716.5,
+      "end": 1730.37
     },
     {
       "text": "Configuration: The configuration of each Class D airspace area is individually tailored and when instrument procedures are published, the airspace will normally be designed to contain the procedures.",
-      "start": 1646.55,
-      "end": 1660.48
+      "start": 1731.87,
+      "end": 1746.8
     },
     {
       "text": "Requirements: Unless otherwise authorized, each aircraft must establish two-way radio communications with the ATC facility providing air traffic services prior to entering the airspace and thereafter maintain those communications while in the airspace.",
-      "start": 1660.48,
-      "end": 1678.12
+      "start": 1746.8,
+      "end": 1765.7
     },
     {
       "text": "Class E Airspace  Generally, if the airspace is not Class A, Class B, Class C, or Class D, and it is controlled airspace, it is Class E airspace.",
-      "start": 1678.72,
-      "end": 1688.87
+      "start": 1766.2,
+      "end": 1777.07
     },
     {
       "text": "Vertical Limits: Except for 18,000 feet MSL, Class E airspace has no defined vertical limit but rather extends upward from either the surface or a designated altitude to the overlying or adjacent controlled airspace.",
-      "start": 1690.67,
-      "end": 1705.79
+      "start": 1778.57,
+      "end": 1794.77
     },
     {
       "text": "Types:  Surface Area Designated for an Airport: Extends from the surface.",
-      "start": 1705.79,
-      "end": 1710.9
+      "start": 1794.77,
+      "end": 1800.25
     },
     {
       "text": "Extension to a Surface Area: Extends from the surface.",
-      "start": 1711.5,
-      "end": 1715.28
+      "start": 1800.75,
+      "end": 1804.8
     },
     {
       "text": "Airspace Used for Transition: Begins at either 700 feet or 1,200 feet A-G-L.",
-      "start": 1715.88,
-      "end": 1721.2
+      "start": 1805.3,
+      "end": 1811.0
     },
     {
       "text": "Federal Airways: Victor Airways (1,200 feet A-G-L up to 17,999 feet MSL).",
-      "start": 1721.8,
-      "end": 1726.91
+      "start": 1811.5,
+      "end": 1816.97
     },
     {
       "text": "Uncontrolled Airspace  Class G Airspace  Class G airspace (uncontrolled) is that portion of the airspace that has not been designated as Class A, Class B, Class C, Class D, or Class E airspace.",
-      "start": 1727.51,
-      "end": 1741.02
+      "start": 1817.47,
+      "end": 1831.95
     },
     {
       "text": "Vertical Limits: Class G airspace extends from the surface to the base of the overlying Class E airspace.",
-      "start": 1742.82,
-      "end": 1750.17
+      "start": 1833.45,
+      "end": 1841.32
     },
     {
       "text": "Although Class G airspace often technically extends to 14,500 feet MSL, for the vast majority of the US, it is capped at either 700 feet A-G-L or 1,200 feet A-G-L by the overlying Class E.",
-      "start": 1750.17,
-      "end": 1763.33
+      "start": 1841.32,
+      "end": 1855.42
     },
     {
       "text": "Special Use Airspace  Special use airspace consists of that airspace wherein activities must be confined because of their nature, or wherein limitations are imposed upon aircraft operations that are not a part of those activities, or both.",
-      "start": 1763.33,
-      "end": 1780.06
+      "start": 1855.42,
+      "end": 1873.35
     },
     {
       "text": "Prohibited Areas  Prohibited areas contain airspace of defined dimensions identified by an area on the surface of the Earth within which the flight of aircraft is prohibited .",
-      "start": 1781.86,
-      "end": 1794.11
+      "start": 1874.85,
+      "end": 1887.97
     },
     {
       "text": "Such areas are established for security or other reasons associated with the national welfare.",
-      "start": 1795.31,
-      "end": 1801.89
+      "start": 1888.97,
+      "end": 1896.02
     },
     {
       "text": "Restricted Areas  Restricted areas contain airspace identified by an area on the surface of the Earth within which the flight of aircraft, while not wholly prohibited, is subject to restrictions.",
-      "start": 1801.89,
-      "end": 1815.54
+      "start": 1896.02,
+      "end": 1910.65
     },
     {
       "text": "Use of the area for artillery firing, aerial gunnery, or guided missiles are examples.",
-      "start": 1816.74,
-      "end": 1822.76
+      "start": 1911.65,
+      "end": 1918.1
     },
     {
       "text": "Cold: If the restricted area is not active, ATC will allow the aircraft to operate in the restricted airspace.",
-      "start": 1822.76,
-      "end": 1830.46
+      "start": 1918.1,
+      "end": 1926.35
     },
     {
       "text": "Hot: If the restricted area is active and has not been released to the controlling agency (ATC), ATC will issue a clearance that will ensure the aircraft avoids the restricted airspace.",
-      "start": 1830.46,
-      "end": 1843.41
+      "start": 1926.35,
+      "end": 1940.22
     },
     {
       "text": "Warning Areas  A warning area is airspace of defined dimensions, extending from three nautical miles outward from the coast of the U.S., that contains activity that may be hazardous to nonparticipating aircraft.",
-      "start": 1844.01,
-      "end": 1858.78
+      "start": 1940.72,
+      "end": 1956.55
     },
     {
       "text": "The purpose of such warning areas is to warn nonparticipating pilots of the potential danger.",
-      "start": 1860.58,
-      "end": 1867.09
+      "start": 1958.05,
+      "end": 1965.02
     },
     {
       "text": "Military Operation Areas (MOAs)  MOAs consist of airspace of defined vertical and lateral limits established for the purpose of separating certain military training activities from I-F-R traffic.",
-      "start": 1867.09,
-      "end": 1880.74
+      "start": 1965.02,
+      "end": 1979.65
     },
     {
       "text": "V-F-R Flights: Pilots operating under V-F-R should exercise extreme caution while flying within an MOA when military activity is being conducted.",
-      "start": 1881.94,
-      "end": 1892.09
+      "start": 1980.65,
+      "end": 1991.52
     },
     {
       "text": "No clearance is required to enter an MOA.",
-      "start": 1892.09,
-      "end": 1894.96
+      "start": 1991.52,
+      "end": 1994.6
     },
     {
       "text": "Alert Areas  Alert areas are depicted on aeronautical charts to inform nonparticipating pilots of areas that may contain a high volume of pilot training or an unusual type of aerial activity.",
-      "start": 1894.96,
-      "end": 1908.33
+      "start": 1994.6,
+      "end": 2008.92
     },
     {
       "text": "Other Airspace Areas  Military Training Routes (MTRs)  MTRs are used by the military to conduct low-altitude, high-speed training.",
-      "start": 1910.13,
-      "end": 1919.23
+      "start": 2010.42,
+      "end": 2020.17
     },
     {
       "text": "IR: Instrument rules (generally above 1,500 feet AGL).",
-      "start": 1920.43,
-      "end": 1924.21
+      "start": 2021.17,
+      "end": 2025.22
     },
     {
       "text": "VR: Visual rules (generally below 1,500 feet AGL).",
-      "start": 1924.21,
-      "end": 1927.71
+      "start": 2025.22,
+      "end": 2028.97
     },
     {
       "text": "Charts: MTRs with no segment above 1,500 feet A-G-L are identified by four number characters (e.g., IR1206).",
-      "start": 1928.31,
-      "end": 1935.87
+      "start": 2029.47,
+      "end": 2037.57
     },
     {
       "text": "MTRs that include one or more segments above 1,500 feet A-G-L are identified by three number characters (e.g., IR206).",
-      "start": 1936.47,
-      "end": 1944.73
+      "start": 2038.07,
+      "end": 2046.92
     },
     {
       "text": "Temporary Flight Restrictions (TFR)  A flight data center (FDC) Notice to Airmen (NOTAM) is issued to designate a TFR.",
-      "start": 1944.73,
-      "end": 1952.99
+      "start": 2046.92,
+      "end": 2055.77
     },
     {
       "text": "The no-tam begins with the phrase \"FLIGHT RESTRICTIONS\" followed by the location of the temporary restriction, effective time period, area defined in statute miles, and altitudes affected.",
-      "start": 1954.79,
-      "end": 1967.95
+      "start": 2057.27,
+      "end": 2071.37
     },
     {
       "text": "Reasons: Protect persons/property in the air or on surface (disasters), provide a safe environment for disaster relief, prevent unsafe congestion (sightseeing), protect the President/VP/public figures, and safe operation of space agency operations.",
-      "start": 1967.95,
-      "end": 1985.31
+      "start": 2071.37,
+      "end": 2089.97
     },
     {
       "text": "National Security Areas (NSAs)  NSAs consist of airspace of defined vertical and lateral dimensions established at locations where there is a requirement for increased security and safety of ground facilities.",
-      "start": 1985.31,
-      "end": 1999.94
+      "start": 2089.97,
+      "end": 2105.65
     },
     {
       "text": "Pilots are requested to voluntarily avoid flying through the depicted NSA.",
-      "start": 2001.74,
-      "end": 2006.92
+      "start": 2107.15,
+      "end": 2112.7
     },
     {
       "text": "Basic V-F-R Weather Minimums  No person may operate an aircraft under V-F-R when the flight visibility is less, or at a distance from clouds that is less than that prescribed for the corresponding altitude and class of airspace.",
-      "start": 2006.92,
-      "end": 2022.88
+      "start": 2112.7,
+      "end": 2129.8
     },
     {
       "text": "[See Figure 15-2: Basic VFR46 Weather Minimums] Class A: Not Applicable (IFR Only).",
-      "start": 2024.08,
-      "end": 2029.89
+      "start": 2130.8,
+      "end": 2137.02
     },
     {
       "text": "Class B: 3 SM visibility; Clear of Clouds.",
-      "start": 2029.89,
-      "end": 2032.83
+      "start": 2137.02,
+      "end": 2140.17
     },
     {
       "text": "Class C: 3 SM visibility; 500' below, 1,000' above, 2,000' horizontal.",
-      "start": 2033.43,
-      "end": 2038.33
+      "start": 2140.67,
+      "end": 2145.92
     },
     {
       "text": "Class D: 3 SM visibility; 500' below, 1,000' above, 2,000' horizontal.",
-      "start": 2038.93,
-      "end": 2043.83
+      "start": 2146.42,
+      "end": 2151.67
     },
     {
       "text": "Class E (Less than 10,000 MSL): 3 SM visibility; 500' below, 1,000' above, 2,000' horizontal.",
-      "start": 2044.43,
-      "end": 2050.94
+      "start": 2152.17,
+      "end": 2159.15
     },
     {
       "text": "Class E (At or above 10,000 MSL): 5 SM visibility; 1,00057' below, 1,000' above, 1 SM horizontal.",
-      "start": 2051.54,
-      "end": 2058.33
+      "start": 2159.65,
+      "end": 2166.92
     },
     {
       "text": "Class G (Day, 1,200 feet or less AGL): 1 SM visibility; Clear of clouds.",
-      "start": 2058.93,
-      "end": 2063.97
+      "start": 2167.42,
+      "end": 2172.82
     },
     {
       "text": "Class G (Day, More than 1,200 feet A-G-L but less than 10,000 MSL): 1 SM visibility; 500' below, 1,000' above, 2,000' horizontal.",
-      "start": 2064.57,
-      "end": 2073.6
+      "start": 2173.32,
+      "end": 2183.0
     },
     {
       "text": "Class G (Night): 3 SM visibility; 500' below, 1,000' above, 2,000' horizontal.",
-      "start": 2074.2,
-      "end": 2079.66
+      "start": 2183.5,
+      "end": 2189.35
     },
     {
       "text": "---  PHAK Chapter 16: Navigation (Sport Pilot Filter) Aeronautical Charts  Aeronautical charts provide a pictorial representation of a portion of the Earth\u2019s surface upon which information has been superimposed.",
-      "start": 2080.26,
-      "end": 2095.03
+      "start": 2189.85,
+      "end": 2205.67
     },
     {
       "text": "Sectional Charts  Sectional charts are the most common charts used by pilots today.",
-      "start": 2096.83,
-      "end": 2102.64
+      "start": 2207.17,
+      "end": 2213.4
     },
     {
       "text": "The charts have a scale of 1:500,000 (1 inch \\= 6.86 nautical miles (NM) or approximately 8 statute miles (SM)), which allows for more detailed information to be included on the chart.",
-      "start": 2103.84,
-      "end": 2116.72
+      "start": 2214.4,
+      "end": 2228.2
     },
     {
       "text": "Visual Checkpoints: The chart provides an abundance of information, including visual checkpoints for V-F-R flight (landmarks, cities, towns, etc.).",
-      "start": 2116.72,
-      "end": 2127.01
+      "start": 2228.2,
+      "end": 2239.22
     },
     {
       "text": "Checklist: The chart includes an aeronautical chart legend, which provides a list of aeronautical symbols and information.",
-      "start": 2127.01,
-      "end": 2135.55
+      "start": 2239.22,
+      "end": 2248.37
     },
     {
       "text": "V-F-R Terminal Area Charts  V-F-R Terminal Area Charts (TAC) are helpful when flying in or near Class B airspace.",
-      "start": 2136.15,
-      "end": 2144.06
+      "start": 2248.87,
+      "end": 2257.35
     },
     {
       "text": "They have a scale of 1:250,000 (1 inch \\= 3.43 NM or approximately 4 SM).",
-      "start": 2145.86,
-      "end": 2150.97
+      "start": 2258.85,
+      "end": 2264.32
     },
     {
       "text": "These charts provide a more detailed display of topographical information.",
-      "start": 2150.97,
-      "end": 2156.15
+      "start": 2264.32,
+      "end": 2269.87
     },
     {
       "text": "Latitude and Longitude (Meridians and Parallels)  The equator is an imaginary circle equidistant from the poles of the Earth.",
-      "start": 2156.15,
-      "end": 2164.9
+      "start": 2269.87,
+      "end": 2279.25
     },
     {
       "text": "Circles parallel to the equator (lines running east and west) are parallels of latitude.",
-      "start": 2166.1,
-      "end": 2172.26
+      "start": 2280.25,
+      "end": 2286.85
     },
     {
       "text": "They are used to measure degrees of latitude north or south of the equator.",
-      "start": 2172.26,
-      "end": 2177.51
+      "start": 2286.85,
+      "end": 2292.47
     },
     {
       "text": "Latitude: The angular distance from the equator to the pole is one-fourth of a circle or 90\u00b0.",
-      "start": 2177.51,
-      "end": 2184.02
+      "start": 2292.47,
+      "end": 2299.45
     },
     {
       "text": "Longitude: Meridi12ans of longitude are d13rawn from the North Pole to the South Pole and are at right angles to the Equator.",
-      "start": 2184.02,
-      "end": 2192.77
+      "start": 2299.45,
+      "end": 2308.82
     },
     {
       "text": "The Prime Meridian (0\u00b0) passes through Greenwich, England.",
-      "start": 2193.37,
-      "end": 2197.43
+      "start": 2309.32,
+      "end": 2313.67
     },
     {
       "text": "Longitude is measured in degrees east or west of the Prime Meridian.",
-      "start": 2197.43,
-      "end": 2202.19
+      "start": 2313.67,
+      "end": 2318.77
     },
     {
       "text": "Measurement: Any specific geographical point can be located by reference to its longitude and latitude.",
-      "start": 2202.19,
-      "end": 2209.4
+      "start": 2318.77,
+      "end": 2326.5
     },
     {
       "text": "Chart Symbology  Terrain and Obstructions  The elevation of terrain and obstructions is of major importance to pilots.",
-      "start": 2210.0,
-      "end": 2218.26
+      "start": 2327.0,
+      "end": 2335.85
     },
     {
       "text": "Contour Lines: Lines connecting points of equal elevation.",
-      "start": 2220.06,
-      "end": 2224.12
+      "start": 2337.35,
+      "end": 2341.7
     },
     {
       "text": "They show the shape of the terrain.",
-      "start": 2224.12,
-      "end": 2226.57
+      "start": 2341.7,
+      "end": 2344.32
     },
     {
       "text": "Color Tinting: Used to depict elevation.",
-      "start": 2226.57,
-      "end": 2229.37
+      "start": 2344.32,
+      "end": 2347.32
     },
     {
       "text": "Darker shades generally indicate higher terrain.",
-      "start": 2229.97,
-      "end": 2233.33
+      "start": 2347.82,
+      "end": 2351.42
     },
     {
       "text": "Maximum Elevation Figure (MEF): Bold numbers in each quadrangle of the chart indicating the highest known feature (terrain or obstruction) within that quadrangle.",
-      "start": 2233.33,
-      "end": 2244.67
+      "start": 2351.42,
+      "end": 2363.57
     },
     {
       "text": "Navigation Aids  VORTACs, VORs, VOR-DMEs, and NDBs are depicted on charts.",
-      "start": 2245.27,
-      "end": 2250.45
+      "start": 2364.07,
+      "end": 2369.62
     },
     {
       "text": "Compass Rose: A circle graduated in degrees, placed around the VOR symbol to facilitate plotting courses.",
-      "start": 2252.25,
-      "end": 2259.6
+      "start": 2371.12,
+      "end": 2379.0
     },
     {
       "text": "Pilotage  Pilotage is navigation by reference to landmarks or checkpoints.",
-      "start": 2259.6,
-      "end": 2264.78
+      "start": 2379.0,
+      "end": 2384.55
     },
     {
       "text": "It is a method of navigation that can be used on any course that has adequate checkpoints, but it is more commonly used in conjunction with dead reckoning and V-F-R radio navigation.",
-      "start": 2266.58,
-      "end": 2279.32
+      "start": 2386.05,
+      "end": 2399.7
     },
     {
       "text": "Checkpoints: The pilot selects checkpoints that are easily identified, such as large towns, roads, railroads, rivers, and lakes.",
-      "start": 2279.32,
-      "end": 2288.28
+      "start": 2399.7,
+      "end": 2409.3
     },
     {
       "text": "Bracketing: Using landmarks on either side of the course to keep the aircraft on track.",
-      "start": 2288.28,
-      "end": 2294.37
+      "start": 2409.3,
+      "end": 2415.82
     },
     {
       "text": "Dead Reckoning  Dead reckoning is navigation solely by means of computations based on time, airspeed, distance, and direction.",
-      "start": 2294.97,
-      "end": 2303.79
+      "start": 2416.32,
+      "end": 2425.77
     },
     {
       "text": "Heading: The direction the aircraft is pointed.",
-      "start": 2305.59,
-      "end": 2308.88
+      "start": 2427.27,
+      "end": 2430.8
     },
     {
       "text": "Track: The actual path of the aircraft over the ground.",
-      "start": 2308.88,
-      "end": 2312.73
+      "start": 2430.8,
+      "end": 2434.92
     },
     {
       "text": "Wind Triangle  The wind triangle is a method of determining the effect of wind on the flight.",
-      "start": 2313.33,
-      "end": 2319.84
+      "start": 2435.42,
+      "end": 2442.4
     },
     {
       "text": "Groundspeed (GS): The speed of the aircraft over the ground.",
-      "start": 2321.64,
-      "end": 2325.84
+      "start": 2443.9,
+      "end": 2448.4
     },
     {
       "text": "It is affected by the wind.",
-      "start": 2325.84,
-      "end": 2327.73
+      "start": 2448.4,
+      "end": 2450.42
     },
     {
       "text": "Wind Correction Angle (WCA): The angle between the course and the heading.",
-      "start": 2327.73,
-      "end": 2332.91
+      "start": 2450.42,
+      "end": 2455.97
     },
     {
       "text": "It is the correction applied to the course to compensate for wind drift.",
-      "start": 2333.51,
-      "end": 2338.55
+      "start": 2456.47,
+      "end": 2461.87
     },
     {
       "text": "Magnetic Variation  Variation is the angle between true north and magnetic north.",
-      "start": 2338.55,
-      "end": 2344.22
+      "start": 2461.87,
+      "end": 2467.95
     },
     {
       "text": "Isogonic Lines: Lines connecting points of equal magnetic variation.",
-      "start": 2346.02,
-      "end": 2350.78
+      "start": 2469.45,
+      "end": 2474.55
     },
     {
       "text": "Correction: To convert a true course to a magnetic course, add or subtract variation.",
-      "start": 2350.78,
-      "end": 2356.73
+      "start": 2474.55,
+      "end": 2480.92
     },
     {
       "text": "\"West is Best (Add), East is Least (Subtract).\"  Magnetic Deviation  Deviation is the error induced in the compass by the aircraft's magnetic fields.",
-      "start": 2357.33,
-      "end": 2367.76
+      "start": 2481.42,
+      "end": 2492.6
     },
     {
       "text": "Compass Card: A card mounted near the compass that shows the deviation correction for specific headings.",
-      "start": 2369.56,
-      "end": 2376.84
+      "start": 2494.1,
+      "end": 2501.9
     },
     {
       "text": "Flight Planning  Plotting the Course  Draw a line from the departure point to the destination.",
-      "start": 2376.84,
-      "end": 2383.42
+      "start": 2501.9,
+      "end": 2508.95
     },
     {
       "text": "Measure the True Course (TC) using a plotter/protractor against a meridian.",
-      "start": 2385.22,
-      "end": 2390.47
+      "start": 2510.45,
+      "end": 2516.07
     },
     {
       "text": "Measuring Distance  Measure the distance in nautical miles (NM) using the scale on the plotter or the latitude lines on the chart (1 minute of latitude \\= 1 NM).",
-      "start": 2391.07,
-      "end": 2402.34
+      "start": 2516.57,
+      "end": 2528.65
     },
     {
       "text": "Calculating Time, Speed, and Distance  Use the following formula or a flight computer (E6B): Time \\= Distance / Groundspeed Fuel Calculations  Calculate the fuel required based on the estimated time en route and the fuel consumption rate.",
-      "start": 2404.14,
-      "end": 2420.8
+      "start": 2530.15,
+      "end": 2548.0
     },
     {
       "text": "Always plan for adequate reserves.",
-      "start": 2422.0,
-      "end": 2424.38
+      "start": 2549.0,
+      "end": 2551.55
     },
     {
       "text": "V-F-R Flight Plan  A V-F-R flight plan is a form used to file flight information with the F-A-A.",
-      "start": 2424.38,
-      "end": 2431.1
+      "start": 2551.55,
+      "end": 2558.75
     },
     {
       "text": "It provides Search and Rescue (SAR) protection.",
-      "start": 2432.3,
-      "end": 2435.59
+      "start": 2559.75,
+      "end": 2563.27
     },
     {
       "text": "Filing: File with Flight Service (1-800-WX-BRIEF) or online.",
-      "start": 2435.59,
-      "end": 2439.79
+      "start": 2563.27,
+      "end": 2567.77
     },
     {
       "text": "Activation: The pilot must activate the flight plan on departure.",
-      "start": 2439.79,
-      "end": 2444.34
+      "start": 2567.77,
+      "end": 2572.65
     },
     {
       "text": "Closing: The pilot must close the flight plan upon arrival.",
-      "start": 2444.94,
-      "end": 2449.07
+      "start": 2573.15,
+      "end": 2577.57
     },
     {
       "text": "Lost Procedures  If you become lost: Climb: To see farther and improve radio reception.",
-      "start": 2449.67,
-      "end": 2455.76
+      "start": 2578.07,
+      "end": 2584.6
     },
     {
       "text": "Communicate: Call ATC or Flight Service on 121.5 or a local frequency.",
-      "start": 2457.56,
-      "end": 2462.46
+      "start": 2586.1,
+      "end": 2591.35
     },
     {
       "text": "Confess: Admit you are lost and need help.",
-      "start": 2463.06,
-      "end": 2466.0
+      "start": 2591.85,
+      "end": 2595.0
     },
     {
       "text": "Comply: Follow instructions.",
-      "start": 2466.6,
-      "end": 2468.56
+      "start": 2595.5,
+      "end": 2597.6
     },
     {
       "text": "Conserve: Reduce power to conserve fuel.",
-      "start": 2469.16,
-      "end": 2471.96
+      "start": 2598.1,
+      "end": 2601.1
     },
     {
       "text": "Global Positioning System (GPS)  GPS is a satellite-based radio navigation system.",
-      "start": 2472.56,
-      "end": 2478.3
+      "start": 2601.6,
+      "end": 2607.75
     },
     {
       "text": "Waypoints: Geographic locations used for navigation.",
-      "start": 2480.1,
-      "end": 2483.74
+      "start": 2609.25,
+      "end": 2613.15
     },
     {
       "text": "Moving Map: Displays the aircraft's position relative to the terrain and course.",
-      "start": 2483.74,
-      "end": 2489.34
+      "start": 2613.15,
+      "end": 2619.15
     },
     {
       "text": "RAIM (Receiver Autonomous Integrity Monitoring): A function that monitors the integrity of the GPS signals.",
-      "start": 2489.94,
-      "end": 2497.43
+      "start": 2619.65,
+      "end": 2627.68
     },
     {
       "text": "If RAIM is not available, the GPS accuracy may be degraded.",
-      "start": 2498.03,
-      "end": 2502.16
+      "start": 2628.18,
+      "end": 2632.6
     },
     {
       "text": "[See Figure 16-1: Sectional chart excerpt]  ---  PHAK Chapter 17: Aeromedical Factors (Sport Pilot Filter) Medical Certification  Obtaining a Medical Certificate  Most pilots must have a valid medical certificate to exercise the privileges of their airman certificates.",
-      "start": 2502.16,
-      "end": 2520.99
+      "start": 2632.6,
+      "end": 2652.78
     },
     {
       "text": "Sport pilots may hold either a medical certificate or a valid state driver\u2019s license.",
-      "start": 2522.79,
-      "end": 2528.74
+      "start": 2654.28,
+      "end": 2660.65
     },
     {
       "text": "Regardless of whether a medical certificate or driver's license is required, 14 C-F-R 61.53 requires every pilot not to act as a crewmember if they know, or have reason to know, of any medical condition that would make them unable to operate the aircraft in a safe manner.",
-      "start": 2528.74,
-      "end": 2547.78
+      "start": 2660.65,
+      "end": 2681.05
     },
     {
       "text": "Environmental Factors  Hypoxia  Hypoxia means \"reduced oxygen\" or \"not enough oxygen.\" Although any tissue will die if deprived of oxygen long enough, the greatest concern regarding hypoxia during flight is lack of oxygen to the brain, since it is particularly vulnerable to oxygen deprivation.",
-      "start": 2547.78,
-      "end": 2568.36
+      "start": 2681.05,
+      "end": 2703.1
     },
     {
       "text": "Hypoxic Hypoxia  This is a result of insufficient oxygen available to the body as a whole.",
-      "start": 2569.56,
-      "end": 2575.86
+      "start": 2704.1,
+      "end": 2710.85
     },
     {
       "text": "A blocked airway and drowning are obvious examples of how the lungs can be deprived of oxygen, but the reduction in partial pressure of oxygen at high altitude is an appropriate example for pilots.",
-      "start": 2577.06,
-      "end": 2590.85
+      "start": 2711.85,
+      "end": 2726.63
     },
     {
       "text": "Hypemic Hypoxia  This occurs when the blood is not able to take up and transport a sufficient amount of oxygen to the cells in the body.",
-      "start": 2590.85,
-      "end": 2600.37
+      "start": 2726.63,
+      "end": 2736.83
     },
     {
       "text": "The most common form of hypemic hypoxia is carbon monoxide (CO) poisoning.",
-      "start": 2601.57,
-      "end": 2606.75
+      "start": 2737.83,
+      "end": 2743.38
     },
     {
       "text": "CO attaches itself to the hemoglobin about 200 times more easily than does oxygen.",
-      "start": 2606.75,
-      "end": 2612.49
+      "start": 2743.38,
+      "end": 2749.53
     },
     {
       "text": "It can result from a leaking exhaust manifold, allowing CO to enter the cockpit.",
-      "start": 2612.49,
-      "end": 2618.09
+      "start": 2749.53,
+      "end": 2755.53
     },
     {
       "text": "Symptoms of Hypoxia  High-altitude flying can place a pilot in danger of becoming hypoxic.",
-      "start": 2618.09,
-      "end": 2624.39
+      "start": 2755.53,
+      "end": 2762.28
     },
     {
       "text": "Oxygen starvation causes the brain and other vital organs to become impaired.",
-      "start": 2625.59,
-      "end": 2630.98
+      "start": 2763.28,
+      "end": 2769.05
     },
     {
       "text": "One of the earliest symptoms is euphoria (a feeling of well-being).",
-      "start": 2630.98,
-      "end": 2635.67
+      "start": 2769.05,
+      "end": 2774.08
     },
     {
       "text": "Other symptoms include drowsiness, headache, dizziness, cyanosis (blue color of lips/fingernails), and numbness.",
-      "start": 2635.67,
-      "end": 2643.51
+      "start": 2774.08,
+      "end": 2782.48
     },
     {
       "text": "Time of Useful Consciousness (TUC)  TUC is the maximum time the pilot has to make rational, life-saving decisions and carry them out at a given altitude without supplemental oxygen.",
-      "start": 2643.51,
-      "end": 2656.18
+      "start": 2782.48,
+      "end": 2796.05
     },
     {
       "text": "As altitude increases, TUC decreases.",
-      "start": 2657.38,
-      "end": 2659.97
+      "start": 2797.05,
+      "end": 2799.83
     },
     {
       "text": "Hyperventilation  Hyperventilation is the excessive rate and depth of respiration leading to abnormal loss of carbon dioxide from the blood.",
-      "start": 2659.97,
-      "end": 2669.77
+      "start": 2799.83,
+      "end": 2810.33
     },
     {
       "text": "This condition is common among pilots experiencing a stressful situation.",
-      "start": 2670.97,
-      "end": 2676.08
+      "start": 2811.33,
+      "end": 2816.8
     },
     {
       "text": "Symptoms: Visual impairment, unconsciousness, lightheadedness, tingling sensations (pins and needles), and muscle spasms.",
-      "start": 2676.08,
-      "end": 2684.55
+      "start": 2816.8,
+      "end": 2825.88
     },
     {
       "text": "Treatment: Breathing into a paper bag or talking aloud helps build up carbon dioxide levels.",
-      "start": 2684.55,
-      "end": 2690.99
+      "start": 2825.88,
+      "end": 2832.78
     },
     {
       "text": "Middle Ear and Sinus Problems  Climb and Descent  During a climb, expanding gas in the middle ear vents through the Eustachian tube.",
-      "start": 2691.59,
-      "end": 2700.83
+      "start": 2833.28,
+      "end": 2843.18
     },
     {
       "text": "During descent, the pilot must open the Eustachian tube to equalize pressure.",
-      "start": 2702.63,
-      "end": 2708.02
+      "start": 2844.68,
+      "end": 2850.45
     },
     {
       "text": "This can be done by swallowing, yawning, or using the Valsalva maneuver (pinching the nose and blowing gently).",
-      "start": 2708.02,
-      "end": 2715.79
+      "start": 2850.45,
+      "end": 2858.78
     },
     {
       "text": "Congestion: If the pilot has a cold or congestion, the Eustachian tube may be blocked.",
-      "start": 2715.79,
-      "end": 2721.81
+      "start": 2858.78,
+      "end": 2865.23
     },
     {
       "text": "Flying with a cold can lead to extreme pain and possible eardrum rupture during descent.",
-      "start": 2721.81,
-      "end": 2727.97
+      "start": 2865.23,
+      "end": 2871.83
     },
     {
       "text": "Spatial Disorientation and Illusions  Spatial disorientation is the inability of a pilot to correctly interpret aircraft attitude, altitude, or airspeed in relation to the Earth or other points of reference.",
-      "start": 2727.97,
-      "end": 2742.46
+      "start": 2871.83,
+      "end": 2887.35
     },
     {
       "text": "Vestibular Illusions  The vestibular system (inner ear) help17s balance but can be easily confused in flight.",
-      "start": 2744.26,
-      "end": 2751.89
+      "start": 2888.85,
+      "end": 2897.03
     },
     {
       "text": "The Leans: A slow roll is not detected by the fluid in the ear.",
-      "start": 2753.09,
-      "end": 2757.5
+      "start": 2898.03,
+      "end": 2902.75
     },
     {
       "text": "When the pilot corrects, the ear signals a turn in the opposite direction, causing the pilot to lean.",
-      "start": 2757.5,
-      "end": 2764.57
+      "start": 2902.75,
+      "end": 2910.33
     },
     {
       "text": "Coriolis Illusion: Occurs when a pilot has been in a turn long enough for the fluid in the ear to move at the same speed as the canal.",
-      "start": 2764.57,
-      "end": 2773.95
+      "start": 2910.33,
+      "end": 2920.38
     },
     {
       "text": "A sudden head movement creates an overwhelming sensation of rotating or turning.",
-      "start": 2774.55,
-      "end": 2780.15
+      "start": 2920.88,
+      "end": 2926.88
     },
     {
       "text": "Graveyard Spiral: A pilot in a prolonged constant-rate turn may experience the illusion of not turning.",
-      "start": 2780.15,
-      "end": 2787.36
+      "start": 2926.88,
+      "end": 2934.6
     },
     {
       "text": "Upon recovering to level flight, the pilot will feel a sensation of turning in the opposite direction and may return the aircraft to its original turn.",
-      "start": 2787.96,
-      "end": 2798.53
+      "start": 2935.1,
+      "end": 2946.43
     },
     {
       "text": "Visual Illusions  False Horizon: A sloping cloud formation, an obscured horizon, or a dark scene spread with ground lights and stars can create a false horizon.",
-      "start": 2798.53,
-      "end": 2809.73
+      "start": 2946.43,
+      "end": 2958.43
     },
     {
       "text": "Autokinesis: In the dark, a static light will appear to move about when stared at for many seconds.",
-      "start": 2810.33,
-      "end": 2817.26
+      "start": 2958.93,
+      "end": 2966.35
     },
     {
       "text": "The pilot may attempt to align the aircraft with the moving light.",
-      "start": 2817.86,
-      "end": 2822.48
+      "start": 2966.85,
+      "end": 2971.8
     },
     {
       "text": "Preventing Disorientation The most effective way to prevent spatial disorientation is to rely on the flight instruments and ignore conflicting sensory signals.",
-      "start": 2822.48,
-      "end": 2833.61
+      "start": 2971.8,
+      "end": 2983.73
     },
     {
       "text": "Motion Sickness  Motion sickness is caused by the brain receiving conflicting messages from the state of the body, the eyes, and the inner ear.",
-      "start": 2833.61,
-      "end": 2843.62
+      "start": 2983.73,
+      "end": 2994.45
     },
     {
       "text": "Symptoms: Nausea, dizziness, paleness, sweating, and vomiting.",
-      "start": 2845.42,
-      "end": 2849.76
+      "start": 2995.95,
+      "end": 3000.6
     },
     {
       "text": "Remedy: Open air vents, focus on objects outside the aircraft, and avoid unnecessary head movements.",
-      "start": 2849.76,
-      "end": 2856.76
+      "start": 3000.6,
+      "end": 3008.1
     },
     {
       "text": "Carbon Monoxide (CO) Poisoning  CO is a colorless, odorless, and tasteless gas contained in exhaust fumes.",
-      "start": 2857.36,
-      "end": 2864.78
+      "start": 3008.6,
+      "end": 3016.55
     },
     {
       "text": "Source: Heaters in light aircraft work by air flowing over the exhaust manifold.",
-      "start": 2866.58,
-      "end": 2872.18
+      "start": 3018.05,
+      "end": 3024.05
     },
     {
       "text": "A crack in the manifold allows exhaust into the cabin.",
-      "start": 2872.18,
-      "end": 2875.96
+      "start": 3024.05,
+      "end": 3028.1
     },
     {
       "text": "Symptoms: Headache, drowsiness, and dizziness.",
-      "start": 2875.96,
-      "end": 2879.18
+      "start": 3028.1,
+      "end": 3031.55
     },
     {
       "text": "The smell of exhaust gas is a warning.",
-      "start": 2879.78,
-      "end": 2882.44
+      "start": 3032.05,
+      "end": 3034.9
     },
     {
       "text": "Action: Turn off the heater, open air vents/windows, and land as soon as practical.",
-      "start": 2882.44,
-      "end": 2888.25
+      "start": 3034.9,
+      "end": 3041.13
     },
     {
       "text": "Stress and Fatigue  Stress  Stress is the body\u2019s response to physical and psychological demands.",
-      "start": 2888.85,
-      "end": 2895.57
+      "start": 3041.63,
+      "end": 3048.83
     },
     {
       "text": "Acute Stress: Short term (e.g., an immediate threat).",
-      "start": 2897.37,
-      "end": 2901.08
+      "start": 3050.33,
+      "end": 3054.3
     },
     {
       "text": "Chronic Stress: Long term (e.g., financial problems, loneliness).",
-      "start": 2901.08,
-      "end": 2905.63
+      "start": 3054.3,
+      "end": 3059.18
     },
     {
       "text": "This is a serious threat to flight safety.",
-      "start": 2906.23,
-      "end": 2909.17
+      "start": 3059.68,
+      "end": 3062.83
     },
     {
       "text": "Fatigue: Fatigue is frequently associated with pilot error.",
-      "start": 2909.17,
-      "end": 2913.3
+      "start": 3062.83,
+      "end": 3067.25
     },
     {
       "text": "Some of the effects of fatigue include degradation of attention and concentration, impaired coordination, and decreased ability to communicate.",
-      "start": 2913.9,
-      "end": 2923.91
+      "start": 3067.75,
+      "end": 3078.48
     },
     {
       "text": "Dehydration and Heatstroke  Dehydration  Dehydration is the term given to a critical loss of water from the body.",
-      "start": 2923.91,
-      "end": 2931.82
+      "start": 3078.48,
+      "end": 3086.95
     },
     {
       "text": "The first noticeable effect of dehydration is fatigue.",
-      "start": 2933.62,
-      "end": 2937.4
+      "start": 3088.45,
+      "end": 3092.5
     },
     {
       "text": "Alcohol and Drugs  Alcohol  Alcohol impairs the efficiency of the human body.",
-      "start": 2937.4,
-      "end": 2942.79
+      "start": 3092.5,
+      "end": 3098.28
     },
     {
       "text": "Regulations: 14 C-F-R part 91 requires that blood alcohol level be less than 0.04 percent and that 8 hours pass between drinking alcohol and piloting an aircraft (\"8 hours bottle to throttle\").",
-      "start": 2943.99,
-      "end": 2957.5
+      "start": 3099.28,
+      "end": 3113.75
     },
     {
       "text": "Altitude Effect: Alcohol is more damaging at altitude due to hypoxia.",
-      "start": 2957.5,
-      "end": 2962.33
+      "start": 3113.75,
+      "end": 3118.93
     },
     {
       "text": "Hangover: A pilot with a hangover is still under the influence of alcohol and must not fly.",
-      "start": 2962.93,
-      "end": 2969.3
+      "start": 3119.43,
+      "end": 3126.25
     },
     {
       "text": "Drugs  The regulations prohibit pilots from performing crewmember duties while using any medication that affects the faculties in any way contrary to safety.",
-      "start": 2969.9,
-      "end": 2980.89
+      "start": 3126.75,
+      "end": 3138.53
     },
     {
       "text": "A pilot should consult an Aviation Medical Examiner (AME) before flying while taking any medication.",
-      "start": 2982.69,
-      "end": 2989.69
+      "start": 3140.03,
+      "end": 3147.53
     },
     {
       "text": "Scuba Diving  Decompression sickness caused by nitrogen gas evolving in the blood can occur during exposure to low barometric pressure after scuba diving.",
-      "start": 2989.69,
-      "end": 3000.47
+      "start": 3147.53,
+      "end": 3159.08
     },
     {
       "text": "Wait Times: Flights up to 8,000 feet MSL: Wait at least 12 hours after a dive which has not required controlled ascent (non-decompression stop diving).",
-      "start": 3001.67,
-      "end": 3012.24
+      "start": 3160.08,
+      "end": 3171.4
     },
     {
       "text": "Flights above 8,000 feet MSL: Wait at least 24 hours after any scuba dive.",
-      "start": 3012.24,
-      "end": 3017.42
+      "start": 3171.4,
+      "end": 3176.95
     },
     {
       "text": "Decompression Stop Diving: Wait at least 24 hours for any flight.",
-      "start": 3018.02,
-      "end": 3022.57
+      "start": 3177.45,
+      "end": 3182.33
     },
     {
       "text": "Vision in Flight  Anatomy of the Eye  Cones: Located in the center of the retina.",
-      "start": 3023.17,
-      "end": 3028.84
+      "start": 3182.83,
+      "end": 3188.9
     },
     {
       "text": "Responsible for color, detail, and day vision.",
-      "start": 3030.64,
-      "end": 3033.86
+      "start": 3190.4,
+      "end": 3193.85
     },
     {
       "text": "Rods: Located in the periphery.",
-      "start": 3033.86,
-      "end": 3036.03
+      "start": 3193.85,
+      "end": 3196.18
     },
     {
       "text": "Responsible for night and peripheral vision.",
-      "start": 3036.63,
-      "end": 3039.71
+      "start": 3196.68,
+      "end": 3199.98
     },
     {
       "text": "They are sensitive to movement but cannot see color or fine detail.",
-      "start": 3039.71,
-      "end": 3044.4
+      "start": 3199.98,
+      "end": 3205.0
     },
     {
       "text": "Night Vision  Adaptation: It takes about 30 minutes for the rods to fully adapt to darkness.",
-      "start": 3044.4,
-      "end": 3050.84
+      "start": 3205.0,
+      "end": 3211.9
     },
     {
       "text": "Off-Center Viewing: Because the cones (center) are blind at night, pilots must look 5 to 10 degrees off-center to see an object clearly.",
-      "start": 3052.64,
-      "end": 3062.16
+      "start": 3213.4,
+      "end": 3223.6
     },
     {
       "text": "Empty Field Myopia: In empty skies (haze or no clouds), the eye tends to focus only a few meters ahead.",
-      "start": 3062.76,
-      "end": 3069.97
+      "start": 3224.1,
+      "end": 3231.83
     },
     {
       "text": "Scanning Techniques  Scanning for traffic is a continuous process.",
-      "start": 3070.57,
-      "end": 3075.19
+      "start": 3232.33,
+      "end": 3237.28
     },
     {
       "text": "Day: Use a series of short, regularly spaced eye movements (about 10 degrees), focusing for at least one second in each block.",
-      "start": 3076.99,
-      "end": 3085.81
+      "start": 3238.78,
+      "end": 3248.22
     },
     {
       "text": "Night: Scan slowly to permit off-center viewing.",
-      "start": 3085.81,
-      "end": 3089.17
+      "start": 3248.22,
+      "end": 3251.82
     }
   ]
 }
