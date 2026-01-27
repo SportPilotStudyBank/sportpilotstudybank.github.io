@@ -15,2154 +15,2154 @@
       "end": 34.52
     },
     {
-      "text": "no-tams contain current notices to airmen that are considered essential to the safety of flight, as well as supplemental data affecting other operational publications.",
+      "text": "NOTAMs contain current notices to airmen that are considered essential to the safety of flight, as well as supplemental data affecting other operational publications.",
       "start": 34.52,
-      "end": 47.05
+      "end": 46.97
     },
     {
-      "text": "There are many different reasons that no-tams are issued.",
-      "start": 47.05,
-      "end": 51.32
+      "text": "There are many different reasons that NOTAMs are issued.",
+      "start": 46.97,
+      "end": 51.17
     },
     {
       "text": "Following are some of those reasons: Hazards, such as air shows, parachute jumps, kite flying, and rocket launches.",
-      "start": 51.32,
-      "end": 59.95
+      "start": 51.17,
+      "end": 59.8
     },
     {
       "text": "Flights by important people such as heads of state.",
-      "start": 59.95,
-      "end": 63.77
+      "start": 59.8,
+      "end": 63.62
     },
     {
       "text": "Closed runways.",
-      "start": 64.27,
-      "end": 65.4
+      "start": 64.12,
+      "end": 65.25
     },
     {
       "text": "Inoperable radio navigational aids.",
-      "start": 65.9,
-      "end": 68.52
+      "start": 65.75,
+      "end": 68.38
     },
     {
       "text": "Military exercises with resulting airspace restrictions.",
-      "start": 69.02,
-      "end": 73.22
+      "start": 68.88,
+      "end": 73.08
     },
     {
       "text": "Inoperable lights on tall obstructions.",
-      "start": 73.72,
-      "end": 76.65
+      "start": 73.58,
+      "end": 76.5
     },
     {
       "text": "Temporary erection of obstacles near airfields.",
-      "start": 77.15,
-      "end": 80.67
+      "start": 77.0,
+      "end": 80.53
     },
     {
-      "text": "Passage of flocks of birds through airspace (a no-tam in this category is known as a BIRDTAM).",
-      "start": 81.17,
-      "end": 88.22
+      "text": "Passage of flocks of birds through airspace (a NOTAM in this category is known as a BIRDTAM).",
+      "start": 81.03,
+      "end": 88.0
     },
     {
       "text": "Notifications of runway/taxiway/apron status with respect to snow, ice, and standing water (a SNOWTAM).",
-      "start": 88.72,
-      "end": 96.45
+      "start": 88.5,
+      "end": 96.22
     },
     {
       "text": "Notification of an operationally significant change in volcanic ash or other dust contamination (an ASHTAM).",
-      "start": 96.95,
-      "end": 105.05
+      "start": 96.72,
+      "end": 104.82
     },
     {
       "text": "Software code risk announcements with associated patches to reduce specific vulnerabilities.",
-      "start": 105.55,
-      "end": 112.45
+      "start": 105.32,
+      "end": 112.22
     },
     {
-      "text": "no-tam information is generally classified into four categories: no-tam (D) or no-tams that receive distant dissemination, distant and Flight Data Center (FDC) NOTAMs, Pointer NOTAMs, and Military no-tams pertaining to military airports or NAVAIDs that are part of the NAS.",
-      "start": 112.95,
-      "end": 133.42
+      "text": "NOTAM information is generally classified into four categories: NOTAM (D) or NOTAMs that receive distant dissemination, distant and Flight Data Center (FDC) NOTAMs, Pointer NOTAMs, and Military NOTAMs pertaining to military airports or NAVAIDs that are part of the NAS.",
+      "start": 112.72,
+      "end": 132.9
     },
     {
-      "text": "### no-tam (D) Information no-tam (D) information is disseminated for all navigational facilities that are part of the NAS, and all public use airports, seaplane bases, and heliports listed in the Chart Supplement U.S.",
-      "start": 133.42,
-      "end": 149.77
+      "text": "### NOTAM (D) Information NOTAM (D) information is disseminated for all navigational facilities that are part of the NAS, and all public use airports, seaplane bases, and heliports listed in the Chart Supplement U.S.",
+      "start": 132.9,
+      "end": 149.1
     },
     {
       "text": "(formerly Airport/Facility Directory).",
-      "start": 150.27,
-      "end": 153.12
+      "start": 149.6,
+      "end": 152.45
     },
     {
-      "text": "no-tam (D) information now includes such data as taxiway closures, personnel and equipment near or crossing runways, and airport lighting aids that do not affect instrument approach criteria, such as visual approach slope indicator (VASI).",
-      "start": 153.12,
-      "end": 171.05
+      "text": "NOTAM (D) information now includes such data as taxiway closures, personnel and equipment near or crossing runways, and airport lighting aids that do not affect instrument approach criteria, such as visual approach slope indicator (VASI).",
+      "start": 152.45,
+      "end": 170.3
     },
     {
-      "text": "All D no-tams are required to have one of the following keywords as the first part of the text: RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U), or (O).",
-      "start": 171.05,
-      "end": 183.5
+      "text": "All D NOTAMs are required to have one of the following keywords as the first part of the text: RWY, TWY, RAMP, APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U), or (O).",
+      "start": 170.3,
+      "end": 182.67
     },
     {
-      "text": "[See Figure 1-19: no-tam (D) Information] ### FDC NOTAMS FDC no-tams are issued by the National Flight Data Center and contain information that is regulatory in nature pertaining to flight including, but not limited to, changes to charts, procedures, and airspace usage.",
-      "start": 183.5,
-      "end": 203.75
+      "text": "[See Figure 1-19: NOTAM (D) Information] ### FDC NOTAMS FDC NOTAMs are issued by the National Flight Data Center and contain information that is regulatory in nature pertaining to flight including, but not limited to, changes to charts, procedures, and airspace usage.",
+      "start": 182.67,
+      "end": 202.77
     },
     {
-      "text": "FDC no-tams refer to information that is regulatory in nature and includes the following: Interim I-F-R flight procedures:  Airway structure changes.",
-      "start": 203.75,
-      "end": 214.92
+      "text": "FDC NOTAMs refer to information that is regulatory in nature and includes the following: Interim IFR flight procedures:  Airway structure changes.",
+      "start": 202.77,
+      "end": 213.72
     },
     {
       "text": "Instrument approach procedure changes (excludes Departure Procedures (DPs) and Standard Terminal Arrivals (STARs)).",
-      "start": 215.42,
-      "end": 224.05
+      "start": 214.22,
+      "end": 222.85
     },
     {
       "text": "Airspace changes in general.",
-      "start": 224.55,
-      "end": 226.65
+      "start": 223.35,
+      "end": 225.45
     },
     {
       "text": "Special instrument approach procedure changes.",
-      "start": 227.15,
-      "end": 230.6
+      "start": 225.95,
+      "end": 229.4
     },
     {
       "text": "Temporary flight restrictions (discussed in Chapter 15):  Disaster areas.",
-      "start": 231.1,
-      "end": 236.57
+      "start": 229.9,
+      "end": 235.37
     },
     {
       "text": "Special events generating a high degree of interest.",
-      "start": 237.07,
-      "end": 240.97
+      "start": 235.87,
+      "end": 239.77
     },
     {
       "text": "Hijacking.",
-      "start": 241.47,
-      "end": 242.22
+      "start": 240.27,
+      "end": 241.02
     },
     {
-      "text": "## Aircraft Classifications The F-A-A differentiates aircraft by their characteristics and physical properties.",
-      "start": 242.72,
-      "end": 251.05
+      "text": "## Aircraft Classifications The FAA differentiates aircraft by their characteristics and physical properties.",
+      "start": 241.52,
+      "end": 249.7
     },
     {
-      "text": "Key groupings defined in 14 C-F-R 1.1 include: Airplane \u2014an engine-driven fixed-wing aircraft heavier than air, that is supported in flight by the dynamic reaction of the air against its wings.",
-      "start": 251.55,
-      "end": 266.02
+      "text": "Key groupings defined in 14 CFR 1.1 include: Airplane \u2014an engine-driven fixed-wing aircraft heavier than air, that is supported in flight by the dynamic reaction of the air against its wings.",
+      "start": 250.2,
+      "end": 264.52
     },
     {
       "text": "Glider \u2014a heavier-than-air aircraft, that is supported in flight by the dynamic reaction of the air against its lifting surfaces and whose free flight does not depend principally on an engine.",
-      "start": 266.02,
-      "end": 280.42
+      "start": 264.52,
+      "end": 278.92
     },
     {
       "text": "Lighter-than-air aircraft \u2014an aircraft that can rise and remain suspended by using contained gas weighing less than the air that is displaced by the gas.",
-      "start": 280.92,
-      "end": 292.4
+      "start": 279.42,
+      "end": 290.9
     },
     {
       "text": "Airship \u2014an engine-driven lighter-than-air aircraft that can be steered.",
-      "start": 292.9,
-      "end": 298.3
+      "start": 291.4,
+      "end": 296.8
     },
     {
       "text": "Balloon \u2014a lighter-than-air aircraft that is not engine driven, and that sustains flight through the use of either gas buoyancy or an airborne heater.",
-      "start": 298.8,
-      "end": 310.05
+      "start": 297.3,
+      "end": 308.55
     },
     {
       "text": "Powered-lift \u2014a heavier-than-air aircraft capable of vertical takeoff, vertical landing, and low speed flight that depends principally on engine-driven lift devices or engine thrust for lift during these flight regimes and on nonrotating airfoil(s) for lift during horizontal flight.",
-      "start": 310.55,
-      "end": 331.77
+      "start": 309.05,
+      "end": 330.27
     },
     {
-      "text": "Powered parachute \u2014a powered aircraft comprised of a flexible or semi-rigid wing connected to a fyu-suh-laaj so that the wing is not in position for flight until the aircraft is in motion.",
-      "start": 332.27,
-      "end": 346.38
+      "text": "Powered parachute \u2014a powered aircraft comprised of a flexible or semi-rigid wing connected to a fuselage so that the wing is not in position for flight until the aircraft is in motion.",
+      "start": 330.77,
+      "end": 344.57
     },
     {
-      "text": "The fyu-suh-laaj of a powered parachute contains the aircraft engine, a seat for each occupant and is attached to the aircraft's landing gear.",
-      "start": 346.88,
-      "end": 357.52
+      "text": "The fuselage of a powered parachute contains the aircraft engine, a seat for each occupant and is attached to the aircraft's landing gear.",
+      "start": 345.07,
+      "end": 355.43
     },
     {
-      "text": "Weight-shift-control \u2014a powered aircraft with a framed pivoting wing and a fyu-suh-laaj controllable only in pitch and roll by the pilot's ability to change the aircraft's center of gravity with respect to the wing.",
-      "start": 357.52,
-      "end": 373.65
+      "text": "Weight-shift-control \u2014a powered aircraft with a framed pivoting wing and a fuselage controllable only in pitch and roll by the pilot's ability to change the aircraft's center of gravity with respect to the wing.",
+      "start": 355.43,
+      "end": 371.25
     },
     {
       "text": "Flight control of the aircraft depends on the wing's ability to flexibly deform rather than the use of control surfaces.",
-      "start": 374.15,
-      "end": 383.15
+      "start": 371.75,
+      "end": 380.75
     },
     {
-      "text": "### Light-Sport Aircraft (LSA) Definition Light-sport aircraft (LSA) \u2014an aircraft, other than a helicopter or powered-lift that, since its original certification, has continued to meet the definition in 14 C-F-R 1.1.",
-      "start": 383.15,
-      "end": 399.35
+      "text": "### Light-Sport Aircraft (LSA) Definition Light-sport aircraft (LSA) \u2014an aircraft, other than a helicopter or powered-lift that, since its original certification, has continued to meet the definition in 14 CFR 1.1.",
+      "start": 380.75,
+      "end": 396.8
     },
     {
       "text": "(LSA can include airplanes, airships, balloons, gliders, gyroplanes, powered parachutes, and weight-shift-control.) ### Category vs.",
-      "start": 399.85,
-      "end": 409.75
+      "start": 397.3,
+      "end": 407.2
     },
     {
-      "text": "Class (Certification of Airmen) These definitions are in 14 C-F-R 1.1: Category 1.",
-      "start": 409.75,
-      "end": 415.9
+      "text": "Class (Certification of Airmen) These definitions are in 14 CFR 1.1: Category 1.",
+      "start": 407.2,
+      "end": 413.2
     },
     {
       "text": "As used with respect to the certification, ratings, privileges, and limitations of airmen, means a broad classification of aircraft.",
-      "start": 415.9,
-      "end": 425.8
+      "start": 413.2,
+      "end": 423.1
     },
     {
       "text": "Examples include: airplane; rotorcraft; glider; and lighter-than-air.",
-      "start": 425.8,
-      "end": 430.97
+      "start": 423.1,
+      "end": 428.27
     },
     {
       "text": "Class 1.",
-      "start": 430.97,
-      "end": 431.57
+      "start": 428.27,
+      "end": 428.88
     },
     {
       "text": "As used with respect to the certification, ratings, privileges, and limitations of airmen, means a classification of aircraft within a category having similar operating characteristics.",
-      "start": 431.57,
-      "end": 445.45
+      "start": 428.88,
+      "end": 442.75
     },
     {
       "text": "Examples include: single engine; multiengine; land; water; gyroplane, helicopter, airship, and free balloon.",
-      "start": 445.45,
-      "end": 453.55
+      "start": 442.75,
+      "end": 450.85
     },
     {
       "text": "## Pilot Certifications ### Sport Pilot To become a sport pilot, the student pilot is required to have flown, at a minimum, the following hours depending upon the aircraft: Airplane: 20 hours.",
-      "start": 453.55,
-      "end": 467.95
+      "start": 450.85,
+      "end": 465.25
     },
     {
       "text": "Powered Parachute: 12 hours.",
-      "start": 467.95,
-      "end": 470.05
+      "start": 465.25,
+      "end": 467.35
     },
     {
       "text": "Weight-Shift Control (Trikes): 20 hours.",
-      "start": 470.55,
-      "end": 473.55
+      "start": 467.85,
+      "end": 470.85
     },
     {
       "text": "Glider: 10 hours.",
-      "start": 474.05,
-      "end": 475.32
+      "start": 471.35,
+      "end": 472.62
     },
     {
       "text": "Rotorcraft (gyroplane only): 20 hours.",
-      "start": 475.82,
-      "end": 478.67
+      "start": 473.12,
+      "end": 475.98
     },
     {
       "text": "Lighter-Than-Air: 20 hours (airship) or 7 hours (balloon).",
-      "start": 479.17,
-      "end": 483.52
+      "start": 476.48,
+      "end": 480.83
     },
     {
       "text": "To earn a Sport Pilot Certificate, one must:  Be at least 16 years old to become a student sport pilot (14 years old for gliders or balloons).",
-      "start": 484.02,
-      "end": 494.67
+      "start": 481.33,
+      "end": 491.98
     },
     {
       "text": "Be at least 17 years old to test for a sport pilot certificate (16 years old for gliders or balloons).",
-      "start": 495.17,
-      "end": 502.82
+      "start": 492.48,
+      "end": 500.12
     },
     {
       "text": "Be able to read, write, and understand the English language.",
-      "start": 503.32,
-      "end": 507.82
+      "start": 500.62,
+      "end": 505.12
     },
     {
       "text": "Hold a current and valid driver's license as evidence of medical eligibility.",
-      "start": 508.32,
-      "end": 514.1
+      "start": 505.62,
+      "end": 511.4
     },
     {
       "text": "When operating as a sport pilot, some of the following privileges and limitations may apply.",
-      "start": 514.6,
-      "end": 521.5
+      "start": 511.9,
+      "end": 518.8
     },
     {
       "text": "#### Privileges: Operate as pilot in command (PIC) of a light-sport aircraft.",
-      "start": 521.5,
-      "end": 527.27
+      "start": 518.8,
+      "end": 524.57
     },
     {
       "text": "Carry a passenger and share expenses (fuel, oil, airport expenses, and aircraft rental).",
-      "start": 527.77,
-      "end": 534.37
+      "start": 525.07,
+      "end": 531.67
     },
     {
       "text": "Fly during the daytime using VFR, a minimum of 3 statute miles visibility and visual contact with the ground are required.",
-      "start": 534.87,
-      "end": 544.02
+      "start": 532.17,
+      "end": 541.32
     },
     {
       "text": "#### Limitations: Prohibited from flying in Class A airspace.",
-      "start": 544.52,
-      "end": 549.1
+      "start": 541.82,
+      "end": 546.4
     },
     {
       "text": "Prohibited from flying in Class B, C, or D airspace until you receive training and a logbook endorsement from an instructor.",
-      "start": 549.6,
-      "end": 558.9
+      "start": 546.9,
+      "end": 556.2
     },
     {
       "text": "No flights outside the United States without prior permission from the foreign aviation authority.",
-      "start": 559.4,
-      "end": 566.75
+      "start": 556.7,
+      "end": 564.05
     },
     {
       "text": "May not tow any object.",
-      "start": 567.25,
-      "end": 568.97
+      "start": 564.55,
+      "end": 566.27
     },
     {
       "text": "No flights while carrying a passenger or property for compensation or hire.",
-      "start": 569.47,
-      "end": 575.1
+      "start": 566.77,
+      "end": 572.4
     },
     {
       "text": "Prohibited from flying in furtherance of a business.",
-      "start": 575.6,
-      "end": 579.5
+      "start": 572.9,
+      "end": 576.8
     },
     {
       "text": "The sport pilot certificate does not list aircraft category and class ratings.",
-      "start": 580.0,
-      "end": 585.85
+      "start": 577.3,
+      "end": 583.15
     },
     {
-      "text": "After successfully passing the practical test for a sport pilot certificate, regardless of the light-sport aircraft privileges you seek, the F-A-A will issue you a sport pilot certificate without any category and class ratings.",
-      "start": 585.85,
-      "end": 602.87
+      "text": "After successfully passing the practical test for a sport pilot certificate, regardless of the light-sport aircraft privileges you seek, the FAA will issue you a sport pilot certificate without any category and class ratings.",
+      "start": 583.15,
+      "end": 600.02
     },
     {
       "text": "The Instructor will provide you with the appropriate logbook endorsement for the category and class of aircraft in which you are authorized to act as pilot in command.",
-      "start": 602.87,
-      "end": 615.4
+      "start": 600.02,
+      "end": 612.55
     },
     {
       "text": "## The Student Pilot ### Basic Requirements A student pilot is one who is being trained by an instructor pilot for his or her first full certificate, and is permitted to fly alone (solo) under specific, limited circumstances.",
-      "start": 615.4,
-      "end": 632.27
+      "start": 612.55,
+      "end": 629.42
     },
     {
       "text": "Before a student pilot may be endorsed to fly solo, that student must have a Student Pilot Certificate.",
-      "start": 632.77,
-      "end": 640.5
+      "start": 629.92,
+      "end": 637.65
     },
     {
       "text": "To be eligible for a Student Pilot Certificate, the applicant must: Be at least 16 years of age (14 years of age to pilot a glider or balloon).",
-      "start": 640.5,
-      "end": 651.22
+      "start": 637.65,
+      "end": 648.38
     },
     {
       "text": "Be able to read, speak, write, and understand the English language.",
-      "start": 651.22,
-      "end": 656.25
+      "start": 648.38,
+      "end": 653.4
     },
     {
       "text": "### Medical Certification Requirements The new sport pilot category does not require a medical examination; a driver's license can be used as proof of medical competence.",
-      "start": 656.75,
-      "end": 669.5
+      "start": 653.9,
+      "end": 666.65
     },
     {
       "text": "### Student Pilot Solo Requirements Once a student has accrued sufficient training and experience, a CFI can endorse the student's logbook to authorize limited solo flight in a specific type (make and model) of aircraft.",
-      "start": 670.0,
-      "end": 686.5
+      "start": 667.15,
+      "end": 683.65
     },
     {
       "text": "A student pilot may not carry passengers, fly in furtherance of a business, or operate an aircraft outside of the various endorsements provided by the flight instructor.",
-      "start": 686.5,
-      "end": 699.17
+      "start": 683.65,
+      "end": 696.32
     },
     {
       "text": "# --- PHAK Chapter 2: Aeronautical Decision-Making (Sport Pilot Filter) ## Introduction to ADM Aeronautical decision-making (ADM) is decision-making in a unique environment\u2014aviation.",
-      "start": 699.17,
-      "end": 712.82
+      "start": 696.32,
+      "end": 709.97
     },
     {
       "text": "It is a systematic approach to the mental process used by pilots to consistently determine the best course of action in response to a given set of circumstances.",
-      "start": 712.82,
-      "end": 724.9
+      "start": 709.97,
+      "end": 722.05
     },
     {
       "text": "It is what a pilot intends to do based on the latest information he or she has.",
-      "start": 724.9,
-      "end": 730.82
+      "start": 722.05,
+      "end": 727.97
     },
     {
       "text": "It is estimated that approximately 80 percent of all aviation accidents are related to human factors and the vast majority of these accidents occur during landing (24.1 percent) and takeoff (23.4 percent).",
-      "start": 730.82,
-      "end": 746.2
+      "start": 727.97,
+      "end": 743.35
     },
     {
       "text": "ADM is a systematic approach to risk assessment and stress management.",
-      "start": 746.2,
-      "end": 751.45
+      "start": 743.35,
+      "end": 748.6
     },
     {
       "text": "To understand ADM is to also understand how personal attitudes can influence decision-making and how those attitudes can be modified to enhance safety in the flight deck.",
-      "start": 751.45,
-      "end": 764.2
+      "start": 748.6,
+      "end": 761.35
     },
     {
       "text": "## Hazardous Attitudes and Antidotes Being fit to fly depends on more than just a pilot\u2019s physical condition and recent experience.",
-      "start": 764.2,
-      "end": 774.02
+      "start": 761.35,
+      "end": 771.17
     },
     {
       "text": "For example, attitude affects the quality of decisions.",
-      "start": 774.02,
-      "end": 778.15
+      "start": 771.17,
+      "end": 775.3
     },
     {
       "text": "Attitude is a motivational predisposition to respond to people, situations, or events in a given manner.",
-      "start": 778.15,
-      "end": 785.95
+      "start": 775.3,
+      "end": 783.1
     },
     {
       "text": "Studies have identified five hazardous attitudes that can interfere with the ability to make sound decisions and exercise authority properly.",
-      "start": 785.95,
-      "end": 796.52
+      "start": 783.1,
+      "end": 793.67
     },
     {
       "text": "Hazardous attitudes contribute to poor pilot judgment but can be effectively counteracted by redirecting the hazardous attitude so that correct action can be taken.",
-      "start": 796.52,
-      "end": 808.82
+      "start": 793.67,
+      "end": 805.97
     },
     {
       "text": "Recognition of hazardous thoughts is the first step toward neutralizing them.",
-      "start": 808.82,
-      "end": 814.6
+      "start": 805.97,
+      "end": 811.75
     },
     {
       "text": "After recognizing a thought as hazardous, the pilot should label it as hazardous, then state the corresponding antidote.",
-      "start": 814.6,
-      "end": 823.6
+      "start": 811.75,
+      "end": 820.75
     },
     {
       "text": "### 1.",
-      "start": 823.6,
-      "end": 824.05
+      "start": 820.75,
+      "end": 821.2
     },
     {
       "text": "Anti-authority: \"Don't tell me.\" This attitude is found in people who do not like anyone telling them what to do.",
-      "start": 824.05,
-      "end": 832.52
+      "start": 821.2,
+      "end": 829.67
     },
     {
       "text": "In a sense, they are saying, \"No one can tell me what to do.\" They may be resentful of having someone tell them what to do or may regard rules, regulations, and procedures as silly or unnecessary.",
-      "start": 832.52,
-      "end": 847.22
+      "start": 829.67,
+      "end": 844.38
     },
     {
       "text": "However, it is always your prerogative to question authority if you feel it is in error.",
-      "start": 847.22,
-      "end": 853.82
+      "start": 844.38,
+      "end": 850.98
     },
     {
       "text": "Antidote: Follow the rules.",
-      "start": 853.82,
-      "end": 855.85
+      "start": 850.98,
+      "end": 853.0
     },
     {
       "text": "They are usually right.",
-      "start": 855.85,
-      "end": 857.57
+      "start": 853.0,
+      "end": 854.73
     },
     {
       "text": "### 2.",
-      "start": 857.57,
-      "end": 858.02
+      "start": 854.73,
+      "end": 855.18
     },
     {
       "text": "Impulsivity: \"Do it quickly.\" This is the attitude of people who frequently feel the need to do something, anything, immediately.",
-      "start": 858.52,
-      "end": 868.2
+      "start": 855.68,
+      "end": 865.35
     },
     {
       "text": "They do not stop to think about what they are about to do, they do not select the best alternative, and they do the first thing that comes to mind.",
-      "start": 868.2,
-      "end": 879.22
+      "start": 865.35,
+      "end": 876.38
     },
     {
       "text": "Antidote: Not so fast.",
-      "start": 879.22,
-      "end": 880.87
+      "start": 876.38,
+      "end": 878.02
     },
     {
       "text": "Think first.",
-      "start": 880.87,
-      "end": 881.77
+      "start": 878.02,
+      "end": 878.92
     },
     {
       "text": "### 3.",
-      "start": 881.77,
-      "end": 882.22
+      "start": 878.92,
+      "end": 879.38
     },
     {
       "text": "Invulnerability: \"It won't happen to me.\" Many people falsely believe that accidents happen to others, but never to them.",
-      "start": 882.72,
-      "end": 891.8
+      "start": 879.88,
+      "end": 888.95
     },
     {
       "text": "They know accidents can happen, and they know that anyone can be affected.",
-      "start": 891.8,
-      "end": 897.35
+      "start": 888.95,
+      "end": 894.5
     },
     {
       "text": "However, they never really feel or believe that they will be personally involved.",
-      "start": 897.35,
-      "end": 903.42
+      "start": 894.5,
+      "end": 900.58
     },
     {
       "text": "Pilots who think this way are more likely to take chances and increase risk.",
-      "start": 903.42,
-      "end": 909.12
+      "start": 900.58,
+      "end": 906.28
     },
     {
       "text": "Antidote: It could happen to me.",
-      "start": 909.12,
-      "end": 911.52
+      "start": 906.28,
+      "end": 908.68
     },
     {
       "text": "### 4.",
-      "start": 911.52,
-      "end": 911.98
+      "start": 908.68,
+      "end": 909.13
     },
     {
       "text": "Macho: \"I can do it.\" Pilots who are always trying to prove that they are better than anyone else think, \"I can do it\u2014I'll show them.\" Pilots with this type of attitude will try to prove themselves by taking risks in order to impress others.",
-      "start": 912.48,
-      "end": 930.55
+      "start": 909.63,
+      "end": 927.7
     },
     {
       "text": "While this pattern is thought to be a male characteristic, women are equally susceptible.",
-      "start": 930.55,
-      "end": 937.23
+      "start": 927.7,
+      "end": 934.38
     },
     {
       "text": "Antidote: Taking chances is foolish.",
-      "start": 937.23,
-      "end": 939.93
+      "start": 934.38,
+      "end": 937.08
     },
     {
       "text": "### 5.",
-      "start": 939.93,
-      "end": 940.38
+      "start": 937.08,
+      "end": 937.53
     },
     {
       "text": "Resignation: \"What's the use?\" Pilots who think, \"What's the use?\" do not see themselves as being able to make a great deal of difference in what happens to them.",
-      "start": 940.88,
-      "end": 953.03
+      "start": 938.03,
+      "end": 950.18
     },
     {
       "text": "When things go well, the pilot is apt to think that it is good luck.",
-      "start": 953.03,
-      "end": 958.13
+      "start": 950.18,
+      "end": 955.28
     },
     {
       "text": "When things go badly, the pilot may feel that someone is out to get them or attribute it to bad luck.",
-      "start": 958.13,
-      "end": 965.7
+      "start": 955.28,
+      "end": 962.85
     },
     {
       "text": "The pilot will leave the action to others, for better or worse.",
-      "start": 965.7,
-      "end": 970.43
+      "start": 962.85,
+      "end": 967.58
     },
     {
       "text": "Sometimes, such pilots will even go along with unreasonable requests just to be a \"nice guy.\" Antidote: I'm not helpless.",
-      "start": 970.43,
-      "end": 979.5
+      "start": 967.58,
+      "end": 976.65
     },
     {
       "text": "I can make a difference.",
-      "start": 979.5,
-      "end": 981.3
+      "start": 976.65,
+      "end": 978.45
     },
     {
       "text": "## Risk Management The goal of risk management is to proactively identify safety-related hazards and mitigate the associated risks.",
-      "start": 981.3,
-      "end": 991.13
+      "start": 978.45,
+      "end": 988.28
     },
     {
       "text": "### Fundamental Principles of Risk Management Accept no unnecessary risk.",
-      "start": 991.63,
-      "end": 997.1
+      "start": 988.78,
+      "end": 994.25
     },
     {
       "text": "Flying is not possible without risk, but unnecessary risk comes without a corresponding return.",
-      "start": 997.1,
-      "end": 1004.23
+      "start": 994.25,
+      "end": 1001.38
     },
     {
       "text": "Make risk decisions at the appropriate level.",
-      "start": 1004.23,
-      "end": 1007.6
+      "start": 1001.38,
+      "end": 1004.75
     },
     {
       "text": "Risk decisions should be made by the person who can develop and implement risk controls.",
-      "start": 1008.1,
-      "end": 1014.7
+      "start": 1005.25,
+      "end": 1011.85
     },
     {
       "text": "Remember that you are pilot-in-command, so never let anyone else\u2014not ATC and not your passengers\u2014make risk decisions for you.",
-      "start": 1014.7,
-      "end": 1024.08
+      "start": 1011.85,
+      "end": 1021.23
     },
     {
       "text": "Accept risk when benefits outweigh dangers (costs).",
-      "start": 1024.08,
-      "end": 1027.9
+      "start": 1021.23,
+      "end": 1025.05
     },
     {
       "text": "In any flying activity, it is necessary to accept some degree of risk.",
-      "start": 1028.4,
-      "end": 1033.65
+      "start": 1025.55,
+      "end": 1030.8
     },
     {
-      "text": "A day with good weather, for example, is a much better time to fly an unfamiliar airplane for the first time than a day with low I-F-R conditions.",
-      "start": 1033.65,
-      "end": 1044.6
+      "text": "A day with good weather, for example, is a much better time to fly an unfamiliar airplane for the first time than a day with low IFR conditions.",
+      "start": 1030.8,
+      "end": 1041.6
     },
     {
       "text": "Integrate risk management into planning at all levels.",
-      "start": 1044.6,
-      "end": 1048.65
+      "start": 1041.6,
+      "end": 1045.65
     },
     {
       "text": "Because risk is an unavoidable part of every flight, safety requires the use of appropriate and effective risk management not just in the preflight planning stage, but in all stages of the flight.",
-      "start": 1049.15,
-      "end": 1063.85
+      "start": 1046.15,
+      "end": 1060.85
     },
     {
       "text": "## Single-Pilot Resource Management (SRM) Single-Pilot Resource Management (SRM) is defined as the art and science of managing all the resources (both on-board the aircraft and from outside sources) available to a single pilot (prior to and during flight) to ensure the successful outcome of the flight.",
-      "start": 1063.85,
-      "end": 1086.58
+      "start": 1060.85,
+      "end": 1083.58
     },
     {
       "text": "SRM includes the concepts of ADM, risk management (RM), task management (TM), automation management (AM), controlled flight into terrain (CFIT) awareness, and situational awareness (SA).",
-      "start": 1087.08,
-      "end": 1101.03
+      "start": 1084.08,
+      "end": 1098.03
     },
     {
       "text": "## The PAVE Checklist Another way to mitigate risk is to perceive hazards.",
-      "start": 1101.03,
-      "end": 1106.58
+      "start": 1098.03,
+      "end": 1103.58
     },
     {
       "text": "By incorporating the PAVE checklist into preflight planning, the pilot divides the risks of flight into four categories: P ilot-in-command, A ircraft, en V ironment, and E xternal pressures (PAVE).",
-      "start": 1106.58,
-      "end": 1121.35
+      "start": 1103.58,
+      "end": 1118.35
     },
     {
       "text": "### P \\= Pilot in Command (PIC) The pilot is one of the risk factors in a flight.",
-      "start": 1121.35,
-      "end": 1127.43
+      "start": 1118.35,
+      "end": 1124.43
     },
     {
       "text": "The pilot must ask, \"Am I ready for this trip?\" in terms of experience, recency, currency, physical, and emotional condition.",
-      "start": 1127.43,
-      "end": 1136.8
+      "start": 1124.43,
+      "end": 1133.8
     },
     {
-      "text": "The im-safe checklist provides the answers.",
-      "start": 1136.8,
-      "end": 1140.03
+      "text": "The IMSAFE checklist provides the answers.",
+      "start": 1133.8,
+      "end": 1136.95
     },
     {
       "text": "### A \\= Aircraft What limitations will the aircraft impose upon the trip?",
-      "start": 1140.03,
-      "end": 1145.58
+      "start": 1136.95,
+      "end": 1142.5
     },
     {
       "text": "Ask the following questions: Is this the right aircraft for the flight?",
-      "start": 1145.58,
-      "end": 1150.9
+      "start": 1142.5,
+      "end": 1147.83
     },
     {
       "text": "Am I familiar with and current in this aircraft?",
-      "start": 1150.9,
-      "end": 1154.5
+      "start": 1147.83,
+      "end": 1151.43
     },
     {
       "text": "Is this aircraft equipped for the flight?",
-      "start": 1155.0,
-      "end": 1158.08
+      "start": 1151.93,
+      "end": 1155.0
     },
     {
       "text": "Instruments?",
-      "start": 1158.58,
-      "end": 1159.48
+      "start": 1155.5,
+      "end": 1156.4
     },
     {
       "text": "Lights?",
-      "start": 1159.48,
-      "end": 1160.0
+      "start": 1156.4,
+      "end": 1156.93
     },
     {
       "text": "Navigation and communication equipment adequate?",
-      "start": 1160.0,
-      "end": 1163.6
+      "start": 1156.93,
+      "end": 1160.53
     },
     {
       "text": "Can this aircraft use the runways available for the trip with an adequate margin of safety under the conditions to be flown?",
-      "start": 1163.6,
-      "end": 1172.9
+      "start": 1160.53,
+      "end": 1169.83
     },
     {
       "text": "Can this aircraft carry the planned load?",
-      "start": 1173.4,
-      "end": 1176.48
+      "start": 1170.33,
+      "end": 1173.4
     },
     {
       "text": "Does this aircraft have sufficient fuel capacity, with reserves, for trip legs planned?",
-      "start": 1176.98,
-      "end": 1183.5
+      "start": 1173.9,
+      "end": 1180.43
     },
     {
       "text": "### V \\= EnVironment #### Weather Weather is a major environmental consideration.",
-      "start": 1184.0,
-      "end": 1190.08
+      "start": 1180.93,
+      "end": 1187.0
     },
     {
       "text": "As pilots evaluate the weather for a particular flight, they should consider the following: What is the current ceiling and visibility?",
-      "start": 1190.58,
-      "end": 1200.7
+      "start": 1187.5,
+      "end": 1197.63
     },
     {
       "text": "Consider the possibility that the weather may be different than forecast.",
-      "start": 1200.7,
-      "end": 1206.18
+      "start": 1197.63,
+      "end": 1203.1
     },
     {
       "text": "Consider the winds at the airports being used and the strength of the crosswind component.",
-      "start": 1206.18,
-      "end": 1212.93
+      "start": 1203.1,
+      "end": 1209.85
     },
     {
       "text": "Are there any thunderstorms present or forecast?",
-      "start": 1212.93,
-      "end": 1216.53
+      "start": 1209.85,
+      "end": 1213.45
     },
     {
       "text": "#### Terrain Evaluation of terrain is another important component of analyzing the flight environment.",
-      "start": 1216.53,
-      "end": 1224.18
+      "start": 1213.45,
+      "end": 1221.1
     },
     {
-      "text": "To avoid terrain and obstacles, especially at night or in low visibility, determine safe altitudes in advance by using the altitudes shown on V-F-R and I-F-R charts during preflight planning.",
-      "start": 1224.18,
-      "end": 1238.5
+      "text": "To avoid terrain and obstacles, especially at night or in low visibility, determine safe altitudes in advance by using the altitudes shown on VFR and IFR charts during preflight planning.",
+      "start": 1221.1,
+      "end": 1235.13
     },
     {
       "text": "#### Airport What lights are available at the destination and alternate airports?",
-      "start": 1238.5,
-      "end": 1244.58
+      "start": 1235.13,
+      "end": 1241.2
     },
     {
       "text": "Check the Notices to Airmen (NOTAM) for closed runways or airports.",
-      "start": 1244.58,
-      "end": 1249.6
+      "start": 1241.2,
+      "end": 1246.23
     },
     {
       "text": "Are there shorter or obstructed fields at the destination and/or alternate airports?",
-      "start": 1250.1,
-      "end": 1256.4
+      "start": 1246.73,
+      "end": 1253.03
     },
     {
       "text": "#### Airspace Check the airspace and any temporary flight restriction (TFRs) along the route of flight.",
-      "start": 1256.9,
-      "end": 1264.63
+      "start": 1253.53,
+      "end": 1261.25
     },
     {
       "text": "#### Nighttime Night flying requires special consideration.",
-      "start": 1265.13,
-      "end": 1269.55
+      "start": 1261.75,
+      "end": 1266.18
     },
     {
       "text": "Will the flight conditions allow a safe emergency landing at night?",
-      "start": 1270.05,
-      "end": 1275.08
+      "start": 1266.68,
+      "end": 1271.7
     },
     {
       "text": "Perform preflight check of all aircraft lights, interior and exterior, for a night flight.",
-      "start": 1275.58,
-      "end": 1282.33
+      "start": 1272.2,
+      "end": 1278.95
     },
     {
       "text": "Carry at least two flashlights.",
-      "start": 1282.83,
-      "end": 1285.15
+      "start": 1279.45,
+      "end": 1281.78
     },
     {
       "text": "### E \\= External Pressures External pressures are influences external to the flight that create a sense of pressure to complete a flight\u2014often at the expense of safety.",
-      "start": 1285.65,
-      "end": 1298.33
+      "start": 1282.28,
+      "end": 1294.95
     },
     {
       "text": "Factors that can be external pressures include: Someone waiting at the airport for the flight\u2019s arrival.",
-      "start": 1298.83,
-      "end": 1306.63
+      "start": 1295.45,
+      "end": 1303.25
     },
     {
       "text": "A passenger the pilot does not want to disappoint.",
-      "start": 1306.63,
-      "end": 1310.38
+      "start": 1303.25,
+      "end": 1307.0
     },
     {
       "text": "The desire to demonstrate pilot qualifications.",
-      "start": 1310.88,
-      "end": 1314.4
+      "start": 1307.5,
+      "end": 1311.03
     },
     {
       "text": "The desire to impress someone (Probably the two most dangerous words in aviation are \"Watch this!\").",
-      "start": 1314.9,
-      "end": 1322.4
+      "start": 1311.53,
+      "end": 1319.03
     },
     {
       "text": "The desire to satisfy a specific personal goal (\"get-home-itis,\" \"get-there-itis,\" and \"let's-go-itis\").",
-      "start": 1322.9,
-      "end": 1330.7
+      "start": 1319.53,
+      "end": 1327.33
     },
     {
       "text": "Emotional pressure associated with acknowledging that skill and experience levels may be lower than a pilot would like them to be.",
-      "start": 1331.2,
-      "end": 1340.95
+      "start": 1327.83,
+      "end": 1337.58
     },
     {
       "text": "Managing External Pressures: Management of external pressure is the single most important key to risk management because it is the one risk factor category that can cause a pilot to ignore all the other risk factors.",
-      "start": 1341.45,
-      "end": 1357.65
+      "start": 1338.08,
+      "end": 1354.28
     },
     {
       "text": "The use of personal standard operating procedures (SOPs) is one way to manage external pressures.",
-      "start": 1358.15,
-      "end": 1365.43
+      "start": 1354.78,
+      "end": 1362.05
     },
     {
       "text": "The goal is to supply a release for the external pressures of a flight.",
-      "start": 1365.43,
-      "end": 1370.75
+      "start": 1362.05,
+      "end": 1367.38
     },
     {
-      "text": "## The im-safe Checklist One of the best ways single pilots can mitigate risk is to use the im-safe checklist to determine physical and mental readiness for flying: Illness - Am I sick?",
-      "start": 1370.75,
-      "end": 1384.63
+      "text": "## The IMSAFE Checklist One of the best ways single pilots can mitigate risk is to use the IMSAFE checklist to determine physical and mental readiness for flying: Illness - Am I sick?",
+      "start": 1367.38,
+      "end": 1381.1
     },
     {
       "text": "Illness is an obvious pilot risk.",
-      "start": 1384.63,
-      "end": 1387.1
+      "start": 1381.1,
+      "end": 1383.58
     },
     {
       "text": "Medication - Am I taking any medicines that might affect my judgment or make me drowsy?",
-      "start": 1387.1,
-      "end": 1393.63
+      "start": 1383.58,
+      "end": 1390.1
     },
     {
       "text": "Stress - Am I under psychological pressure from the job?",
-      "start": 1394.13,
-      "end": 1398.33
+      "start": 1390.6,
+      "end": 1394.8
     },
     {
       "text": "Do I have money, health, or family problems?",
-      "start": 1398.83,
-      "end": 1402.13
+      "start": 1395.3,
+      "end": 1398.6
     },
     {
       "text": "Stress causes concentration and performance problems.",
-      "start": 1402.13,
-      "end": 1406.1
+      "start": 1398.6,
+      "end": 1402.58
     },
     {
       "text": "Alcohol - Have I been drinking within 8 hours?",
-      "start": 1406.1,
-      "end": 1409.55
+      "start": 1402.58,
+      "end": 1406.03
     },
     {
       "text": "Within 24 hours?",
-      "start": 1410.05,
-      "end": 1411.25
+      "start": 1406.53,
+      "end": 1407.73
     },
     {
       "text": "As little as one ounce of liquor, one bottle of beer, or four ounces of wine can impair flying skills.",
-      "start": 1411.25,
-      "end": 1418.9
+      "start": 1407.73,
+      "end": 1415.38
     },
     {
       "text": "Alcohol also renders a pilot more susceptible to disorientation and hypoxia.",
-      "start": 1418.9,
-      "end": 1424.6
+      "start": 1415.38,
+      "end": 1421.08
     },
     {
       "text": "Fatigue - Am I tired and not adequately rested?",
-      "start": 1424.6,
-      "end": 1428.13
+      "start": 1421.08,
+      "end": 1424.6
     },
     {
       "text": "Fatigue continues to be one of the most insidious hazards to flight safety, as it may not be apparent to a pilot until serious errors are made.",
-      "start": 1428.63,
-      "end": 1439.35
+      "start": 1425.1,
+      "end": 1435.83
     },
     {
       "text": "Emotion - Am I emotionally upset?",
-      "start": 1439.35,
-      "end": 1441.83
+      "start": 1435.83,
+      "end": 1438.3
     },
     {
       "text": "## The 5 Ps Check The 5 Ps consist of \"the Plan, the Plane, the Pilot, the Passengers, and the Programming.\" The 5 Ps are used to evaluate the pilot\u2019s current situation at key decision points during the flight or when an emergency arises.",
-      "start": 1442.33,
-      "end": 1460.18
+      "start": 1438.8,
+      "end": 1456.65
     },
     {
-      "text": "These decision points include preflight, pretakeoff, hourly or at the midpoint of the flight, pre-descent, and just prior to the final approach fix or for V-F-R operations, just prior to entering the traffic pattern.",
-      "start": 1460.68,
-      "end": 1476.88
+      "text": "These decision points include preflight, pretakeoff, hourly or at the midpoint of the flight, pre-descent, and just prior to the final approach fix or for VFR operations, just prior to entering the traffic pattern.",
+      "start": 1457.15,
+      "end": 1473.2
     },
     {
       "text": "## The DECIDE Model The DECIDE model provides the pilot with a logical way of making decisions.",
-      "start": 1476.88,
-      "end": 1484.0
+      "start": 1473.2,
+      "end": 1480.33
     },
     {
       "text": "Detect (the Problem): The decision maker detects the fact that change has occurred.",
-      "start": 1484.0,
-      "end": 1490.23
+      "start": 1480.33,
+      "end": 1486.55
     },
     {
       "text": "Estimate (the Need To React): The decision maker estimates the need to counter or react to the change.",
-      "start": 1490.23,
-      "end": 1497.88
+      "start": 1486.55,
+      "end": 1494.2
     },
     {
       "text": "Choose (a Course of Action): The decision maker chooses a desirable outcome (in terms of success) for the flight.",
-      "start": 1498.38,
-      "end": 1506.85
+      "start": 1494.7,
+      "end": 1503.18
     },
     {
       "text": "Identify (Solutions): The decision maker identifies actions which could successfully control the change.",
-      "start": 1507.35,
-      "end": 1515.15
+      "start": 1503.68,
+      "end": 1511.48
     },
     {
       "text": "Do (the Necessary Actions): The decision maker takes the necessary action.",
-      "start": 1515.65,
-      "end": 1521.2
+      "start": 1511.98,
+      "end": 1517.53
     },
     {
       "text": "Evaluate (the Effect of the Action): The decision maker evaluates the effect(s) of his/her action countering the change.",
-      "start": 1521.7,
-      "end": 1530.7
+      "start": 1518.03,
+      "end": 1527.03
     },
     {
       "text": "## Operational Pitfalls These are classic behavioral traps into which pilots have been known to fall.",
-      "start": 1531.2,
-      "end": 1538.78
+      "start": 1527.53,
+      "end": 1535.1
     },
     {
       "text": "Peer Pressure: Poor decision-making based upon an emotional response to peers rather than evaluating a situation objectively.",
-      "start": 1539.28,
-      "end": 1548.65
+      "start": 1535.6,
+      "end": 1544.98
     },
     {
       "text": "Mindset: The inability to recognize and cope with changes in the situation different from those anticipated or planned.",
-      "start": 1548.65,
-      "end": 1557.58
+      "start": 1544.98,
+      "end": 1553.9
     },
     {
       "text": "Get-There-Itis: This disposition impairs pilot judgment through a fixation on the original goal or destination combined with a disregard for any alternative course of action.",
-      "start": 1558.08,
-      "end": 1571.13
+      "start": 1554.4,
+      "end": 1567.45
     },
     {
       "text": "Duck-Under Syndrome: The tendency to sneak a peek by descending below minimums during an approach.",
-      "start": 1571.63,
-      "end": 1578.98
+      "start": 1567.95,
+      "end": 1575.3
     },
     {
       "text": "Scud Running: Pushing the capabilities of the pilot and the aircraft to the limits by trying to maintain visual contact with the terrain while trying to avoid physical contact with it.",
-      "start": 1579.48,
-      "end": 1593.28
+      "start": 1575.8,
+      "end": 1589.6
     },
     {
-      "text": "Continuing V-F-R into Instrument Conditions: Spatial disorientation or collision with ground/obstacles may occur when a pilot continues V-F-R into instrument conditions.",
-      "start": 1593.78,
-      "end": 1606.45
+      "text": "Continuing VFR into Instrument Conditions: Spatial disorientation or collision with ground/obstacles may occur when a pilot continues VFR into instrument conditions.",
+      "start": 1590.1,
+      "end": 1602.48
     },
     {
       "text": "Getting Behind the Aircraft: Allowing events or the situation to control your actions rather than the other way around.",
-      "start": 1606.95,
-      "end": 1615.88
+      "start": 1602.98,
+      "end": 1611.9
     },
     {
       "text": "Loss of Positional or Situational Awareness: Another case of getting behind the aircraft which results in not knowing where you are, an inability to recognize deteriorating circumstances, and/or the misinterpretation of implied incipience.",
-      "start": 1616.38,
-      "end": 1634.3
+      "start": 1612.4,
+      "end": 1630.33
     },
     {
       "text": "Operating Without Adequate Fuel Reserves: Ignoring minimum fuel reserve requirements, generally as a result of overconfidence, lack of flight planning, or ignoring the regulations.",
-      "start": 1634.8,
-      "end": 1648.3
+      "start": 1630.83,
+      "end": 1644.33
     },
     {
       "text": "Flying Outside the Envelope: Unjustified reliance on the (usually mistaken) belief that the aircraft\u2019s high performance capability meets the demands imposed by the pilot\u2019s (usually overestimated) flying skills.",
-      "start": 1648.8,
-      "end": 1664.55
+      "start": 1644.83,
+      "end": 1660.58
     },
     {
       "text": "Neglect of Flight Planning, Preflight Inspections, and Checklists: Reliance on short- and long-term memory, regular flying skills, and familiar routes instead of established procedures and published checklists.",
-      "start": 1665.05,
-      "end": 1680.8
+      "start": 1661.08,
+      "end": 1676.83
     },
     {
       "text": "# --- PHAK Chapter 3: Aircraft Construction (Sport Pilot Filter) ## Introduction An aircraft is a device that is used, or intended to be used, for flight according to the current Title 14 of the Code of Federal Regulations (14 CFR) part 1.",
-      "start": 1681.3,
-      "end": 1699.23
+      "start": 1677.33,
+      "end": 1695.25
     },
     {
       "text": "Categories of aircraft for certification of airmen include airplane, rotorcraft, glider, lighter-than-air, powered-lift, powered parachute, and weight-shift control aircraft.",
-      "start": 1699.73,
-      "end": 1712.78
+      "start": 1695.75,
+      "end": 1708.8
     },
     {
       "text": "Light Sport Aircraft (LSA) , such as weight-shift control aircraft, balloon, glider, powered parachute, and gyroplane, have their own handbooks to include detailed information regarding aerodynamics and control.",
-      "start": 1712.78,
-      "end": 1728.6
+      "start": 1708.8,
+      "end": 1724.63
     },
     {
-      "text": "### A Note About Light Sport Aircraft Light sport aircraft are not designed according to F-A-A airworthiness standards.",
-      "start": 1728.6,
-      "end": 1737.53
+      "text": "### A Note About Light Sport Aircraft Light sport aircraft are not designed according to FAA airworthiness standards.",
+      "start": 1724.63,
+      "end": 1733.4
     },
     {
       "text": "Instead, they are designed to a consensus of standards agreed upon in the aviation industry.",
-      "start": 1737.53,
-      "end": 1744.43
+      "start": 1733.4,
+      "end": 1740.3
     },
     {
-      "text": "The F-A-A has agreed the consensus of standards is acceptable as the design criteria for these aircraft.",
-      "start": 1744.43,
-      "end": 1752.23
+      "text": "The FAA has agreed the consensus of standards is acceptable as the design criteria for these aircraft.",
+      "start": 1740.3,
+      "end": 1747.95
     },
     {
       "text": "Light sport aircraft do not necessarily have individually type certificated engines and propellers.",
-      "start": 1752.23,
-      "end": 1759.65
+      "start": 1747.95,
+      "end": 1755.38
     },
     {
       "text": "Instead, a TC is issued to the aircraft as a whole.",
-      "start": 1759.65,
-      "end": 1763.48
+      "start": 1755.38,
+      "end": 1759.2
     },
     {
       "text": "It includes the airframe, engine, and propeller.",
-      "start": 1763.48,
-      "end": 1767.08
+      "start": 1759.2,
+      "end": 1762.8
     },
     {
       "text": "## Lift and Basic Aerodynamics In order to understand the operation of the major components and subcomponents of an aircraft, it is important to understand basic aerodynamic concepts.",
-      "start": 1767.08,
-      "end": 1780.8
+      "start": 1762.8,
+      "end": 1776.53
     },
     {
       "text": "Four forces act upon an aircraft in relation to straight-and-level, unaccelerated flight.",
-      "start": 1780.8,
-      "end": 1787.47
+      "start": 1776.53,
+      "end": 1783.2
     },
     {
       "text": "These forces are thrust, lift, weight, and drag.",
-      "start": 1787.47,
-      "end": 1791.07
+      "start": 1783.2,
+      "end": 1786.8
     },
     {
       "text": "[See Figure 3-1: The four forces] Thrust is the forward force produced by the powerplant/propeller.",
-      "start": 1791.07,
-      "end": 1798.5
+      "start": 1786.8,
+      "end": 1794.23
     },
     {
       "text": "It opposes or overcomes the force of drag.",
-      "start": 1798.5,
-      "end": 1801.65
+      "start": 1794.23,
+      "end": 1797.38
     },
     {
       "text": "Drag is a rearward, retarding force and is caused by disruption of airflow by the wing, fuselage, and other protruding objects.",
-      "start": 1801.65,
-      "end": 1811.17
+      "start": 1797.38,
+      "end": 1806.9
     },
     {
       "text": "Drag opposes thrust and acts rearward parallel to the relative wind.",
-      "start": 1811.67,
-      "end": 1816.77
+      "start": 1807.4,
+      "end": 1812.5
     },
     {
       "text": "Weight is the combined load of the aircraft itself, the crew, the fuel, and the cargo or baggage.",
-      "start": 1816.77,
-      "end": 1824.05
+      "start": 1812.5,
+      "end": 1819.78
     },
     {
       "text": "Weight pulls the aircraft downward because of the force of gravity.",
-      "start": 1824.55,
-      "end": 1829.58
+      "start": 1820.28,
+      "end": 1825.3
     },
     {
       "text": "It opposes lift and acts vertically downward through the aircraft's center of gravity (CG).",
-      "start": 1829.58,
-      "end": 1836.4
+      "start": 1825.3,
+      "end": 1832.13
     },
     {
       "text": "Lift opposes the downward force of weight, is produced by the dynamic effect of the air acting on the wing, and acts perpendicular to the flight path through the wing's center of lift (CL).",
-      "start": 1836.4,
-      "end": 1850.58
+      "start": 1832.13,
+      "end": 1846.3
     },
     {
       "text": "### Axes of Flight An aircraft moves in three dimensions and is controlled by moving it about one or more of its axes.",
-      "start": 1851.08,
-      "end": 1859.92
+      "start": 1846.8,
+      "end": 1855.65
     },
     {
       "text": "Longitudinal (Roll) Axis: Extends through the aircraft from nose to tail, with the line passing through the CG.",
-      "start": 1860.42,
-      "end": 1868.75
+      "start": 1856.15,
+      "end": 1864.48
     },
     {
       "text": "Lateral (Pitch) Axis: Extends across the aircraft on a line through the wing tips, again passing through the CG.",
-      "start": 1868.75,
-      "end": 1877.15
+      "start": 1864.48,
+      "end": 1872.88
     },
     {
       "text": "Vertical (Yaw) Axis: Passes through the aircraft vertically, intersecting the CG.",
-      "start": 1877.65,
-      "end": 1883.73
+      "start": 1873.38,
+      "end": 1879.45
     },
     {
       "text": "[See Figure 3-2: Pitch, roll, and yaw motion] ### Center of Gravity (CG) One of the most significant components of aircraft design is CG.",
-      "start": 1884.23,
-      "end": 1894.5
+      "start": 1879.95,
+      "end": 1890.23
     },
     {
       "text": "It is the specific point where the mass or weight of an aircraft may be said to center; that is, a point around which, if the aircraft could be suspended or balanced, the aircraft would remain relatively level.",
-      "start": 1895.0,
-      "end": 1910.75
+      "start": 1890.73,
+      "end": 1906.48
     },
     {
       "text": "The position of the CG of an aircraft determines the stability of the aircraft in flight.",
-      "start": 1910.75,
-      "end": 1917.43
+      "start": 1906.48,
+      "end": 1913.15
     },
     {
       "text": "As the CG moves rearward (towards the tail), the aircraft becomes more and more dynamically unstable.",
-      "start": 1917.43,
-      "end": 1925.0
+      "start": 1913.15,
+      "end": 1920.73
     },
     {
       "text": "[See Figure 3-3: Center of gravity (CG) - Note the effects of CG too far forward vs.",
-      "start": 1925.0,
-      "end": 1931.3
+      "start": 1920.73,
+      "end": 1927.03
     },
     {
       "text": "aft] ## Major Components Most airplane structures include a fuselage, wings, an empennage, landing gear, and a powerplant.",
-      "start": 1931.3,
-      "end": 1940.45
+      "start": 1927.03,
+      "end": 1936.18
     },
     {
-      "text": "[See Figure 3-4: Airplane components] ### Fuselage The fyu-suh-laaj is the central body of an airplane and is designed to accommodate the crew, passengers, and cargo.",
-      "start": 1940.45,
-      "end": 1952.9
+      "text": "[See Figure 3-4: Airplane components] ### Fuselage The fuselage is the central body of an airplane and is designed to accommodate the crew, passengers, and cargo.",
+      "start": 1936.18,
+      "end": 1948.33
     },
     {
       "text": "It also provides the structural connection for the wings and tail assembly.",
-      "start": 1952.9,
-      "end": 1958.53
+      "start": 1948.33,
+      "end": 1953.95
     },
     {
       "text": "Truss Structure: In this construction method, lengths of tubing, called longerons, are welded in place to form a well-braced framework.",
-      "start": 1958.53,
-      "end": 1968.65
+      "start": 1953.95,
+      "end": 1964.08
     },
     {
       "text": "Vertical and horizontal struts are welded to the longerons and give the structure a square or rectangular shape.",
-      "start": 1968.65,
-      "end": 1977.05
+      "start": 1964.08,
+      "end": 1972.48
     },
     {
       "text": "Monocoque: Monocoque construction uses stressed skin to support almost all loads much like an aluminum beverage can.",
-      "start": 1977.05,
-      "end": 1985.75
+      "start": 1972.48,
+      "end": 1981.18
     },
     {
       "text": "Although very strong, monocoque construction is not highly tolerant to deformation of the surface.",
-      "start": 1985.75,
-      "end": 1993.1
+      "start": 1981.18,
+      "end": 1988.53
     },
     {
       "text": "Semimonocoque: Semimonocoque construction uses a substructure to which the airplane\u2019s skin is attached.",
-      "start": 1993.1,
-      "end": 2000.83
+      "start": 1988.53,
+      "end": 1996.25
     },
     {
-      "text": "The substructure, which consists of bulkheads and/or formers of various sizes and stringers, reinforces the stressed skin by taking some of the bending stress from the fyu-suh-laaj.",
-      "start": 2000.83,
-      "end": 2014.4
+      "text": "The substructure, which consists of bulkheads and/or formers of various sizes and stringers, reinforces the stressed skin by taking some of the bending stress from the fuselage.",
+      "start": 1996.25,
+      "end": 2009.53
     },
     {
-      "text": "[See Figure 3-14: Semimonocoque and monocoque fyu-suh-laaj design] ### Wings The wings are airfoils attached to each side of the fyu-suh-laaj and are the main lifting surfaces that support the airplane in flight.",
-      "start": 2014.4,
-      "end": 2030.3
+      "text": "[See Figure 3-14: Semimonocoque and monocoque fuselage design] ### Wings The wings are airfoils attached to each side of the fuselage and are the main lifting surfaces that support the airplane in flight.",
+      "start": 2009.53,
+      "end": 2024.83
     },
     {
       "text": "Monoplanes vs.",
-      "start": 2030.3,
-      "end": 2031.35
+      "start": 2024.83,
+      "end": 2025.88
     },
     {
       "text": "Biplanes: Airplanes with a single set of wings are referred to as monoplanes, while those with two sets are called biplanes.",
-      "start": 2031.35,
-      "end": 2040.65
+      "start": 2025.88,
+      "end": 2035.18
     },
     {
-      "text": "Bracing: Many high-wing airplanes have external braces, or wing struts, that transmit the flight and landing loads through the struts to the main fyu-suh-laaj structure (semi-cantilever).",
-      "start": 2040.65,
-      "end": 2054.68
+      "text": "Bracing: Many high-wing airplanes have external braces, or wing struts, that transmit the flight and landing loads through the struts to the main fuselage structure (semi-cantilever).",
+      "start": 2035.18,
+      "end": 2048.9
     },
     {
       "text": "Full cantilever wings are designed to carry loads without external struts.",
-      "start": 2055.18,
-      "end": 2060.73
+      "start": 2049.4,
+      "end": 2054.95
     },
     {
       "text": "Control Surfaces: Attached to the rear, or trailing edges, of the wings are two types of control surfaces referred to as ailerons and flaps.",
-      "start": 2060.73,
-      "end": 2071.23
+      "start": 2054.95,
+      "end": 2065.45
     },
     {
       "text": "Ailerons extend from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the airplane to roll.",
-      "start": 2071.73,
-      "end": 2084.48
+      "start": 2065.95,
+      "end": 2078.7
     },
     {
-      "text": "Flaps extend outward from the fyu-suh-laaj to near the midpoint of each wing.",
-      "start": 2084.48,
-      "end": 2090.25
+      "text": "Flaps extend outward from the fuselage to near the midpoint of each wing.",
+      "start": 2078.7,
+      "end": 2084.18
     },
     {
       "text": "When extended, the flaps move simultaneously downward to increase the lifting force of the wing for takeoffs and landings.",
-      "start": 2090.75,
-      "end": 2099.9
+      "start": 2084.68,
+      "end": 2093.83
     },
     {
-      "text": "[See Figure 3-8: Types of flaps] ### Empennage The em-puh-naaj includes the entire tail group and consists of fixed surfaces, such as the vertical stabilizer and the horizontal stabilizer.",
-      "start": 2099.9,
-      "end": 2114.0
+      "text": "[See Figure 3-8: Types of flaps] ### Empennage The empennage includes the entire tail group and consists of fixed surfaces, such as the vertical stabilizer and the horizontal stabilizer.",
+      "start": 2093.83,
+      "end": 2107.78
     },
     {
       "text": "The movable surfaces include the rudder, the elevator, and one or more trim tabs.",
-      "start": 2114.5,
-      "end": 2120.58
+      "start": 2108.28,
+      "end": 2114.35
     },
     {
       "text": "Rudder: Attached to the back of the vertical stabilizer.",
-      "start": 2120.58,
-      "end": 2124.78
+      "start": 2114.35,
+      "end": 2118.55
     },
     {
       "text": "Used to move the airplane's nose left and right (Yaw).",
-      "start": 2124.78,
-      "end": 2128.83
+      "start": 2118.55,
+      "end": 2122.6
     },
     {
       "text": "Elevator: Attached to the back of the horizontal stabilizer.",
-      "start": 2128.83,
-      "end": 2133.33
+      "start": 2122.6,
+      "end": 2127.1
     },
     {
       "text": "Used to move the nose of the airplane up and down (Pitch).",
-      "start": 2133.83,
-      "end": 2138.18
+      "start": 2127.6,
+      "end": 2131.95
     },
     {
       "text": "Stabilator: A one-piece horizontal stabilizer that pivots from a central hinge point.",
-      "start": 2138.18,
-      "end": 2144.55
+      "start": 2131.95,
+      "end": 2138.33
     },
     {
-      "text": "It incorporates an antiservo tab which moves in the same direction as the trailing edge of the stay-bill-ay-ter.",
-      "start": 2145.05,
-      "end": 2153.45
+      "text": "It incorporates an antiservo tab which moves in the same direction as the trailing edge of the stabilator.",
+      "start": 2138.83,
+      "end": 2146.78
     },
     {
-      "text": "This helps make the stay-bill-ay-ter less sensitive and also functions as a trim tab.",
-      "start": 2153.45,
-      "end": 2159.83
+      "text": "This helps make the stabilator less sensitive and also functions as a trim tab.",
+      "start": 2146.78,
+      "end": 2152.7
     },
     {
       "text": "[See Figure 3-11: Stabilator components] ### Landing Gear The landing gear is the principal support of the airplane when parked, taxiing, taking off, or landing.",
-      "start": 2159.83,
-      "end": 2171.9
+      "start": 2152.7,
+      "end": 2164.78
     },
     {
       "text": "Conventional Landing Gear (Tailwheel): Landing gear with a rear mounted wheel.",
-      "start": 2172.4,
-      "end": 2178.25
+      "start": 2165.28,
+      "end": 2171.12
     },
     {
       "text": "Tricycle Gear: When the third wheel is located on the nose, it is called a nosewheel.",
-      "start": 2178.25,
-      "end": 2184.62
+      "start": 2171.12,
+      "end": 2177.5
     },
     {
       "text": "A steerable nosewheel or tailwheel permits the airplane to be controlled throughout all operations while on the ground.",
-      "start": 2185.12,
-      "end": 2194.05
+      "start": 2178.0,
+      "end": 2186.93
     },
     {
       "text": "[See Figure 3-12: Types of landing gear] ### The Powerplant The powerplant usually includes both the engine and the propeller.",
-      "start": 2194.05,
-      "end": 2203.5
+      "start": 2186.93,
+      "end": 2196.38
     },
     {
       "text": "The primary function of the engine is to provide the power to turn the propeller.",
-      "start": 2204.0,
-      "end": 2210.07
+      "start": 2196.88,
+      "end": 2202.95
     },
     {
       "text": "It also generates electrical power, provides a vacuum source for some flight instruments, and in most single-engine airplanes, provides a source of heat for the pilot and passengers.",
-      "start": 2210.07,
-      "end": 2223.72
+      "start": 2202.95,
+      "end": 2216.6
     },
     {
       "text": "Propeller: A rotating airfoil that produces thrust through aerodynamic action.",
-      "start": 2223.72,
-      "end": 2229.57
+      "start": 2216.6,
+      "end": 2222.45
     },
     {
       "text": "A high-pressure area is formed at the back of the propeller's airfoil, and low pressure is produced at the face of the propeller.",
-      "start": 2229.57,
-      "end": 2239.25
+      "start": 2222.45,
+      "end": 2232.12
     },
     {
       "text": "[See Figure 3-13: Engine compartment] ## Composite Construction (Practical Considerations) Note: Many Light Sport Aircraft use composite construction.",
-      "start": 2239.25,
-      "end": 2250.5
+      "start": 2232.12,
+      "end": 2243.38
     },
     {
       "text": "Disadvantages of Composites: Lack of visual proof of damage: Composites respond differently from other structural materials to impact, and there is often no obvious sign of damage.",
-      "start": 2250.5,
-      "end": 2264.0
+      "start": 2243.38,
+      "end": 2256.88
     },
     {
       "text": "In a composite structure, a low energy impact, such as a bump or a tool drop, may not leave any visible sign of the impact on the surface, but underneath there may be extensive delaminations.",
-      "start": 2264.0,
-      "end": 2278.32
+      "start": 2256.88,
+      "end": 2271.2
     },
     {
       "text": "Heat Damage: The potential for heat damage to the resin is another disadvantage.",
-      "start": 2278.32,
-      "end": 2284.32
+      "start": 2271.2,
+      "end": 2277.2
     },
     {
       "text": "White paint on composites is often used to minimize this issue.",
-      "start": 2284.82,
-      "end": 2289.55
+      "start": 2277.7,
+      "end": 2282.42
     },
     {
       "text": "Chemical paint strippers are very harmful to composites and must not be used on them.",
-      "start": 2289.55,
-      "end": 2295.92
+      "start": 2282.42,
+      "end": 2288.8
     },
     {
       "text": "[See Figure 3-16: Impact energy effects on composites] ## Instrumentation (Glass Cockpit Awareness) With the release of the electronic flight display (EFD) system, conventional instruments have been replaced by multiple liquid crystal display (LCD) screens.",
-      "start": 2295.92,
-      "end": 2315.2
+      "start": 2288.8,
+      "end": 2308.07
     },
     {
       "text": "Primary Flight Display (PFD): Installed in front of the pilot, replacing the traditional six-pack.",
-      "start": 2315.7,
-      "end": 2323.05
+      "start": 2308.57,
+      "end": 2315.92
     },
     {
       "text": "Multi-Function Display (MFD): Positioned in the center, providing navigation, engine monitoring, and moving maps.",
-      "start": 2323.05,
-      "end": 2331.52
+      "start": 2315.92,
+      "end": 2324.4
     },
     {
       "text": "[See Figure 3-18: Analog vs.",
-      "start": 2332.02,
-      "end": 2334.12
+      "start": 2324.9,
+      "end": 2327.0
     },
     {
       "text": "Digital displays] # --- PHAK Chapter 4: Principles of Flight (Sport Pilot Filter) ## Structure of the Atmosphere The atmosphere is an envelope of air that surrounds the Earth and rests upon its surface.",
-      "start": 2334.62,
-      "end": 2349.77
+      "start": 2327.5,
+      "end": 2342.65
     },
     {
       "text": "It is composed of 78 percent nitrogen, 21 percent oxygen, and 1 percent other gases.",
-      "start": 2349.77,
-      "end": 2356.07
+      "start": 2342.65,
+      "end": 2348.95
     },
     {
       "text": "### Atmospheric Pressure Pilots are mainly concerned with atmospheric pressure.",
-      "start": 2356.07,
-      "end": 2362.0
+      "start": 2348.95,
+      "end": 2354.88
     },
     {
       "text": "It is one of the basic factors in weather changes, helps to lift an aircraft, and actuates important flight instruments (altimeter, airspeed indicator, vertical speed indicator, and manifold pressure gauge).",
-      "start": 2362.0,
-      "end": 2377.53
+      "start": 2354.88,
+      "end": 2370.4
     },
     {
       "text": "Standard Atmosphere: Due to changing atmospheric pressure, a standard reference was developed.",
-      "start": 2377.53,
-      "end": 2384.58
+      "start": 2370.4,
+      "end": 2377.45
     },
     {
       "text": "Standard Sea Level Pressure: 29.92 inches of mercury (\"Hg) or 1,013.2 millibars (mb).",
-      "start": 2384.58,
-      "end": 2390.95
+      "start": 2377.45,
+      "end": 2383.83
     },
     {
       "text": "Standard Sea Level Temperature: 59\u00b0F 15\u00b0C.",
-      "start": 2390.95,
-      "end": 2394.1
+      "start": 2383.83,
+      "end": 2386.98
     },
     {
       "text": "Standard Temperature Lapse Rate: Temperature decreases approximately 3.5\u00b0F 2\u00b0C per 1,000 feet up to 36,000 feet.",
-      "start": 2394.6,
-      "end": 2403.0
+      "start": 2387.48,
+      "end": 2395.88
     },
     {
       "text": "Standard Pressure Lapse Rate: Pressure decreases approximately 1 \"Hg per 1,000 feet of altitude gain to 10,000 feet.",
-      "start": 2403.5,
-      "end": 2412.2
+      "start": 2396.38,
+      "end": 2405.08
     },
     {
       "text": "[See Figure 4-2: Standard sea level pressure] ### Pressure Altitude Pressure altitude is the height above a standard datum plane (SDP), which is a theoretical level where the weight of the atmosphere is 29.92 \"Hg.",
-      "start": 2412.7,
-      "end": 2428.68
+      "start": 2405.58,
+      "end": 2421.55
     },
     {
       "text": "If you set the altimeter to 29.92 , the altitude indicated is the pressure altitude .",
-      "start": 2429.18,
-      "end": 2435.55
+      "start": 2422.05,
+      "end": 2428.43
     },
     {
       "text": "Pressure altitude is important for determining airplane performance and for assigning flight levels (above 18,000 feet).",
-      "start": 2435.55,
-      "end": 2444.55
+      "start": 2428.43,
+      "end": 2437.43
     },
     {
       "text": "### Density Altitude Density altitude is the vertical distance above sea level in the standard atmosphere at which a given density is to be found.",
-      "start": 2445.05,
-      "end": 2456.0
+      "start": 2437.93,
+      "end": 2448.88
     },
     {
       "text": "It is essentially pressure altitude corrected for nonstandard temperature .",
-      "start": 2456.5,
-      "end": 2462.12
+      "start": 2449.38,
+      "end": 2455.0
     },
     {
       "text": "High Density Altitude (Thin Air) results in decreased performance.",
-      "start": 2462.12,
-      "end": 2467.07
+      "start": 2455.0,
+      "end": 2459.95
     },
     {
       "text": "Reduces power (engine takes in less air).",
-      "start": 2467.07,
-      "end": 2470.15
+      "start": 2459.95,
+      "end": 2463.02
     },
     {
       "text": "Reduces thrust (propeller is less efficient).",
-      "start": 2470.65,
-      "end": 2474.02
+      "start": 2463.52,
+      "end": 2466.9
     },
     {
       "text": "Reduces lift (thin air exerts less force on airfoils).",
-      "start": 2474.52,
-      "end": 2478.57
+      "start": 2467.4,
+      "end": 2471.45
     },
     {
       "text": "Conditions for High Density Altitude: High elevations, low atmospheric pressure, high temperatures, high humidity.",
-      "start": 2479.07,
-      "end": 2487.62
+      "start": 2471.95,
+      "end": 2480.5
     },
     {
       "text": "#### Effects of Moisture (Humidity): Moist air is lighter (less dense) than dry air.",
-      "start": 2488.12,
-      "end": 2494.43
+      "start": 2481.0,
+      "end": 2487.3
     },
     {
       "text": "As water content increases, the air becomes less dense, increasing density altitude and decreasing performance .",
-      "start": 2494.93,
-      "end": 2503.33
+      "start": 2487.8,
+      "end": 2496.2
     },
     {
       "text": "## Theories in the Production of Lift Lift is generated based on Newton's basic laws of motion and Bernoulli's principle of differential pressure.",
-      "start": 2503.83,
-      "end": 2514.78
+      "start": 2496.7,
+      "end": 2507.65
     },
     {
       "text": "### Newton's Basic Laws of Motion First Law: An object at rest remains at rest unless a force is applied.",
-      "start": 2515.28,
-      "end": 2523.15
+      "start": 2508.15,
+      "end": 2516.03
     },
     {
       "text": "Third Law (Action/Reaction): For every action, there is an equal and opposite reaction.",
-      "start": 2523.15,
-      "end": 2529.68
+      "start": 2516.03,
+      "end": 2522.55
     },
     {
       "text": "As the wing pushes air downward (downwash), the air pushes the wing upward.",
-      "start": 2530.18,
-      "end": 2535.8
+      "start": 2523.05,
+      "end": 2528.68
     },
     {
       "text": "### Bernoulli's Principle of Differential Pressure Bernoulli's Principle states that as the velocity of a moving fluid (like air) increases, the pressure within the fluid decreases.",
-      "start": 2535.8,
-      "end": 2549.38
+      "start": 2528.68,
+      "end": 2542.25
     },
     {
       "text": "Application: As air flows over the curved top surface of a wing, it speeds up.",
-      "start": 2549.88,
-      "end": 2555.72
+      "start": 2542.75,
+      "end": 2548.6
     },
     {
       "text": "This increased velocity creates a low-pressure area above the wing.",
-      "start": 2555.72,
-      "end": 2560.75
+      "start": 2548.6,
+      "end": 2553.62
     },
     {
       "text": "The pressure difference between the low pressure above and higher pressure below creates lift.",
-      "start": 2560.75,
-      "end": 2567.8
+      "start": 2553.62,
+      "end": 2560.68
     },
     {
       "text": "[See Figure 4-4: Air pressure decreases in a venturi tube] ## Airfoil Design An airfoil is a structure designed to obtain reaction upon its surface from the air through which it moves (e.g., a wing).",
-      "start": 2568.3,
-      "end": 2583.23
+      "start": 2561.18,
+      "end": 2576.1
     },
     {
       "text": "#### Key Terms: Leading Edge: The rounded front end of the airfoil.",
-      "start": 2583.73,
-      "end": 2588.75
+      "start": 2576.6,
+      "end": 2581.63
     },
     {
       "text": "Trailing Edge: The narrow, tapered back end.",
-      "start": 2588.75,
-      "end": 2592.05
+      "start": 2581.63,
+      "end": 2584.93
     },
     {
       "text": "Chord Line: A straight line connecting the leading and trailing edges.",
-      "start": 2592.55,
-      "end": 2597.8
+      "start": 2585.43,
+      "end": 2590.68
     },
     {
       "text": "Camber: The curvature of the airfoil (upper and lower).",
-      "start": 2598.3,
-      "end": 2602.43
+      "start": 2591.18,
+      "end": 2595.3
     },
     {
       "text": "The mean camber line is equidistant from the upper and lower surfaces.",
-      "start": 2602.93,
-      "end": 2608.18
+      "start": 2595.8,
+      "end": 2601.05
     },
     {
       "text": "[See Figure 4-5: Typical airfoil section] #### Pressure Distribution: As air flows over the wing, there are regions of negative (low) pressure and positive (high) pressure.",
-      "start": 2608.18,
-      "end": 2621.08
+      "start": 2601.05,
+      "end": 2613.95
     },
     {
       "text": "Center of Pressure (CP): The average point of these pressure variations.",
-      "start": 2621.58,
-      "end": 2626.98
+      "start": 2614.45,
+      "end": 2619.85
     },
     {
       "text": "Aerodynamic force acts through the CP.",
-      "start": 2627.48,
-      "end": 2630.33
+      "start": 2620.35,
+      "end": 2623.2
     },
     {
       "text": "At high angles of attack , the CP moves forward .",
-      "start": 2630.33,
-      "end": 2634.0
+      "start": 2623.2,
+      "end": 2626.88
     },
     {
       "text": "At low angles of attack , the CP moves aft .",
-      "start": 2634.5,
-      "end": 2637.8
+      "start": 2627.38,
+      "end": 2630.68
     },
     {
       "text": "[See Figure 4-7: Pressure distribution on an airfoil] ### Tip Vortices (A Third Dimension) While most lift is produced by air flowing over the top/bottom, air also flows around the tip of the airfoil.",
-      "start": 2638.3,
-      "end": 2653.3
+      "start": 2631.18,
+      "end": 2646.18
     },
     {
       "text": "High-pressure air on the bottom pushes around the tip to the low-pressure area on top.",
-      "start": 2653.8,
-      "end": 2660.25
+      "start": 2646.68,
+      "end": 2653.13
     },
     {
       "text": "This creates a rotating flow called a tip vortex .",
-      "start": 2660.25,
-      "end": 2664.0
+      "start": 2653.13,
+      "end": 2656.88
     },
     {
       "text": "Tip vortices create downwash behind the wing, resulting in an overall reduction in lift and the creation of wake turbulence .",
-      "start": 2664.5,
-      "end": 2673.88
+      "start": 2657.38,
+      "end": 2666.75
     },
     {
       "text": "[See Figure 4-8: Tip vortex] # --- PHAK Chapter 5: Aerodynamics of Flight (Sport Pilot Filter) ## Forces Acting on the Aircraft Thrust, drag, lift, and weight are forces that act upon all aircraft in flight.",
-      "start": 2674.38,
-      "end": 2689.9
+      "start": 2667.25,
+      "end": 2682.78
     },
     {
       "text": "Understanding how these forces work and knowing how to control them with the use of power and flight controls are essential to flight.",
-      "start": 2690.4,
-      "end": 2700.45
+      "start": 2683.28,
+      "end": 2693.33
     },
     {
       "text": "The four forces acting on an aircraft in straight-and-level, unaccelerated flight are thrust, drag, lift, and weight.",
-      "start": 2700.45,
-      "end": 2709.23
+      "start": 2693.33,
+      "end": 2702.1
     },
     {
       "text": "They are defined as follows: Thrust \u2014the forward force produced by the powerplant/propeller or rotor.",
-      "start": 2709.23,
-      "end": 2716.8
+      "start": 2702.1,
+      "end": 2709.68
     },
     {
       "text": "It opposes or overcomes the force of drag.",
-      "start": 2716.8,
-      "end": 2719.95
+      "start": 2709.68,
+      "end": 2712.83
     },
     {
       "text": "As a general rule, it acts parallel to the longitudinal axis.",
-      "start": 2719.95,
-      "end": 2724.53
+      "start": 2712.83,
+      "end": 2717.4
     },
     {
       "text": "Drag \u2014a rearward, retarding force caused by disruption of airflow by the wing, rotor, fuselage, and other protruding objects.",
-      "start": 2724.53,
-      "end": 2733.9
+      "start": 2717.4,
+      "end": 2726.78
     },
     {
       "text": "As a general rule, drag opposes thrust and acts rearward parallel to the relative wind.",
-      "start": 2734.4,
-      "end": 2740.93
+      "start": 2727.28,
+      "end": 2733.8
     },
     {
       "text": "Lift \u2014is a force that is produced by the dynamic effect of the air acting on the airfoil, and acts perpendicular to the flight path through the center of lift (CL) and perpendicular to the lateral axis.",
-      "start": 2740.93,
-      "end": 2756.08
+      "start": 2733.8,
+      "end": 2748.95
     },
     {
       "text": "In level flight, lift opposes the downward force of weight.",
-      "start": 2756.58,
-      "end": 2761.0
+      "start": 2749.45,
+      "end": 2753.88
     },
     {
       "text": "Weight \u2014the combined load of the aircraft itself, the crew, the fuel, and the cargo or baggage.",
-      "start": 2761.0,
-      "end": 2768.13
+      "start": 2753.88,
+      "end": 2761.0
     },
     {
       "text": "Weight is a force that pulls the aircraft downward because of the force of gravity.",
-      "start": 2768.63,
-      "end": 2774.85
+      "start": 2761.5,
+      "end": 2767.73
     },
     {
       "text": "It opposes lift and acts vertically downward through the aircraft\u2019s center of gravity (CG).",
-      "start": 2774.85,
-      "end": 2781.68
+      "start": 2767.73,
+      "end": 2774.55
     },
     {
       "text": "In steady flight, the sum of these opposing forces is always zero.",
-      "start": 2781.68,
-      "end": 2786.63
+      "start": 2774.55,
+      "end": 2779.5
     },
     {
       "text": "There can be no unbalanced forces in steady, straight flight (Newton\u2019s Third Law).",
-      "start": 2787.13,
-      "end": 2793.28
+      "start": 2780.0,
+      "end": 2786.15
     },
     {
       "text": "This is true whether flying level or when climbing or descending.",
-      "start": 2793.28,
-      "end": 2798.15
+      "start": 2786.15,
+      "end": 2791.03
     },
     {
       "text": "Thrust and Drag: In steady flight, the sum of these opposing forces is equal to zero.",
-      "start": 2798.15,
-      "end": 2804.53
+      "start": 2791.03,
+      "end": 2797.4
     },
     {
       "text": "There can be no unbalanced forces in steady, straight flight.",
-      "start": 2804.53,
-      "end": 2809.1
+      "start": 2797.4,
+      "end": 2801.98
     },
     {
       "text": "Lift and Weight: In straight-and-level flight, lift equals weight.",
-      "start": 2809.1,
-      "end": 2814.05
+      "start": 2801.98,
+      "end": 2806.93
     },
     {
       "text": "[See Figure 5-1: Forces acting on an aircraft in flight] ### Thrust Thrust, or applied force, is the force which propels the aircraft through the air.",
-      "start": 2814.55,
-      "end": 2825.8
+      "start": 2807.43,
+      "end": 2818.68
     },
     {
       "text": "The engine produces thrust, which is the forward force.",
-      "start": 2826.3,
-      "end": 2830.43
+      "start": 2819.18,
+      "end": 2823.3
     },
     {
       "text": "### Drag Drag is the force that resists movement of an aircraft through the air.",
-      "start": 2830.43,
-      "end": 2836.43
+      "start": 2823.3,
+      "end": 2829.3
     },
     {
       "text": "There are two distinct types of drag: parasite drag and induced drag.",
-      "start": 2836.43,
-      "end": 2841.6
+      "start": 2829.3,
+      "end": 2834.48
     },
     {
       "text": "Parasite Drag: Parasite drag is comprised of all of the forces that work to slow an aircraft\u2019s movement.",
-      "start": 2841.6,
-      "end": 2849.4
+      "start": 2834.48,
+      "end": 2842.28
     },
     {
       "text": "As the term parasite implies, it is the drag that is not associated with the production of lift.",
-      "start": 2849.4,
-      "end": 2856.6
+      "start": 2842.28,
+      "end": 2849.48
     },
     {
       "text": "Parasite drag includes displacement of the air by the aircraft, turbulence generated in the airstream, or a hindrance of air moving over the surface of the aircraft and airfoil.",
-      "start": 2856.6,
-      "end": 2869.88
+      "start": 2849.48,
+      "end": 2862.75
     },
     {
       "text": "Form Drag: Form drag is the portion of parasite drag generated by the aircraft due to its shape and airflow around it.",
-      "start": 2869.88,
-      "end": 2878.73
+      "start": 2862.75,
+      "end": 2871.6
     },
     {
       "text": "Examples include the engine cowlings, antennas, and the aerodynamic shape of other components.",
-      "start": 2878.73,
-      "end": 2885.78
+      "start": 2871.6,
+      "end": 2878.65
     },
     {
       "text": "Interference Drag: Interference drag comes from the intersection of airstreams that creates eddy currents, turbulence, or restricts smooth airflow.",
-      "start": 2885.78,
-      "end": 2896.8
+      "start": 2878.65,
+      "end": 2889.68
     },
     {
-      "text": "For example, the intersection of the wing and the fyu-suh-laaj at the wing root.",
-      "start": 2897.3,
-      "end": 2903.3
+      "text": "For example, the intersection of the wing and the fuselage at the wing root.",
+      "start": 2890.18,
+      "end": 2895.88
     },
     {
       "text": "Skin Friction Drag: Skin friction drag is the aerodynamic resistance due to the contact of moving air with the surface of an aircraft.",
-      "start": 2903.3,
-      "end": 2913.35
+      "start": 2895.88,
+      "end": 2905.93
     },
     {
       "text": "Induced Drag: Induced drag is inherent whenever an airfoil is producing lift and, in fact, this type of drag is inseparable from the production of lift.",
-      "start": 2913.85,
-      "end": 2925.25
+      "start": 2906.43,
+      "end": 2917.83
     },
     {
       "text": "Consequently, it is always present if lift is produced.",
-      "start": 2925.75,
-      "end": 2929.88
+      "start": 2918.33,
+      "end": 2922.45
     },
     {
       "text": "The high pressure area beneath the wing joins the low pressure area above the wing at the trailing edge and at the wingtips.",
-      "start": 2929.88,
-      "end": 2939.18
+      "start": 2922.45,
+      "end": 2931.75
     },
     {
       "text": "This causes a vortex which trails behind the wingtips.",
-      "start": 2939.68,
-      "end": 2943.73
+      "start": 2932.25,
+      "end": 2936.3
     },
     {
       "text": "Whenever an airfoil is producing lift, the pressure on the lower surface of it is greater than that on the upper surface.",
-      "start": 2943.73,
-      "end": 2952.8
+      "start": 2936.3,
+      "end": 2945.38
     },
     {
       "text": "As a result, the air tends to flow from the high pressure area below the tip upward to the low pressure area on the upper surface.",
-      "start": 2952.8,
-      "end": 2962.55
+      "start": 2945.38,
+      "end": 2955.13
     },
     {
       "text": "[See Figure 5-5: Wingtip vortex from a crop duster] #### Lift/Drag Ratio: The lift-to-drag ratio (L/D) is the amount of lift generated by a wing or airfoil compared to its drag.",
-      "start": 2962.55,
-      "end": 2975.83
+      "start": 2955.13,
+      "end": 2968.4
     },
     {
       "text": "A ratio of L/D indicates airfoil efficiency.",
-      "start": 2975.83,
-      "end": 2979.13
+      "start": 2968.4,
+      "end": 2971.7
     },
     {
       "text": "Aircraft with higher L/D ratios are more efficient than those with lower L/D ratios.",
-      "start": 2979.13,
-      "end": 2985.43
+      "start": 2971.7,
+      "end": 2978.0
     },
     {
       "text": "### Weight Gravity is the pulling force that tends to draw all bodies to the center of the earth.",
-      "start": 2985.43,
-      "end": 2992.7
+      "start": 2978.0,
+      "end": 2985.28
     },
     {
       "text": "The CG may be considered as a point at which all the weight of the aircraft is concentrated.",
-      "start": 2992.7,
-      "end": 2999.6
+      "start": 2985.28,
+      "end": 2992.18
     },
     {
       "text": "If the aircraft were supported at its exact CG, it would balance in any attitude.",
-      "start": 2999.6,
-      "end": 3005.68
+      "start": 2992.18,
+      "end": 2998.25
     },
     {
       "text": "### Lift The pilot can control the lift.",
-      "start": 3005.68,
-      "end": 3008.68
+      "start": 2998.25,
+      "end": 3001.25
     },
     {
       "text": "Any time the control yoke or stick is moved fore or aft, the AOA is changed.",
-      "start": 3008.68,
-      "end": 3014.38
+      "start": 3001.25,
+      "end": 3006.95
     },
     {
       "text": "As the AOA increases, lift increases (all other factors being equal).",
-      "start": 3014.38,
-      "end": 3019.55
+      "start": 3006.95,
+      "end": 3012.13
     },
     {
       "text": "When the aircraft reaches the maximum AOA, lift begins to diminish rapidly.",
-      "start": 3019.55,
-      "end": 3025.18
+      "start": 3012.13,
+      "end": 3017.75
     },
     {
       "text": "This is the stalling AOA, known as CLMAX critical AOA.",
-      "start": 3025.18,
-      "end": 3029.23
+      "start": 3017.75,
+      "end": 3021.8
     },
     {
       "text": "[See Figure 5-8: Coefficients of lift and drag at various angles of attack] ## Wingtip Vortices The action of the airfoil that gives an aircraft lift also causes induced drag.",
-      "start": 3029.23,
-      "end": 3042.35
+      "start": 3021.8,
+      "end": 3034.93
     },
     {
       "text": "When an airfoil is flown at a positive AOA, a pressure differential exists between the upper and lower surfaces of the airfoil.",
-      "start": 3042.35,
-      "end": 3051.88
+      "start": 3034.93,
+      "end": 3044.45
     },
     {
       "text": "The pressure above the wing is less than atmospheric pressure and the pressure below the wing is equal to or greater than atmospheric pressure.",
-      "start": 3051.88,
-      "end": 3062.6
+      "start": 3044.45,
+      "end": 3055.18
     },
     {
-      "text": "Formation of Vortices Since air always moves from high pressure toward low pressure, and the path of least resistance is toward the airfoil\u2019s tips, there is a spanwise movement of air from the bottom of the airfoil outward from the fyu-suh-laaj around the tips.",
-      "start": 3062.6,
-      "end": 3082.18
+      "text": "Formation of Vortices Since air always moves from high pressure toward low pressure, and the path of least resistance is toward the airfoil\u2019s tips, there is a spanwise movement of air from the bottom of the airfoil outward from the fuselage around the tips.",
+      "start": 3055.18,
+      "end": 3074.45
     },
     {
       "text": "This flow of air results in \"spillage\" over the tips, thereby setting up a whirlpool of air called a \"vortex.\" [See Figure 5-9: Wingtip vortices] Wake Turbulence The intensity or strength of the vortices is directly proportional to the weight of the aircraft and inversely proportional to the speed.",
-      "start": 3082.18,
-      "end": 3104.6
+      "start": 3074.45,
+      "end": 3096.88
     },
     {
       "text": "The heavier and slower the aircraft, the greater the AOA and the stronger the wingtip vortices.",
-      "start": 3104.6,
-      "end": 3111.73
+      "start": 3096.88,
+      "end": 3104.0
     },
     {
       "text": "Thus, an aircraft will create wingtip vortices with maximum strength occurring during the takeoff, climb, and landing phases of flight.",
-      "start": 3111.73,
-      "end": 3121.85
+      "start": 3104.0,
+      "end": 3114.13
     },
     {
       "text": "Ground Effect: Ground effect is the increased lift (force) and decreased aerodynamic drag that an aircraft\u2019s wings generate when they are close to a fixed surface.",
-      "start": 3121.85,
-      "end": 3134.08
+      "start": 3114.13,
+      "end": 3126.35
     },
     {
       "text": "When an aircraft flies at a very low altitude, slightly above the surface, an effect called ground effect takes place.",
-      "start": 3134.08,
-      "end": 3142.93
+      "start": 3126.35,
+      "end": 3135.2
     },
     {
       "text": "Takeoff: Due to the reduced drag in ground effect, the aircraft may seem capable of takeoff well below the recommended speed.",
-      "start": 3142.93,
-      "end": 3152.3
+      "start": 3135.2,
+      "end": 3144.58
     },
     {
       "text": "However, as the aircraft rises out of ground effect with a deficiency of speed, the greater induced drag may result in very marginal climb performance, or the inability of the aircraft to fly at all.",
-      "start": 3152.3,
-      "end": 3167.23
+      "start": 3144.58,
+      "end": 3159.5
     },
     {
       "text": "Landing: As the aircraft nears the ground, lift is increased and the induced drag is decreased.",
-      "start": 3167.23,
-      "end": 3174.35
+      "start": 3159.5,
+      "end": 3166.63
     },
     {
       "text": "The aircraft will have a tendency to float down the runway.",
-      "start": 3174.85,
-      "end": 3179.28
+      "start": 3167.13,
+      "end": 3171.55
     },
     {
       "text": "[See Figure 5-11: Ground effect changes airflow] ## Axes of Flight The axes of flight are three imaginary lines passing through the center of gravity.",
-      "start": 3179.28,
-      "end": 3190.53
+      "start": 3171.55,
+      "end": 3182.8
     },
     {
       "text": "The axes can be considered as imaginary axles around which the aircraft turns.",
-      "start": 3191.03,
-      "end": 3196.88
+      "start": 3183.3,
+      "end": 3189.15
     },
     {
       "text": "Longitudinal Axis (Roll): The axis extending from the nose to the tail.",
-      "start": 3196.88,
-      "end": 3202.2
+      "start": 3189.15,
+      "end": 3194.48
     },
     {
       "text": "The motion about this axis is called \"roll.\" The pilot controls roll by using the ailerons.",
-      "start": 3202.2,
-      "end": 3209.03
+      "start": 3194.48,
+      "end": 3201.3
     },
     {
       "text": "Lateral Axis (Pitch): The axis extending from wingtip to wingtip.",
-      "start": 3209.03,
-      "end": 3213.9
+      "start": 3201.3,
+      "end": 3206.18
     },
     {
       "text": "The motion about this axis is called \"pitch.\" The pilot controls pitch by using the elevator.",
-      "start": 3214.4,
-      "end": 3221.38
+      "start": 3206.68,
+      "end": 3213.65
     },
     {
       "text": "Vertical Axis (Yaw): The axis passing vertically through the CG.",
-      "start": 3221.38,
-      "end": 3226.18
+      "start": 3213.65,
+      "end": 3218.45
     },
     {
       "text": "The motion about this axis is called \"yaw.\" The pilot controls yaw by using the rudder.",
-      "start": 3226.68,
-      "end": 3233.2
+      "start": 3218.95,
+      "end": 3225.48
     },
     {
       "text": "[See Figure 5-14: Motion about the axes] ## Stability Stability is the inherent quality of an aircraft to correct for conditions that may disturb its equilibrium and to return to or to continue on the original flight path.",
-      "start": 3233.2,
-      "end": 3249.85
+      "start": 3225.48,
+      "end": 3242.13
     },
     {
       "text": "#### Static Stability Static stability refers to the initial tendency, or direction of movement, back to equilibrium.",
-      "start": 3250.35,
-      "end": 3259.13
+      "start": 3242.63,
+      "end": 3251.4
     },
     {
       "text": "Positive Static Stability: The initial tendency of the aircraft to return to the original state of equilibrium after being disturbed.",
-      "start": 3259.13,
-      "end": 3269.1
+      "start": 3251.4,
+      "end": 3261.38
     },
     {
       "text": "Neutral Static Stability: The initial tendency of the aircraft to remain in a new condition after its equilibrium has been disturbed.",
-      "start": 3269.1,
-      "end": 3279.08
+      "start": 3261.38,
+      "end": 3271.35
     },
     {
       "text": "Negative Static Stability: The initial tendency of the aircraft to continue away from the original state of equilibrium after being disturbed.",
-      "start": 3279.58,
-      "end": 3290.23
+      "start": 3271.85,
+      "end": 3282.5
     },
     {
       "text": "Dynamic Stability Dynamic stability refers to the aircraft response over time when disturbed from a given pitch, yaw, or bank.",
-      "start": 3290.73,
-      "end": 3300.18
+      "start": 3283.0,
+      "end": 3292.45
     },
     {
       "text": "Positive Dynamic Stability: Over time, the motion of the displaced object decreases in amplitude and, because it is positive, the object displaced returns toward the equilibrium state.",
-      "start": 3300.68,
-      "end": 3314.48
+      "start": 3292.95,
+      "end": 3306.75
     },
     {
       "text": "[See Figure 5-17: Dynamic stability] #### Longitudinal Stability (Pitching) Longitudinal stability is the quality that makes an aircraft stable about its lateral axis.",
-      "start": 3314.48,
-      "end": 3327.0
+      "start": 3306.75,
+      "end": 3319.28
     },
     {
       "text": "It involves the pitching motion as the aircraft\u2019s nose moves up and down in flight.",
-      "start": 3327.5,
-      "end": 3333.73
+      "start": 3319.78,
+      "end": 3326.0
     },
     {
       "text": "The location of the center of gravity (CG) with respect to the center of lift (CL) determines the longitudinal stability of an aircraft.",
-      "start": 3333.73,
-      "end": 3343.93
+      "start": 3326.0,
+      "end": 3336.2
     },
     {
       "text": "CG Forward of CL: Most aircraft are designed so that the wing\u2019s CL is to the rear of the CG.",
-      "start": 3343.93,
-      "end": 3350.83
+      "start": 3336.2,
+      "end": 3343.1
     },
     {
       "text": "This makes the aircraft \"nose heavy\" and requires that there be a slight downward force on the horizontal stabilizer in order to balance the aircraft and keep the nose from continually pitching downward.",
-      "start": 3350.83,
-      "end": 3366.05
+      "start": 3343.1,
+      "end": 3358.33
     },
     {
       "text": "Tail Down Force: This downwash strikes the top of the horizontal stabilizer and produces a downward pressure, which, when added to the exhaust stream, helps to counterbalance the nose-down tendency.",
-      "start": 3366.05,
-      "end": 3380.9
+      "start": 3358.33,
+      "end": 3373.18
     },
     {
       "text": "#### Lateral Stability (Rolling) Stability about the aircraft\u2019s longitudinal axis, which extends from the nose of the aircraft to its tail, is called lateral stability.",
-      "start": 3381.4,
-      "end": 3394.0
+      "start": 3373.68,
+      "end": 3386.28
     },
     {
       "text": "This helps to stabilize the lateral or \"rolling effect\" when one wing gets lower than the other wing.",
-      "start": 3394.5,
-      "end": 3402.08
+      "start": 3386.78,
+      "end": 3394.35
     },
     {
       "text": "Dihedral: The most common procedure for producing lateral stability is to build the wings with an angle of one to three degrees above perpendicular to the longitudinal axis.",
-      "start": 3402.08,
-      "end": 3415.05
+      "start": 3394.35,
+      "end": 3407.33
     },
     {
-      "text": "The wings on either side of the aircraft join the fyu-suh-laaj to form a slight V or angle called \"dihedral.\"  #### Directional Stability (Yawing) Stability about the aircraft\u2019s vertical axis (the sideways moment) is called yawing or directional stability.",
-      "start": 3415.05,
-      "end": 3434.25
+      "text": "The wings on either side of the aircraft join the fuselage to form a slight V or angle called \"dihedral.\"  #### Directional Stability (Yawing) Stability about the aircraft\u2019s vertical axis (the sideways moment) is called yawing or directional stability.",
+      "start": 3407.33,
+      "end": 3426.23
     },
     {
-      "text": "The area of the vertical fin and the sides of the fyu-suh-laaj aft of the CG are the prime contributors which make the aircraft act like the weathervane of a ship, pointing the nose in the relative wind.",
-      "start": 3434.75,
-      "end": 3449.98
+      "text": "The area of the vertical fin and the sides of the fuselage aft of the CG are the prime contributors which make the aircraft act like the weathervane of a ship, pointing the nose in the relative wind.",
+      "start": 3426.73,
+      "end": 3441.65
     },
     {
       "text": "## Turning Flight In a turn, the lift of the wing is not acting directly upward but is acting at an angle.",
-      "start": 3449.98,
-      "end": 3457.93
+      "start": 3441.65,
+      "end": 3449.6
     },
     {
       "text": "The lift is divided into two components: one acting vertically to oppose weight, and another acting horizontally to pull the aircraft into the turn.",
-      "start": 3457.93,
-      "end": 3469.03
+      "start": 3449.6,
+      "end": 3460.7
     },
     {
       "text": "This horizontal component is called centripetal force.",
-      "start": 3469.03,
-      "end": 3473.08
+      "start": 3460.7,
+      "end": 3464.75
     },
     {
-      "text": "#### Adverse Yaw When an aircraft is banking into a turn, the ay-luh-ron on the outside of the turn is lowered.",
-      "start": 3473.08,
-      "end": 3481.4
+      "text": "#### Adverse Yaw When an aircraft is banking into a turn, the aileron on the outside of the turn is lowered.",
+      "start": 3464.75,
+      "end": 3472.85
     },
     {
       "text": "This increases the angle of attack and lift on that wing, but also increases induced drag.",
-      "start": 3481.4,
-      "end": 3488.15
+      "start": 3472.85,
+      "end": 3479.6
     },
     {
       "text": "The increase in drag on the raised wing pulls the nose of the aircraft away from the direction of the turn.",
-      "start": 3488.15,
-      "end": 3496.18
+      "start": 3479.6,
+      "end": 3487.63
     },
     {
       "text": "This is called adverse yaw.",
-      "start": 3496.18,
-      "end": 3498.2
+      "start": 3487.63,
+      "end": 3489.65
     },
     {
       "text": "#### Load Factors in Turns When an aircraft is banked, the total lift must be increased to maintain altitude.",
-      "start": 3498.2,
-      "end": 3506.38
+      "start": 3489.65,
+      "end": 3497.83
     },
     {
       "text": "The load factor is the ratio of the total lift to the weight of the aircraft.",
-      "start": 3506.38,
-      "end": 3512.15
+      "start": 3497.83,
+      "end": 3503.6
     },
     {
       "text": "As the angle of bank increases, the load factor increases.",
-      "start": 3512.15,
-      "end": 3516.5
+      "start": 3503.6,
+      "end": 3507.95
     },
     {
       "text": "At a 60\u00b0 bank, the load factor is 2 Gs .",
-      "start": 3516.5,
-      "end": 3519.5
+      "start": 3507.95,
+      "end": 3510.95
     },
     {
       "text": "This means the wings must support twice the weight of the aircraft.",
-      "start": 3519.5,
-      "end": 3524.53
+      "start": 3510.95,
+      "end": 3515.98
     },
     {
       "text": "[See Figure 5-32: Increase in load factor with bank] ## Stalls A stall is a rapid decrease in lift caused by the separation of airflow from the wing\u2019s surface brought on by exceeding the critical angle of attack.",
-      "start": 3524.53,
-      "end": 3540.43
+      "start": 3515.98,
+      "end": 3531.88
     },
     {
       "text": "Critical Angle of Attack: A stall can occur at any pitch attitude or airspeed.",
-      "start": 3540.93,
-      "end": 3546.78
+      "start": 3532.38,
+      "end": 3538.23
     },
     {
       "text": "The one constant in every stall is that the critical angle of attack is exceeded.",
-      "start": 3546.78,
-      "end": 3552.85
+      "start": 3538.23,
+      "end": 3544.3
     },
     {
       "text": "Stall Speed: As the weight of the aircraft increases, the stall speed increases.",
-      "start": 3552.85,
-      "end": 3558.85
+      "start": 3544.3,
+      "end": 3550.3
     },
     {
       "text": "Snow, ice, or frost on the wing surface can also cause the wing to stall at a lower AOA and higher airspeed.",
-      "start": 3559.35,
-      "end": 3567.45
+      "start": 3550.8,
+      "end": 3558.9
     },
     {
       "text": "[See Figure 5-34: Airflow separation during a stall] ### Spins A spin is an aggravated stall that results in what is termed \"autorotation\" wherein the aircraft follows a downward corkscrew path.",
-      "start": 3567.45,
-      "end": 3582.0
+      "start": 3558.9,
+      "end": 3573.45
     },
     {
       "text": "A spin occurs when the aircraft is stalled and uncoordinated.",
-      "start": 3582.5,
-      "end": 3587.08
+      "start": 3573.95,
+      "end": 3578.53
     },
     {
-      "text": "Primary Cause: The primary cause of an inadvertent spin is exceeding the critical angle of attack while applying excessive or insufficient rudder, and to a lesser extent, ay-luh-ron.",
-      "start": 3587.08,
-      "end": 3600.73
+      "text": "Primary Cause: The primary cause of an inadvertent spin is exceeding the critical angle of attack while applying excessive or insufficient rudder, and to a lesser extent, aileron.",
+      "start": 3578.53,
+      "end": 3591.95
     },
     {
       "text": "Recovery: A pilot must first break the stall before full recovery can be made.",
-      "start": 3600.73,
-      "end": 3606.58
+      "start": 3591.95,
+      "end": 3597.8
     }
   ]
 }
