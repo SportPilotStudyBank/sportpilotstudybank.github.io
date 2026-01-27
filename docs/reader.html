@@ -5,130 +5,93 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Audiobook Reader</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f8f9fa; color: #333; }
-        
-        /* Controls Area */
-        .controls {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            margin-bottom: 20px;
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-        }
-
-        select { padding: 10px; font-size: 16px; border-radius: 4px; border: 1px solid #ccc; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; background: #f4f4f9; }
+        .controls { background: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        select { padding: 8px; font-size: 16px; width: 100%; margin-bottom: 10px; }
         audio { width: 100%; }
-
-        /* Text Display */
-        #content-display {
-            background: white;
-            padding: 40px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-            font-size: 1.25rem;
-            line-height: 1.8;
-            min-height: 200px;
-        }
-
-        .word {
-            cursor: pointer;
-            padding: 2px 0;
-            border-radius: 3px;
-            transition: background 0.1s;
-        }
-        
-        .word:hover { background-color: #eee; }
-
-        .highlight {
-            background-color: #fff176; /* Yellow highlight */
-            color: #000;
-            font-weight: 500;
-        }
+        #content-display { background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); font-size: 1.25rem; color: #333; }
+        .sentence { cursor: pointer; padding: 2px 4px; border-radius: 4px; transition: background 0.1s; margin-right: 2px; }
+        .sentence:hover { background-color: #e0e0e0; }
+        .highlight { background-color: #fff176; color: black; }
     </style>
 </head>
 <body>
 
     <div class="controls">
-        <label for="chapter-select"><strong>Select Section:</strong></label>
+        <label><strong>Select Section:</strong></label>
         <select id="chapter-select" onchange="loadChapter(this.value)">
             <option value="Ch01-Ch05">Chapters 01 - 05</option>
             <option value="Ch06-Ch11">Chapters 06 - 11</option>
             <option value="Ch12-Ch17">Chapters 12 - 17</option>
         </select>
-
-        <audio id="audio-player" controls>
-            Your browser does not support audio.
-        </audio>
+        <audio id="audio-player" controls></audio>
     </div>
 
     <div id="content-display">Select a chapter to begin...</div>
 
     <script>
-        const audioPlayer = document.getElementById('audio-player');
-        const contentDisplay = document.getElementById('content-display');
-        let wordData = [];
+        const display = document.getElementById('content-display');
+        const player = document.getElementById('audio-player');
+        let sentenceData = [];
 
-        // 1. Load Data
         async function loadChapter(baseName) {
-            contentDisplay.innerHTML = "<p>Loading text and audio...</p>";
-            
+            display.innerHTML = "<p>Loading...</p>";
             try {
-                // Fetch JSON from the 'audio' subdirectory
-                const response = await fetch(`audio/${baseName}.json`);
-                if (!response.ok) throw new Error("File not found");
+                // Add a timestamp to the URL to force the browser to get the NEWEST version
+                // This prevents it from loading the old broken file from cache
+                const timestamp = new Date().getTime();
+                const res = await fetch(`audio/${baseName}.json?t=${timestamp}`);
                 
-                const data = await response.json();
-                wordData = data.words;
+                if (!res.ok) throw new Error("File not found");
+                
+                const data = await res.json();
+                
+                // SAFETY CHECK: Handle both old 'words' and new 'sentences' formats
+                if (data.sentences) {
+                    sentenceData = data.sentences;
+                } else if (data.words) {
+                    // Fallback for old files so it doesn't crash
+                    sentenceData = data.words.map(w => ({ text: w.word, start: w.start, end: w.end }));
+                } else {
+                    sentenceData = []; // Prevent crash
+                }
 
-                // Update Audio Source
-                audioPlayer.src = `audio/${data.metadata.audio_file}`;
-                
-                // Render Text
-                renderText();
-                
-            } catch (e) {
-                contentDisplay.innerHTML = `<p style="color:red">Error loading chapter: ${e.message}<br>Has the Github Action finished running yet?</p>`;
+                if (sentenceData.length === 0) {
+                    display.innerHTML = "<p>Data file loaded, but it is empty. Please wait for GitHub Action to finish building.</p>";
+                    return;
+                }
+
+                player.src = `audio/${data.metadata.audio_file}`;
+
+                // Render
+                display.innerHTML = sentenceData.map((s, i) => 
+                    `<span id="s${i}" class="sentence" onclick="seek(${s.start})">${s.text}</span>`
+                ).join(' '); 
+
+            } catch (err) {
+                console.error(err);
+                display.innerHTML = `<p style="color:red">Error: ${err.message}</p>`;
             }
         }
 
-        // 2. Render Text
-        function renderText() {
-            contentDisplay.innerHTML = wordData.map((w, index) => {
-                return `<span id="word-${index}" class="word" onclick="seekAudio(${w.start})">${w.word}</span>`;
-            }).join(' '); 
-        }
-
-        // 3. Sync Logic
-        audioPlayer.addEventListener('timeupdate', () => {
-            const currentTime = audioPlayer.currentTime;
+        player.addEventListener('timeupdate', () => {
+            const t = player.currentTime;
+            const idx = sentenceData.findIndex(s => t >= s.start && t <= s.end);
             
-            // Remove old highlight
-            const current = document.querySelector('.highlight');
-            if (current) current.classList.remove('highlight');
+            document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
 
-            // Find new word
-            const activeWordIndex = wordData.findIndex(w => currentTime >= w.start && currentTime <= w.end);
-
-            if (activeWordIndex !== -1) {
-                const el = document.getElementById(`word-${activeWordIndex}`);
+            if (idx !== -1) {
+                const el = document.getElementById(`s${idx}`);
                 if (el) {
                     el.classList.add('highlight');
-                    // Auto-scroll logic (optional)
-                    // const box = contentDisplay.getBoundingClientRect();
-                    // if (el.getBoundingClientRect().top > box.bottom - 100) el.scrollIntoView({behavior: "smooth", block: "center"});
+                    el.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
                 }
             }
         });
 
-        window.seekAudio = (time) => {
-            audioPlayer.currentTime = time;
-            audioPlayer.play();
-        };
+        window.seek = (t) => { player.currentTime = t; player.play(); };
 
-        // Initialize with first chapter
+        // Load default
         loadChapter("Ch01-Ch05");
     </script>
 </body>
