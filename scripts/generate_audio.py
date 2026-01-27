@@ -5,12 +5,15 @@ import re
 import markdown
 from bs4 import BeautifulSoup
 import edge_tts
+from xml.sax.saxutils import escape  # <--- NEW IMPORT
 
 # --- CONFIGURATION ---
 INPUT_FOLDER = "docs"
 OUTPUT_FOLDER = "docs/audio"
 VOICE = "en-US-AriaNeural"
-SEC_PER_CHAR = 0.075
+
+# SPEED CONTROL: 0.075 matched your preference
+SEC_PER_CHAR = 0.075 
 
 # --- PRONUNCIATION MAP ---
 PRONUNCIATION_MAP = {
@@ -38,29 +41,36 @@ PAUSE_ITEM = 0.6
 async def generate_chapter(text, output_base):
     mp3_path = f"{output_base}.mp3"
     
-    # 1. Generate Audio (with SSML pauses)
-    ssml_text = text.replace("||SECTION_PAUSE||", f'<break time="{int(PAUSE_SECTION*1000)}ms"/>')
-    ssml_text = ssml_text.replace("||ITEM_PAUSE||", f'<break time="{int(PAUSE_ITEM*1000)}ms"/>')
-    ssml_text = f"<speak version='1.0' xml:lang='en-US'>{ssml_text}</speak>"
+    # 1. SANITIZE TEXT (CRITICAL FIX)
+    # This prevents "&" or "<" from breaking the SSML tags
+    safe_text = escape(text)
     
-    communicate = edge_tts.Communicate(ssml_text, VOICE)
+    # 2. Inject SSML Tags into the safe text
+    ssml_text = safe_text.replace("||SECTION_PAUSE||", f'<break time="{int(PAUSE_SECTION*1000)}ms"/>')
+    ssml_text = ssml_text.replace("||ITEM_PAUSE||", f'<break time="{int(PAUSE_ITEM*1000)}ms"/>')
+    
+    # 3. Wrap in proper SSML header
+    final_ssml = f"<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xml:lang='en-US'>{ssml_text}</speak>"
+    
+    communicate = edge_tts.Communicate(final_ssml, VOICE)
     await communicate.save(mp3_path)
     
-    # 2. Generate Sentence Timestamps
+    # 4. Generate Sentence Timestamps (Using the original text for calculation)
     sentences_data = []
     current_time = 0.0
     
-    # Split text into sentences using Regex
-    # Looks for punctuation (.!?) followed by space or end of string
+    # Remove the tokens for the visual calculation so they don't count as words
+    # But keep the time delay logic
+    
     raw_sentences = re.split(r'(?<=[.!?])\s+', text)
     
     for s in raw_sentences:
-        if not s.strip(): continue # Skip empty lines
+        if not s.strip(): continue
 
-        # Detect and handle pauses inside this sentence block
         pause_add = 0.0
         clean_s = s
         
+        # Calculate Pause Time
         if "||SECTION_PAUSE||" in s:
             pause_add += PAUSE_SECTION
             clean_s = clean_s.replace("||SECTION_PAUSE||", "").strip()
@@ -69,9 +79,8 @@ async def generate_chapter(text, output_base):
             pause_add += PAUSE_ITEM
             clean_s = clean_s.replace("||ITEM_PAUSE||", "").strip()
             
-        if not clean_s: continue # If it was just a pause token, skip adding text
+        if not clean_s: continue 
             
-        # Estimate duration of the sentence
         duration = len(clean_s) * SEC_PER_CHAR
         
         sentences_data.append({
@@ -80,7 +89,6 @@ async def generate_chapter(text, output_base):
             "end": round(current_time + duration, 2)
         })
         
-        # Advance time (Speech duration + Pause duration)
         current_time += duration + pause_add
 
     return sentences_data
@@ -121,7 +129,7 @@ async def main():
         
         data = {
             "metadata": {"title": base_name, "audio_file": f"{base_name}.mp3"},
-            "sentences": sentences  # Changed from 'words' to 'sentences'
+            "sentences": sentences
         }
         
         with open(f"{output_base}.json", 'w', encoding='utf-8') as f:
