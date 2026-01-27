@@ -11,7 +11,7 @@ INPUT_FOLDER = "docs"
 OUTPUT_FOLDER = "docs/audio"
 VOICE = "en-US-AriaNeural"
 
-# SPEED CONTROL (0.075 = Slower highlighting)
+# SPEED CONTROL (0.075 = Matches Aria's speaking rate)
 SEC_PER_CHAR = 0.075 
 
 # --- PRONUNCIATION MAP ---
@@ -31,32 +31,31 @@ PRONUNCIATION_MAP = {
     "ICAO": "eye-kay-oh", "LSA": "L-S-A",
     "VFR": "V-F-R", "IFR": "I-F-R", "AGL": "A-G-L", "MSL": "M-S-L",
     "IMSAFE": "im-safe",
-    "Weight & Balance": "Weight and Balance" # Fix ampersand
+    "Weight & Balance": "Weight and Balance"
 }
 
-# Visual Pause Durations (We simulate these in the math)
+# Visual Pauses (We simulate the time, but use natural pauses for audio)
 PAUSE_SECTION = 1.0
 PAUSE_ITEM = 0.5
 
 async def generate_chapter(text, output_base):
     mp3_path = f"{output_base}.mp3"
     
-    # 1. TEXT PREPARATION (The Low-Tech Pause)
-    # Instead of XML code, we use punctuation.
-    # ||SECTION_PAUSE|| -> " ... " (AI waits)
+    # --- AUDIO GENERATION (The "Plain Text" Fix) ---
+    # We strip all "tokens" and replace them with simple punctuation.
+    # The AI treats ". " as a natural pause. It cannot read code because there is no code.
     audio_text = text.replace("||SECTION_PAUSE||", ". ")
     audio_text = audio_text.replace("||ITEM_PAUSE||", ". ")
     
-    # 2. GENERATE AUDIO (Clean Text Mode)
-    # We send plain text. The AI cannot "read the code" because there is no code.
+    # Send purely plain text
     communicate = edge_tts.Communicate(audio_text, VOICE)
     await communicate.save(mp3_path)
     
-    # 3. GENERATE TIMESTAMPS
+    # --- VISUAL GENERATION (The Math) ---
     sentences_data = []
     current_time = 0.0
     
-    # We split based on the Original text so we can find the pause tokens
+    # We use the ORIGINAL 'text' (with tokens) to calculate the visual timing
     raw_sentences = re.split(r'(?<=[.!?])\s+', text)
     
     for s in raw_sentences:
@@ -65,7 +64,7 @@ async def generate_chapter(text, output_base):
         pause_add = 0.0
         clean_s = s
         
-        # Calculate visual delay
+        # Detect tokens, add time to the CLOCK, but remove text from the SCREEN
         if "||SECTION_PAUSE||" in s:
             pause_add += PAUSE_SECTION
             clean_s = clean_s.replace("||SECTION_PAUSE||", "").strip()
@@ -92,6 +91,7 @@ def clean_markdown(md_text):
     html = markdown.markdown(md_text)
     soup = BeautifulSoup(html, "html.parser")
     
+    # Inject tokens into headers and lists
     for header in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5']):
         header.append(" ||SECTION_PAUSE|| ")
     for li in soup.find_all('li'):
